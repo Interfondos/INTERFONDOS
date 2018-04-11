@@ -1,0 +1,16 @@
+.primaryBackground {
+    background-color: rgb(0,165,66);
+}
+
+.primaryColor {
+    color: rgb(0,165,66);
+}
+.icon-interbank {
+    width: 5.9%;
+}
+.header-style {
+    font-size: 1.25rem;
+}
+.d-inline-block {
+    display: inline-block;
+}
