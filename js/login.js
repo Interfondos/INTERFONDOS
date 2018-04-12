@@ -45,7 +45,7 @@ $(document).ready(function() {
         if (users.CU === $dni.val() && users.CU === $password.val()) {
           console.log(users.Cliente);
           validateUser = true;
-          $(location).attr('href', 'views/home.html');
+          $(location).attr('href', 'home.html');
         }
       });
   });

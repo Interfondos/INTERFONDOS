@@ -1,0 +1,167 @@
+{
+  "codigos_fondos": [
+    {
+      "Fondo": "IF Mixto Balanceado FMIV",
+      "INVESTOR": "0001"
+    },
+    {
+      "Fondo": "IF Mediano Plazo FMIV",
+      "INVESTOR": "0002"
+    },
+    {
+      "Fondo": "IF Cash FMIV",
+      "INVESTOR": "0003"
+    },
+    {
+      "Fondo": "IF Mediano Plazo Soles FMIV",
+      "INVESTOR": "0004"
+    },
+    {
+      "Fondo": "IF Acciones FMIV",
+      "INVESTOR": "0010"
+    },
+    {
+      "Fondo": "IF Mixto Balanceado Soles FMIV",
+      "INVESTOR": "0011"
+    },
+    {
+      "Fondo": "IF Mixto Moderado Soles FMIV",
+      "INVESTOR": "0012"
+    },
+    {
+      "Fondo": "IF Cash Soles FMIV",
+      "INVESTOR": "0013"
+    },
+    {
+      "Fondo": "IF Extra Conservador Soles FMIV",
+      "INVESTOR": "0014"
+    },
+    {
+      "Fondo": "IF Extra Conservador FMIV",
+      "INVESTOR": "0015"
+    },
+    {
+      "Fondo": "IF Oportunidad Soles FMIV",
+      "INVESTOR": "0016"
+    },
+    {
+      "Fondo": "IF Oportunidad FMIV",
+      "INVESTOR": "0017"
+    },
+    {
+      "Fondo": "IF Inversion Global FMIV",
+      "INVESTOR": "0020"
+    },
+    {
+      "Fondo": "IF Libre Disponibilidad Soles FMIV",
+      "INVESTOR": "0022"
+    },
+    {
+      "Fondo": "IF Libre Disponibilidad FMIV",
+      "INVESTOR": "0024"
+    },
+    {
+      "Fondo": "IF VI Custodia ",
+      "INVESTOR": "0038"
+    },
+    {
+      "Fondo": "IF III Capital 360",
+      "INVESTOR": "0039"
+    },
+    {
+      "Fondo": "IF VII Custodia",
+      "INVESTOR": "0041"
+    },
+    {
+      "Fondo": "IF Opcion Estrat Dolares",
+      "INVESTOR": "0042"
+    },
+    {
+      "Fondo": "IF Opcion Estrat Soles",
+      "INVESTOR": "0043"
+    },
+    {
+      "Fondo": "IF VIII Custodia",
+      "INVESTOR": "0044"
+    },
+    {
+      "Fondo": "IF II Opcion Estrat Dolares",
+      "INVESTOR": "0045"
+    },
+    {
+      "Fondo": "IF II Opcion Estrat Soles",
+      "INVESTOR": "0046"
+    },
+    {
+      "Fondo": "IF IV Capital 360",
+      "INVESTOR": "0047"
+    },
+    {
+      "Fondo": "IF IX Custodia",
+      "INVESTOR": "0048"
+    },
+    {
+      "Fondo": "IF III Opcion Estrat Soles",
+      "INVESTOR": "0049"
+    },
+    {
+      "Fondo": "IF Cupon",
+      "INVESTOR": "0050"
+    },
+    {
+      "Fondo": "IF X Custodia",
+      "INVESTOR": "0051"
+    },
+    {
+      "Fondo": "IF IV Opcion Estrat Soles",
+      "INVESTOR": "0052"
+    },
+    {
+      "Fondo": "IF III Opcion Estrat Dolares",
+      "INVESTOR": "0053"
+    },
+    {
+      "Fondo": "IF XI Custodia",
+      "INVESTOR": "0054"
+    },
+    {
+      "Fondo": "IF Portafolio Dinamico",
+      "INVESTOR": "0055"
+    },
+    {
+      "Fondo": "IF XII Custodia",
+      "INVESTOR": "0057"
+    },
+    {
+      "Fondo": "IF Cupon Global",
+      "INVESTOR": "0058"
+    },
+    {
+      "Fondo": "IF FDI CP LATAM I",
+      "INVESTOR": "0084"
+    },
+    {
+      "Fondo": "IF FDI CP LATAM II",
+      "INVESTOR": "0085"
+    },
+    {
+      "Fondo": "IF FDI CP LATAM IV",
+      "INVESTOR": "0087"
+    },
+    {
+      "Fondo": "IF FDI CP LATAM III",
+      "INVESTOR": "0088"
+    },
+    {
+      "Fondo": "IF XIII Custodia",
+      "INVESTOR": "0059"
+    },
+    {
+      "Fondo": "IF IV Opcion Estrat Dolares",
+      "INVESTOR": "0060"
+    },
+    {
+      "Fondo": ""
+    }
+  ]
+}
