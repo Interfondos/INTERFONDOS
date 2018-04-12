@@ -59,4 +59,32 @@ $(document).ready(function() {
      }
      $('#saldoSoles').append(total.toFixed(2));
     });
+
+    firebase.database().ref('fondos')
+    .on('child_added', function(u) {
+      var users = u.val(); 
+      console.log(users[0].CODIGO_UNI);
+      for (var i = 0; i < users.length; i++) {
+        if (users[i].CODIGO_UNI === dni) {
+          var cuenta = users[i].FONDO; 
+          // fondo_user = users[i].FONDO;
+          $('#contract').append(`
+          
+          <div class="border-item border-item1 col m12 s10 offset-s1">
+          <div class="col m2">
+            <img class="color-item1" src="../assets/images/imagen2.png" width="40" alt="">
+          </div>
+          <div class= "col m9">
+            <h6>${cuenta}</h6>
+            <p>A047883</p>
+            <p class="cost">S/. 1623.30</p>
+            <p>Saldo a la fecha</p>
+          </div>
+        </div>`);     
+        }
+      }      
+      console.log(arrayFondosUser);
+    });
+
+
 });
