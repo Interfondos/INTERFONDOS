@@ -27,3 +27,12 @@
 .home .cost{
   font-weight: 700;
 }
+.tabs .tab a:hover, .tabs .tab a.active {
+  color: #00a542;
+}
+.tabs .tab a{
+  color:#00a542;
+}
+.tabs .indicator{
+  background-color:#00a542;
+}
