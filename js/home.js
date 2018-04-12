@@ -6,12 +6,11 @@ function drawChart() {
     ['IFB Libre Disponibilidad Soles', 10],
     ['IF Extra conservador', 6],
     ['IF Extra Conervador', 8],
-       
   ]);
 
   var options = {
     title: 'Tienes 3 fondos soles distribuidos de la siguiente manera:',
-    pieHole: 0.6,
+    pieHole: 0.4,
     colors: ['#0d8cff', '#2ec8ff', '#21ebbe'],
   };
 
