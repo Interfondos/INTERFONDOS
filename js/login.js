@@ -8,6 +8,7 @@ $(document).ready(function() {
 
   var validateDni = false;
   var validatePassword = false;
+  var validateUser = false;
 
   /* Validación de boton activado/desactivado */
   function activeBtn() {
@@ -40,11 +41,11 @@ $(document).ready(function() {
       .on('child_added', function(s) {
         var users = s.val();
         /* console.log(users.CU); */
-        if (users.CU == $dni.val() && users.CU == $password.val()) {
+        if (users.CU === $dni.val() && users.CU === $password.val()) {
           console.log(users.Cliente);
+          validateUser = true;
+          $(location).attr('href', 'views/home.html');
         }
-        else
-          alert('Usuario incorrecto');
       });
   });
 });
