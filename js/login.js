@@ -35,6 +35,7 @@ $(document).ready(function() {
       desactiveBtn();
   });
 
+
   /* Logeo con Firebase */
   $btnLogin.click(function() {
     firebase.database().ref('users')
