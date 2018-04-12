@@ -79,16 +79,16 @@ var validateChecked = false;
 // Aqui indicar que se puede implementar la función como variable
 function activeButton() {
   if (validateKeyone && validatekeytwo && validateChecked) {
-    $('.btn-register').attr('disabled', false);
+    $('#btn-register').removeClass('disabled');
   }
 }
 
 function desactiveButton() {
-  $('.btn-register').attr('disabled', 'disabled');
+  $('#btn-register').addClass('disabled');
 } 
 
 
-$keyone.on('input', function(event) {
+$keyone.on('keyup', function(event) {
   console.log($(this).val());
   if ($(this).val().length > 5 && $(this).val().length < 17 ) {
     validateKeyone = true;
@@ -98,9 +98,10 @@ $keyone.on('input', function(event) {
   }
 });
 
-$keytwo.on('input', function() {
+$keytwo.on('keyup', function() {
   console.log($(this).val());
   if ($(this).val() === $keyone.val()) {
+    console.log($keyone.val());
     validatekeytwo = true;
     activeButton(); 
   } else {
