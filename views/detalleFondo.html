@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Interfondos</title>
+  <!-- Compiled and minified CSS -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/css/materialize.min.css">
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <!-- CSS Personalizado -->
+  <link rel="stylesheet" href="../css/detalleFondo.css">
+</head>
+<body class="bg-plomo">
+    <nav class="bg-color-interfondo ">
+      <div class="nav-wrapper">
+        <a href="#!" class="brand-logo">Interfondos</a>
+        <a href="#" data-activates="mobile-demo" class="button-collapse"><i class="material-icons">menu</i></a>
+        <ul class="right hide-on-med-and-down">
+          <li><a href="sass.html">Sass</a></li>
+          <li><a href="badges.html">Components</a></li>
+          <li><a href="collapsible.html">Javascript</a></li>
+          <li><a href="mobile.html">Mobile</a></li>
+        </ul>
+        <ul class="side-nav" id="mobile-demo">
+          <li><a href="sass.html">Sass</a></li>
+          <li><a href="badges.html">Components</a></li>
+          <li><a href="collapsible.html">Javascript</a></li>
+          <li><a href="mobile.html">Mobile</a></li>
+        </ul>
+      </div>
+    </nav> 
+  <div class="container">
+    <div class="row">
+      <h5 class="valign-wrapper"><a href="home.html"> <i class="medium material-icons">chevron_left</i></a>Detalle del fondo</h5>
+    </div>
+    <div class="row">
+      <div class="col s12 m6">
+        <div class="card">
+          <div class="card-content">
+            <div class="row">
+              <div class="col s8">
+                <p>IF Libre Disponibilidad Soles</p>
+                <span>AQ47883</span>
+              </div>
+              <div class="col s4">
+                <p class="right-align">S/. 2435.04</p>
+                <span class="right-align">Saldo a la fecha</span>
+              </div>  
+            </div>
+            <div class="col s12 line"></div>
+            <div class="row">
+              <div class="col s8">
+                <p>Cuotas:</p>
+              </div>
+              <div class="col s4">
+                <p class="right-align">8.5369</p>
+              </div>  
+            </div>
+            <div class="col s12 line"></div>
+            <div class="row">
+              <div class="col s8">
+                <p>Valor cuota:</p>
+              </div>
+              <div class="col s4">
+                <p class="right-align">240.2113</p>
+              </div>  
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col s12">
+        <ul class="tabs">
+          <li class="tab col s3"><a class="active"  href="#test1">Rentabilidad</a></li>
+          <li class="tab col s3"><a href="#test2">Movimientos</a></li>
+        </ul>
+      </div>
+      <div id="test1" class="col s12">
+        <div class="card">
+          <div class="card-content">
+            <div class="row">
+              <div class="col s6">
+                <p>Desde el inicio</p>
+                <p>Último mes<span>(Enero 2018)</span></p> 
+              </div>
+              <div class="col s6">
+                <p class="right-align">S/. +35.41<span class="porcentaje">+2.08%</span></p>
+                <p class="right-align">s/. +77.43 <span class="porcentaje">+3.18%</span> </p>
+              </div>  
+            </div>
+          </div>
+        </div>
+      </div>
+      <div id="test2" class="col s12">Test 2</div>
+    </div> 
+  </div>
+  <!-- Jquery -->
+  <script src="http://code.jquery.com/jquery-3.3.1.min.js"></script>
+  <!-- Compiled and minified JavaScript -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/js/materialize.min.js"></script>
+  <!--Firebase-->
+  <script src="https://www.gstatic.com/firebasejs/4.12.1/firebase.js"></script>
+  <!-- Conexión con Firebase -->
+  <script src="../js/conexion.js"></script>
+  <!--Login JS personalizado-->
+  <script src="../js/detalleFondo.js"></script>
+</body>
+</html>
