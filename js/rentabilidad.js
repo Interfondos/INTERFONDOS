@@ -21,7 +21,7 @@ $(document).ready(function() {
       var users = s.val();
       for (var i=0; i<users.length;i++) {
         if (users[i].CODIGO_UNI === dni) {
-          console.log(users[i].CODIGO_UNI)
+          
         }
       }
       
