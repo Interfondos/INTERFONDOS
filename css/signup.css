@@ -10,11 +10,15 @@
     color: rgb(0,165,66);
 }
 
-.icon-interbank {
+header.signup  {
+    padding: 0.5rem;
+}
+
+.signup img {
     width: 5.9%;
 }
 
-.header-style {
+.signup p {
     font-size: 1.25rem;
 }
 
@@ -34,10 +38,10 @@
     margin-top: 1rem;
 }
 
-.mt-1-5 {
+.main-style {
     margin-top: 1.5rem;
+    margin: 1.5rem 0.5rem 0;
 }
-
 
 .color-text {
     color: rgb(95,95,95);
@@ -46,4 +50,5 @@
 .letter-singup {
     font-weight: bold;
     text-transform: capitalize;
+    font-size: 1.5rem;
 }
