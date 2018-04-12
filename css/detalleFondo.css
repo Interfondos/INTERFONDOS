@@ -48,9 +48,39 @@
   will-change: left, right;
 }
 
-.porcentaje {
+.porcentajeGreen {
   padding: 4px;
   margin-left: 7px;
   border-radius: 5px;
   background-color: #c8f795;
+  color: #417505;
+}
+
+.porcentajeRed {
+  padding: 4px;
+  margin-left: 7px;
+  border-radius: 5px;
+  background-color: #c8f795;
+  color: #417505;
+}
+
+.colorGreen {
+  color: #009b3a;
+}
+
+.flex {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.flex-row {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.detail .btn-add:active, .detail .btn-add:hover{
+  background-color: #00a542 !important;
 }
