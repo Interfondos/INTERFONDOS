@@ -87,6 +87,11 @@ function begin() {
   $('#btn-previous-code').on('click', function () {
     $('#btn-previous-code').attr('href', 'signupcodevalidate.html');
   });
+
+  $('#previous-login').on('click', function () {
+    $('#previous-login').attr('href', 'login.html');
+  });
+  
 };
 
 $(document).ready(begin);
