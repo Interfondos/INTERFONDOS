@@ -36,3 +36,10 @@
 .tabs .indicator{
   background-color:#00a542;
 }
+@media only screen and (min-width: 992px) {
+  
+  .home {
+      width:90%;
+      margin:auto;
+  }
+}
