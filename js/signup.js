@@ -67,4 +67,60 @@ function begin() {
   });
 };
 
+/* *************  validate signup password **** */
+var $keyone = $('#keyone');
+var $keytwo = $('#keytwo');
+var $checked = $('.checkbox');
+
+var validateKeyone = false;
+var validatekeytwo = false; 
+var validateChecked = false;  
+
+// Aqui indicar que se puede implementar la función como variable
+function activeButton() {
+  if (validateKeyone && validatekeytwo && validateChecked) {
+    $('.btn-register').attr('disabled', false);
+  }
+}
+
+function desactiveButton() {
+  $('.btn-register').attr('disabled', 'disabled');
+} 
+
+
+$keyone.on('input', function(event) {
+  console.log($(this).val());
+  if ($(this).val().length > 5 && $(this).val().length < 17 ) {
+    validateKeyone = true;
+    activeButton(); 
+  } else {
+    desactiveButton();
+  }
+});
+
+$keytwo.on('input', function() {
+  console.log($(this).val());
+  if ($(this).val() === $keyone.val()) {
+    validatekeytwo = true;
+    activeButton(); 
+  } else {
+    desactiveButton(); 
+  }
+});
+
+$checked.on('click', function(event) {
+  if (event.target.checked) {
+  //   alert('entre');
+    validateChecked = true;
+    activeButton();
+  } else {
+    desactiveButton();
+  }
+});
+
+$('.btn-register').on('click', function(event) {
+  event.preventDefault();
+  window.location.href = 'success.html';
+});
+
 $(document).ready(begin);
