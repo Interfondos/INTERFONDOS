@@ -50,3 +50,6 @@ header.signup  {
     text-transform: capitalize;
     font-size: 1.5rem;
 }
+.margin-s {
+    margin-top: 30vh;
+}
