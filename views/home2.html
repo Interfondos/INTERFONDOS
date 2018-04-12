@@ -4,7 +4,7 @@
 <head>
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
   <!-- Compiled and minified CSS -->
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/css/materialize.min.css">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
@@ -13,11 +13,12 @@
 </head>
 
 <body>
+  <!-- ******navbar******** -->
   <nav>
-    <div class="home">
-      <div class="nav-wrapper">
-        <a href="#" class="brand-logo center">Interfondos</a>
-      </div>
+    <div class="nav-wrapper green1">
+      <a href="" class="brand-logo">
+        <img class="logo" src="../assets/images/logo.png" alt="">
+      </a>
       <a href="#" data-activates="mobile-demo" class="button-collapse">
         <i class="material-icons">menu</i>
       </a>
@@ -58,21 +59,11 @@
       </ul>
     </div>
   </nav>
-  <!--
-  <main class="container home">
-    <div class="row">
-      <div class="col s12">
-          <h5>Tus fondos</h5>
-          <p>Tienes fondos distribuidos de la siguiente manera:</p>
-      </div>
-    </div>
-  </main>
--->
   <main class="home col s12">
-    <div class="padding z-depth-2 margin">
+      <div class = "padding z-depth-2 margin">
       <h5>Tus fondos</h5>
       <p>Tienes fondos distribuidos de la siguiente manera:</p>
-
+    
       <ul id="tabs-swipe-demo" class="tabs">
         <li class="tab col s3">
           <a class="active" href="#test-swipe-1">Soles</a>
@@ -81,7 +72,8 @@
           <a href="#test-swipe-2">Dólares</a>
         </li>
       </ul>
-      <div id="test-swipe-1" class="soles col s12">
+      <!-- *******soles  *********** -->
+      <div id="test-swipe-1" class="col s12">
         <div>
           <h5>Resumen</h5>
           <div>
@@ -90,8 +82,8 @@
           </div>
           <div>
             <p>Rentabilidad desde el inicio</p>
-            <span id="rentabilidad">S/. </span>
-            <span id="porcentajeRentabilidad"> %</span>
+            <span>S/. </span>
+            <span> %</span>
           </div>
           <div>
             <a class="waves-effect waves-light btn white black-text">
@@ -99,7 +91,8 @@
           </div>
         </div>
       </div>
-      <div id="test-swipe-2" class="dolares col s12">
+      <!-- **********dólares *********** -->
+      <div id="test-swipe-2" class="col s12">
         <div>
           <h5>Resumen</h5>
           <div>
@@ -108,78 +101,49 @@
           </div>
           <div>
             <p>Rentabilidad desde el inicio</p>
-            <span id="rentabilidad">S/. </span>
-            <span id="porcentajeRentabilidad"> %</span>
+            <span>$ </span>
+            <span> %</span>
           </div>
           <div>
-            <a class="waves-effect waves-light btn white black-text">
-              <i class="material-icons right"></i>ver por mes</a>
-          </div>
+              <a class="waves-effect waves-light btn white black-text">
+                <i class="material-icons right"></i>ver por mes</a>
+            </div>
         </div>
       </div>
     </div>
-    <div class="chart col s12 z-depth-2 margin padding">
-      <div id="donutchart" ></div>
+    <!--chart-->
+    <div class="col s12 z-depth-2 margin padding">
+      <div id="donutchart" style="width: 350px; height:300px;"></div>
     </div>
-    <div class="row fondos">
-      <div class="col s12 m5 z-depth-2 margin padding">
-        <div class="border-item col m12">
-          <div class="col m2">
-            <img src="../assets/images/imagen2.png" width="40" alt="">
-          </div>
-          <div class= "col m9">
-            <h6>IF Libre Disponibilidad de Soles</h6>
-            <p>A047883</p>
-            <p class="cost">S/. 1623.30</p>
-            <p>Saldo a la fecha</p>
-          </div>
-        </div>
-        <div class="border-item col m12">
-          <div class="col m2">
-            <img src="../assets/images/imagen2.png" width="40" alt="">
-          </div>
-          <div class="col m9">
-            <h6>IF Libre Disponibilidad de Soles</h6>
-            <p>A047883</p>
-            <p class="cost">S/. 1623.30</p>
-            <p>Saldo a la fecha</p>
-          </div>
-        </div>
-        <div class="border-item col m12">
-          <div class="col m2">
-            <img src="../assets/images/imagen2.png" width="40" alt="">
-          </div>
-          <div class= "col m9">
-            <h6>IF Libre Disponibilidad de Soles</h6>
-            <p>A047883</p>
-            <p class="cost">S/. 1623.30</p>
-            <p>Saldo a la fecha</p>
-          </div>
-        </div>
+    <!-- fondos -->
+    <div class="col s12 z-depth-2 margin padding">
+      <div class="border-item">
+        <img src="" alt="">
+        <h6>IF Libre Disponibilidad de Soles</h6>
+        <p>A047883</p>
+        <p class="cost">S/. 1623.30</p>
+        <p>Saldo a la fecha</p>
       </div>
-      <div class="col s12 m6 margin padding lavander">
-        <div class="white z-depth-1">
-          <div class="col s2 m2">
-            <img src="../assets/images/imagen2.png" width="40" alt="">
-          </div>
-          <div class="col m10">
-            <p>IF Libre Disponibilidad de Soles</p>
-            <span class="cost rigth">S/. 1623.30</span>
-          </div>
-        </div>
-        <div class="white box">
-          <h6>Rentabilidad</h6>
-           <span>Dese el inicio</span>
-           <span>S/.</span>
-
-        </div>
+      <div class="border-item">
+        <img src="" alt="">
+        <h6>IF Libre Disponibilidad de Soles</h6>
+        <p>A047883</p>
+        <p class="cost">S/. 1623.30</p>
+        <p>Saldo a la fecha</p>
+      </div>
+      <div class="border-item">
+        <img src="" alt="">
+        <h6>IF Libre Disponibilidad de Soles</h6>
+        <p>A047883</p>
+        <p class="cost">S/. 1623.30</p>
+        <p>Saldo a la fecha</p>
       </div>
     </div>
     <p class="col s12">
-      <a class="waves-effect waves-light btn green1 right">
-        <i class="material-icons right">chat</i>
-        <span>¡chatea con nosotros!</span>
-      </a>
+        <a class="waves-effect waves-light btn green1 right">
+            <i class="material-icons right">chat</i>
+            <span>¡chatea con nosotros!</span>
+        </a>
     </p>
   </main>
 
@@ -188,10 +152,7 @@
   <!-- Compiled and minified JavaScript -->
   <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/js/materialize.min.js"></script>
   <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
-  <!--Firebase-->
-  <script src="https://www.gstatic.com/firebasejs/4.12.1/firebase.js"></script>
-  <script src="../js/conexion.js"></script>
-  <script src="../js/rentabilidad.js"></script>
+  <script src="../js/home.js"></script>
 </body>
 
 </html>
