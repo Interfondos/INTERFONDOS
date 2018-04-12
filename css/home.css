@@ -66,7 +66,7 @@
   line-height: 25px;
   height: 25px;
 }
-#test-swipe-1 h5 {
+#test-swipe-1 h5, #test-swipe-2 h5{
   font-size: 14px;
   font-weight: bold;
   font-style: normal;
@@ -75,9 +75,30 @@
   letter-spacing: normal;
   text-align: left;
   color: #4a4a4a;
+  padding: 0.2rem 1.5rem;
 }
 .summary-box {
   box-sizing: border-box;
+}
+.btn-more {
+  text-transform: lowercase;
+  border: 1px solid #dddddd;
+  margin-bottom: 0.5rem;
+  padding: 0 0.5rem !important;
+  line-height: 1.5rem;
+  height: 1.5rem;
+}
+.border-bottom {
+  border-bottom: solid 1px #dddddd;
+}
+.border-radius {
+  border-radius: 0.5rem;
+}
+.bold {
+  font-weight: bold;
+}
+.m-0 {
+  margin: 0 !important;
 }
 .green1 {
   background-color: #00a542;
@@ -141,7 +162,7 @@ nav {
   margin: 0.4rem 0.1rem;
 }
 #donutchart {
-  width: 200px;
+  width: 100%;
 }
 
 @media only screen and (min-width: 992px) {
