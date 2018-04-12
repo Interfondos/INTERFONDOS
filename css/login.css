@@ -9,6 +9,11 @@
   font-weight: bold;
   font-size: 24px;
 }
+.login .logo {
+  width: 30px;
+  margin: 0 5px;
+}
+
 .login .color-main {
   color: #00a542;
 }
@@ -44,4 +49,5 @@
     border-radius: 5px;
     padding: 0 20px;
   }
+  
 }
