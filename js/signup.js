@@ -1,5 +1,27 @@
 function begin() {
+  var $dni = $('#id-number');
+  var random = Math.floor(Math.random() * (9999 - 1000)) + 1000;
+ 
+  $dni.on('input', function() {
+    $('#nextRegistry').attr('disabled', true)
+    firebase.database().ref('users')
+      .on('child_added', function(s) {
+        var users = s.val();
+        /* console.log(users.CU); */
+        if (users.CU === $dni.val()) {
+          activeDni = true;
+          console.log(users.CU);
+          $('#nextRegistry').attr('disabled', false);
+        }
+        
+    });
+  });
 
+  $('#nextRegistry').click(function() {
+    alert(random);
+    localStorage = random;
+    
+  });
   function numberIdValid() {
     $('#id-number').keyup(function () {
       var idNumber = $('#id-number').val().length;
@@ -10,7 +32,7 @@ function begin() {
       }
     });
   }
-
+  
   function radio() {
     $('.with-gap').click(function () {
       if ($('input[name="group1"]').is(':checked') && ($('#id-number').val().length === 10)) {
