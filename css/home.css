@@ -18,6 +18,12 @@
   border-radius: 5px;
   border: solid 2px #2ec8ff;
   padding: 0.5rem;
-  line-height: normal;
+  line-height: 1;
   margin:2px 0;
+}
+.home h6{
+  font-weight: 700;
+}
+.home .cost{
+  font-weight: 700;
 }
