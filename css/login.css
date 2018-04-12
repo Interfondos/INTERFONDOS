@@ -16,6 +16,9 @@
 .login .color-main {
   color: #00a542;
 }
+.login footer {
+  margin-top: 70px;
+}
 .view-mobile {
   display: block;
 }

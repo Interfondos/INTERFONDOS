@@ -34,7 +34,7 @@
         <div class="row">
             <div class="col s9 offset-s2">
                 <div class="col s8">
-                    <input placeholder="Número de DNI" id="first_name" type="text">
+                    <input placeholder="Número de DNI" id="dni" type="text">
                 </div>
                 <select class="col s4 browser-default col">
                     <option value="1" selected>DNI</option>
@@ -54,7 +54,7 @@
                 </p>
             </form>
         </div>
-            <a class="waves-effect waves-light btn primaryBackground">siguiente</a>
+            <a id="nextRegistry" disabled class="waves-effect waves-light btn primaryBackground">siguiente</a>
     </main>
     <!--=====================FOOTER====================-->
     <footer class="page-footer N/A transparent">
@@ -76,6 +76,10 @@
     <script src="http://code.jquery.com/jquery-3.3.1.min.js"></script>
     <!-- Compiled and minified JavaScript -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/js/materialize.min.js"></script>
+    <!--Firebase-->
+    <script src="https://www.gstatic.com/firebasejs/4.12.1/firebase.js"></script>
+    <!-- Conexión con Firebase -->
+    <script src="../js/conexion.js"></script>
     <script src="../js/singup.js"></script>
 </body>
 
