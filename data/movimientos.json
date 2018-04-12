@@ -1,0 +1,4767 @@
+{
+	"movimientos":[
+		{
+			"CODIGO_UNI": "0010885473",
+			"CONTRATO": "D032007",
+			"FECHA": "43165",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "EFEC",
+			"MONTO": "14660.02"
+		},
+		{
+			"CODIGO_UNI": "0010885473",
+			"CONTRATO": "A032007",
+			"FECHA": "42920",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "EFEC",
+			"MONTO": "3000"
+		},
+		{
+			"CODIGO_UNI": "0010885473",
+			"CONTRATO": "A032007",
+			"FECHA": "43012",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "EFEC",
+			"MONTO": "763.85"
+		},
+		{
+			"CODIGO_UNI": "0010885473",
+			"CONTRATO": "A032007",
+			"FECHA": "43165",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "EFEC",
+			"MONTO": "16500"
+		},
+		{
+			"CODIGO_UNI": "0009587231",
+			"CONTRATO": "7464554",
+			"FECHA": "43167",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "110"
+		},
+		{
+			"CODIGO_UNI": "0009587231",
+			"CONTRATO": "7464554",
+			"FECHA": "43168",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "450"
+		},
+		{
+			"CODIGO_UNI": "0009587231",
+			"CONTRATO": "7464554",
+			"FECHA": "43171",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "390"
+		},
+		{
+			"CODIGO_UNI": "0009587231",
+			"CONTRATO": "7464554",
+			"FECHA": "43172",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "250"
+		},
+		{
+			"CODIGO_UNI": "0009587231",
+			"CONTRATO": "7464554",
+			"FECHA": "43172",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "150"
+		},
+		{
+			"CODIGO_UNI": "0009587231",
+			"CONTRATO": "7464554",
+			"FECHA": "43173",
+			"TIPO_MOV": "Res",
+			"TIPO_TRANSF": "ABON",
+			"MONTO": "-500.26"
+		},
+		{
+			"CODIGO_UNI": "0009587231",
+			"CONTRATO": "7464554",
+			"FECHA": "43179",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "263"
+		},
+		{
+			"CODIGO_UNI": "0009587231",
+			"CONTRATO": "7464554",
+			"FECHA": "43180",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "EFEC",
+			"MONTO": "500"
+		},
+		{
+			"CODIGO_UNI": "0009587231",
+			"CONTRATO": "7464554",
+			"FECHA": "43181",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "297"
+		},
+		{
+			"CODIGO_UNI": "0009587231",
+			"CONTRATO": "7464554",
+			"FECHA": "43185",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "460"
+		},
+		{
+			"CODIGO_UNI": "0009587231",
+			"CONTRATO": "7464554",
+			"FECHA": "43187",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "EFEC",
+			"MONTO": "500"
+		},
+		{
+			"CODIGO_UNI": "0009587231",
+			"CONTRATO": "7464554",
+			"FECHA": "43187",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "222"
+		},
+		{
+			"CODIGO_UNI": "0009587231",
+			"CONTRATO": "7464554",
+			"FECHA": "43192",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "EFEC",
+			"MONTO": "1000"
+		},
+		{
+			"CODIGO_UNI": "0009587231",
+			"CONTRATO": "7464554",
+			"FECHA": "43193",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "186"
+		},
+		{
+			"CODIGO_UNI": "0008968358",
+			"CONTRATO": "7045926",
+			"FECHA": "43193",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "500"
+		},
+		{
+			"CODIGO_UNI": "0008968358",
+			"CONTRATO": "7045926",
+			"FECHA": "43193",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "EFEC",
+			"MONTO": "500"
+		},
+		{
+			"CODIGO_UNI": "0008968358",
+			"CONTRATO": "7045926",
+			"FECHA": "43193",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "1005"
+		},
+		{
+			"CODIGO_UNI": "0008968358",
+			"CONTRATO": "7045926",
+			"FECHA": "43193",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "EFEC",
+			"MONTO": "1000"
+		},
+		{
+			"CODIGO_UNI": "0008968358",
+			"CONTRATO": "7045926",
+			"FECHA": "43194",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "EFEC",
+			"MONTO": "650"
+		},
+		{
+			"CODIGO_UNI": "0008968358",
+			"CONTRATO": "7045926",
+			"FECHA": "43194",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "EFEC",
+			"MONTO": "590"
+		},
+		{
+			"CODIGO_UNI": "0008968358",
+			"CONTRATO": "7045926",
+			"FECHA": "43194",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "30000"
+		},
+		{
+			"CODIGO_UNI": "0008968358",
+			"CONTRATO": "7045926",
+			"FECHA": "43194",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "EFEC",
+			"MONTO": "20280"
+		},
+		{
+			"CODIGO_UNI": "0008968358",
+			"CONTRATO": "7045926",
+			"FECHA": "43194",
+			"TIPO_MOV": "Res",
+			"TIPO_TRANSF": "EFEC",
+			"MONTO": "-510"
+		},
+		{
+			"CODIGO_UNI": "0008968358",
+			"CONTRATO": "7045926",
+			"FECHA": "43195",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "EFEC",
+			"MONTO": "606"
+		},
+		{
+			"CODIGO_UNI": "0008968358",
+			"CONTRATO": "7045926",
+			"FECHA": "43196",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "EFEC",
+			"MONTO": "500"
+		},
+		{
+			"CODIGO_UNI": "0008968358",
+			"CONTRATO": "7045926",
+			"FECHA": "43196",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "EFEC",
+			"MONTO": "600"
+		},
+		{
+			"CODIGO_UNI": "0008968358",
+			"CONTRATO": "7045926",
+			"FECHA": "43194",
+			"TIPO_MOV": "SUS",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "30000"
+		},
+		{
+			"CODIGO_UNI": "0008968358",
+			"CONTRATO": "7045926",
+			"FECHA": "43194",
+			"TIPO_MOV": "SUS",
+			"TIPO_TRANSF": "EFEC",
+			"MONTO": "20280"
+		},
+		{
+			"CODIGO_UNI": "0008968358",
+			"CONTRATO": "7045926",
+			"FECHA": "43194",
+			"TIPO_MOV": "RES",
+			"TIPO_TRANSF": "EFEC",
+			"MONTO": "-510"
+		},
+		{
+			"CODIGO_UNI": "0008968358",
+			"CONTRATO": "7045926",
+			"FECHA": "43195",
+			"TIPO_MOV": "SUS",
+			"TIPO_TRANSF": "EFEC",
+			"MONTO": "606"
+		},
+		{
+			"CODIGO_UNI": "0008968358",
+			"CONTRATO": "7045926",
+			"FECHA": "43196",
+			"TIPO_MOV": "SUS",
+			"TIPO_TRANSF": "EFEC",
+			"MONTO": "500"
+		},
+		{
+			"CODIGO_UNI": "0008968358",
+			"CONTRATO": "7045926",
+			"FECHA": "43196",
+			"TIPO_MOV": "SUS",
+			"TIPO_TRANSF": "EFEC",
+			"MONTO": "600"
+		},
+		{
+			"CODIGO_UNI": "0008968358",
+			"CONTRATO": "7045926",
+			"FECHA": "43196",
+			"TIPO_MOV": "Res",
+			"TIPO_TRANSF": "CHGE",
+			"MONTO": "-2090.0300000000002"
+		},
+		{
+			"CODIGO_UNI": "0011165757",
+			"CONTRATO": "A052812",
+			"FECHA": "43122",
+			"TIPO_MOV": "SUS",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "14859"
+		},
+		{
+			"CODIGO_UNI": "0011165757",
+			"CONTRATO": "A052812",
+			"FECHA": "43140",
+			"TIPO_MOV": "RES",
+			"TIPO_TRANSF": "ABON",
+			"MONTO": "-5230"
+		},
+		{
+			"CODIGO_UNI": "0011165757",
+			"CONTRATO": "A052812",
+			"FECHA": "43146",
+			"TIPO_MOV": "RES",
+			"TIPO_TRANSF": "ABON",
+			"MONTO": "-1200"
+		},
+		{
+			"CODIGO_UNI": "0011165757",
+			"CONTRATO": "A052812",
+			"FECHA": "43158",
+			"TIPO_MOV": "RES",
+			"TIPO_TRANSF": "ABON",
+			"MONTO": "-100"
+		},
+		{
+			"CODIGO_UNI": "0011165757",
+			"CONTRATO": "A052812",
+			"FECHA": "43168",
+			"TIPO_MOV": "RES",
+			"TIPO_TRANSF": "ABON",
+			"MONTO": "-7485.1"
+		},
+		{
+			"CODIGO_UNI": "0011165757",
+			"CONTRATO": "A052812",
+			"FECHA": "43181",
+			"TIPO_MOV": "SUS",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "2000"
+		},
+		{
+			"CODIGO_UNI": "0011165757",
+			"CONTRATO": "8148076",
+			"FECHA": "42997",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "250"
+		},
+		{
+			"CODIGO_UNI": "0011165757",
+			"CONTRATO": "8148076",
+			"FECHA": "43021",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "250"
+		},
+		{
+			"CODIGO_UNI": "0011165757",
+			"CONTRATO": "8148076",
+			"FECHA": "43031",
+			"TIPO_MOV": "Res",
+			"TIPO_TRANSF": "ABON",
+			"MONTO": "-800.77"
+		},
+		{
+			"CODIGO_UNI": "0011165757",
+			"CONTRATO": "8148076",
+			"FECHA": "43041",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "300"
+		},
+		{
+			"CODIGO_UNI": "0011165757",
+			"CONTRATO": "8148076",
+			"FECHA": "43054",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "170"
+		},
+		{
+			"CODIGO_UNI": "0011165757",
+			"CONTRATO": "8148076",
+			"FECHA": "43084",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "300"
+		},
+		{
+			"CODIGO_UNI": "0011165757",
+			"CONTRATO": "8148076",
+			"FECHA": "43108",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "600"
+		},
+		{
+			"CODIGO_UNI": "0011165757",
+			"CONTRATO": "8148076",
+			"FECHA": "43110",
+			"TIPO_MOV": "Res",
+			"TIPO_TRANSF": "ABON",
+			"MONTO": "-540.55999999999995"
+		},
+		{
+			"CODIGO_UNI": "0011165757",
+			"CONTRATO": "8148076",
+			"FECHA": "43115",
+			"TIPO_MOV": "Res",
+			"TIPO_TRANSF": "ABON",
+			"MONTO": "-640.78"
+		},
+		{
+			"CODIGO_UNI": "0011165757",
+			"CONTRATO": "8148076",
+			"FECHA": "43116",
+			"TIPO_MOV": "Res",
+			"TIPO_TRANSF": "ABON",
+			"MONTO": "-861.04"
+		},
+		{
+			"CODIGO_UNI": "0011165757",
+			"CONTRATO": "8148076",
+			"FECHA": "43118",
+			"TIPO_MOV": "Res",
+			"TIPO_TRANSF": "ABON",
+			"MONTO": "-240.32"
+		},
+		{
+			"CODIGO_UNI": "0011165757",
+			"CONTRATO": "8148076",
+			"FECHA": "43119",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "300"
+		},
+		{
+			"CODIGO_UNI": "0011165757",
+			"CONTRATO": "8148076",
+			"FECHA": "43122",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "600"
+		},
+		{
+			"CODIGO_UNI": "0011165757",
+			"CONTRATO": "8395440",
+			"FECHA": "43110",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "5000"
+		},
+		{
+			"CODIGO_UNI": "0011165757",
+			"CONTRATO": "8395440",
+			"FECHA": "43112",
+			"TIPO_MOV": "Res",
+			"TIPO_TRANSF": "ABON",
+			"MONTO": "-230.18"
+		},
+		{
+			"CODIGO_UNI": "0011165757",
+			"CONTRATO": "8395440",
+			"FECHA": "43116",
+			"TIPO_MOV": "Res",
+			"TIPO_TRANSF": "ABON",
+			"MONTO": "-200.16"
+		},
+		{
+			"CODIGO_UNI": "0011165757",
+			"CONTRATO": "8395440",
+			"FECHA": "43118",
+			"TIPO_MOV": "Res",
+			"TIPO_TRANSF": "ABON",
+			"MONTO": "-9707.7099999999991"
+		},
+		{
+			"CODIGO_UNI": "0011165757",
+			"CONTRATO": "8395440",
+			"FECHA": "43125",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "44500"
+		},
+		{
+			"CODIGO_UNI": "0011165757",
+			"CONTRATO": "8395440",
+			"FECHA": "43158",
+			"TIPO_MOV": "Res",
+			"TIPO_TRANSF": "ABON",
+			"MONTO": "-2000.52"
+		},
+		{
+			"CODIGO_UNI": "0011165757",
+			"CONTRATO": "8395440",
+			"FECHA": "43168",
+			"TIPO_MOV": "Res",
+			"TIPO_TRANSF": "ABON",
+			"MONTO": "-200.07"
+		},
+		{
+			"CODIGO_UNI": "0009486607",
+			"CONTRATO": "7184354",
+			"FECHA": "42998",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "1000"
+		},
+		{
+			"CODIGO_UNI": "0009486607",
+			"CONTRATO": "7184354",
+			"FECHA": "43008",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "1000"
+		},
+		{
+			"CODIGO_UNI": "0009486607",
+			"CONTRATO": "7184354",
+			"FECHA": "43025",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "1000"
+		},
+		{
+			"CODIGO_UNI": "0009486607",
+			"CONTRATO": "7184354",
+			"FECHA": "43035",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "1000"
+		},
+		{
+			"CODIGO_UNI": "0009486607",
+			"CONTRATO": "7184354",
+			"FECHA": "43052",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "1000"
+		},
+		{
+			"CODIGO_UNI": "0009486607",
+			"CONTRATO": "7184354",
+			"FECHA": "43072",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "1000"
+		},
+		{
+			"CODIGO_UNI": "0009486607",
+			"CONTRATO": "7184354",
+			"FECHA": "43083",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "4000"
+		},
+		{
+			"CODIGO_UNI": "0009486607",
+			"CONTRATO": "7184354",
+			"FECHA": "43097",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "1000"
+		},
+		{
+			"CODIGO_UNI": "0009486607",
+			"CONTRATO": "7184354",
+			"FECHA": "43102",
+			"TIPO_MOV": "Res",
+			"TIPO_TRANSF": "ABON",
+			"MONTO": "-11004.74"
+		},
+		{
+			"CODIGO_UNI": "0009486607",
+			"CONTRATO": "7184354",
+			"FECHA": "43112",
+			"TIPO_MOV": "Res",
+			"TIPO_TRANSF": "ABON",
+			"MONTO": "-16328.03"
+		},
+		{
+			"CODIGO_UNI": "0009486607",
+			"CONTRATO": "7184354",
+			"FECHA": "43146",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "3500"
+		},
+		{
+			"CODIGO_UNI": "0009486607",
+			"CONTRATO": "7184354",
+			"FECHA": "43161",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "1000"
+		},
+		{
+			"CODIGO_UNI": "0009486607",
+			"CONTRATO": "7184354",
+			"FECHA": "43172",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "1000"
+		},
+		{
+			"CODIGO_UNI": "0009486607",
+			"CONTRATO": "7184354",
+			"FECHA": "43181",
+			"TIPO_MOV": "Res",
+			"TIPO_TRANSF": "ABON",
+			"MONTO": "-5509.28"
+		},
+		{
+			"CODIGO_UNI": "0009486607",
+			"CONTRATO": "7184354",
+			"FECHA": "43192",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "6500"
+		},
+		{
+			"CODIGO_UNI": "0009486607",
+			"CONTRATO": "8411021",
+			"FECHA": "43130",
+			"TIPO_MOV": "Res",
+			"TIPO_TRANSF": "ABON",
+			"MONTO": "-1500.22"
+		},
+		{
+			"CODIGO_UNI": "0009486607",
+			"CONTRATO": "8411021",
+			"FECHA": "43146",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "900"
+		},
+		{
+			"CODIGO_UNI": "0009486607",
+			"CONTRATO": "8411021",
+			"FECHA": "43159",
+			"TIPO_MOV": "Res",
+			"TIPO_TRANSF": "ABON",
+			"MONTO": "-1500.19"
+		},
+		{
+			"CODIGO_UNI": "0009486607",
+			"CONTRATO": "8411021",
+			"FECHA": "43163",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "600"
+		},
+		{
+			"CODIGO_UNI": "0009486607",
+			"CONTRATO": "8411021",
+			"FECHA": "43172",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "1000"
+		},
+		{
+			"CODIGO_UNI": "0009486607",
+			"CONTRATO": "8411021",
+			"FECHA": "43181",
+			"TIPO_MOV": "Res",
+			"TIPO_TRANSF": "ABON",
+			"MONTO": "-200.01"
+		},
+		{
+			"CODIGO_UNI": "0009486607",
+			"CONTRATO": "8411021",
+			"FECHA": "43192",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "500"
+		},
+		{
+			"CODIGO_UNI": "0009486607",
+			"CONTRATO": "8411021",
+			"FECHA": "43195",
+			"TIPO_MOV": "Res",
+			"TIPO_TRANSF": "ABON",
+			"MONTO": "-4934.3100000000004"
+		},
+		{
+			"CODIGO_UNI": "0009486607",
+			"CONTRATO": "8411021",
+			"FECHA": "43196",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "7600"
+		},
+		{
+			"CODIGO_UNI": "0011027921",
+			"CONTRATO": "7156820",
+			"FECHA": "42982",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "2000"
+		},
+		{
+			"CODIGO_UNI": "0011027921",
+			"CONTRATO": "7156820",
+			"FECHA": "42993",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "1050"
+		},
+		{
+			"CODIGO_UNI": "0011027921",
+			"CONTRATO": "7156820",
+			"FECHA": "43006",
+			"TIPO_MOV": "Res",
+			"TIPO_TRANSF": "ABON",
+			"MONTO": "-7358.3"
+		},
+		{
+			"CODIGO_UNI": "0011027921",
+			"CONTRATO": "7156820",
+			"FECHA": "43021",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "1050"
+		},
+		{
+			"CODIGO_UNI": "0011027921",
+			"CONTRATO": "7156820",
+			"FECHA": "43032",
+			"TIPO_MOV": "Res",
+			"TIPO_TRANSF": "ABON",
+			"MONTO": "-1000.87"
+		},
+		{
+			"CODIGO_UNI": "0011027921",
+			"CONTRATO": "7156820",
+			"FECHA": "43039",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "2000"
+		},
+		{
+			"CODIGO_UNI": "0011027921",
+			"CONTRATO": "7156820",
+			"FECHA": "43039",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "1050"
+		},
+		{
+			"CODIGO_UNI": "0011027921",
+			"CONTRATO": "7156820",
+			"FECHA": "43054",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "1050"
+		},
+		{
+			"CODIGO_UNI": "0011027921",
+			"CONTRATO": "7156820",
+			"FECHA": "43059",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "11000"
+		},
+		{
+			"CODIGO_UNI": "0011027921",
+			"CONTRATO": "7156820",
+			"FECHA": "43069",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "1050"
+		},
+		{
+			"CODIGO_UNI": "0011027921",
+			"CONTRATO": "7156820",
+			"FECHA": "43069",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "877.36"
+		},
+		{
+			"CODIGO_UNI": "0011027921",
+			"CONTRATO": "7156820",
+			"FECHA": "43084",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "172.64"
+		},
+		{
+			"CODIGO_UNI": "0011027921",
+			"CONTRATO": "7156820",
+			"FECHA": "43098",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "1050"
+		},
+		{
+			"CODIGO_UNI": "0011027921",
+			"CONTRATO": "7156820",
+			"FECHA": "43116",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "1050"
+		},
+		{
+			"CODIGO_UNI": "0011027921",
+			"CONTRATO": "7156820",
+			"FECHA": "43132",
+			"TIPO_MOV": "Res",
+			"TIPO_TRANSF": "ABON",
+			"MONTO": "-7516.56"
+		},
+		{
+			"CODIGO_UNI": "0011027921",
+			"CONTRATO": "7156820",
+			"FECHA": "43146",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "1070"
+		},
+		{
+			"CODIGO_UNI": "0011027921",
+			"CONTRATO": "7156820",
+			"FECHA": "43153",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "3000"
+		},
+		{
+			"CODIGO_UNI": "0011027921",
+			"CONTRATO": "7156820",
+			"FECHA": "43159",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "1070"
+		},
+		{
+			"CODIGO_UNI": "0011027921",
+			"CONTRATO": "7156820",
+			"FECHA": "43173",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "EFEC",
+			"MONTO": "700"
+		},
+		{
+			"CODIGO_UNI": "0011027921",
+			"CONTRATO": "7156820",
+			"FECHA": "43174",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "1070"
+		},
+		{
+			"CODIGO_UNI": "0011027921",
+			"CONTRATO": "7156820",
+			"FECHA": "43178",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "8000"
+		},
+		{
+			"CODIGO_UNI": "0011027921",
+			"CONTRATO": "7156820",
+			"FECHA": "43187",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "1070"
+		},
+		{
+			"CODIGO_UNI": "0011027921",
+			"CONTRATO": "8273522",
+			"FECHA": "43091",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "450"
+		},
+		{
+			"CODIGO_UNI": "0011027921",
+			"CONTRATO": "8273522",
+			"FECHA": "43098",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "EFEC",
+			"MONTO": "1800"
+		},
+		{
+			"CODIGO_UNI": "0011027921",
+			"CONTRATO": "8273522",
+			"FECHA": "43124",
+			"TIPO_MOV": "Res",
+			"TIPO_TRANSF": "ABON",
+			"MONTO": "-2252.9"
+		},
+		{
+			"CODIGO_UNI": "0011027921",
+			"CONTRATO": "8273522",
+			"FECHA": "43132",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "450"
+		},
+		{
+			"CODIGO_UNI": "0011027921",
+			"CONTRATO": "8273522",
+			"FECHA": "43146",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "450"
+		},
+		{
+			"CODIGO_UNI": "0011027921",
+			"CONTRATO": "8273522",
+			"FECHA": "43159",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "450"
+		},
+		{
+			"CODIGO_UNI": "0011027921",
+			"CONTRATO": "8273522",
+			"FECHA": "43165",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "EFEC",
+			"MONTO": "1100"
+		},
+		{
+			"CODIGO_UNI": "0011027921",
+			"CONTRATO": "8273522",
+			"FECHA": "43178",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "450"
+		},
+		{
+			"CODIGO_UNI": "0011027921",
+			"CONTRATO": "8273522",
+			"FECHA": "43179",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "300"
+		},
+		{
+			"CODIGO_UNI": "0011027921",
+			"CONTRATO": "8273522",
+			"FECHA": "43187",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "450"
+		},
+		{
+			"CODIGO_UNI": "0003863065",
+			"CONTRATO": "8390091",
+			"FECHA": "42936",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "59"
+		},
+		{
+			"CODIGO_UNI": "0003863065",
+			"CONTRATO": "8390091",
+			"FECHA": "42942",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "50"
+		},
+		{
+			"CODIGO_UNI": "0003863065",
+			"CONTRATO": "8390091",
+			"FECHA": "42965",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "50"
+		},
+		{
+			"CODIGO_UNI": "0003863065",
+			"CONTRATO": "8390091",
+			"FECHA": "42972",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "50"
+		},
+		{
+			"CODIGO_UNI": "0003863065",
+			"CONTRATO": "8390091",
+			"FECHA": "43032",
+			"TIPO_MOV": "Res",
+			"TIPO_TRANSF": "ABON",
+			"MONTO": "-1000.38"
+		},
+		{
+			"CODIGO_UNI": "0003863065",
+			"CONTRATO": "8390091",
+			"FECHA": "43039",
+			"TIPO_MOV": "Res",
+			"TIPO_TRANSF": "ABON",
+			"MONTO": "-500.16"
+		},
+		{
+			"CODIGO_UNI": "0003863065",
+			"CONTRATO": "8390091",
+			"FECHA": "43069",
+			"TIPO_MOV": "Res",
+			"TIPO_TRANSF": "ABON",
+			"MONTO": "-800.26"
+		},
+		{
+			"CODIGO_UNI": "0003863065",
+			"CONTRATO": "8390091",
+			"FECHA": "43096",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "50"
+		},
+		{
+			"CODIGO_UNI": "0003863065",
+			"CONTRATO": "8390091",
+			"FECHA": "43125",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "50"
+		},
+		{
+			"CODIGO_UNI": "0003863065",
+			"CONTRATO": "8390091",
+			"FECHA": "43130",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "50"
+		},
+		{
+			"CODIGO_UNI": "0003863065",
+			"CONTRATO": "8390091",
+			"FECHA": "43146",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "50"
+		},
+		{
+			"CODIGO_UNI": "0003863065",
+			"CONTRATO": "8390091",
+			"FECHA": "43157",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "70"
+		},
+		{
+			"CODIGO_UNI": "0003863065",
+			"CONTRATO": "8390091",
+			"FECHA": "43185",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "50"
+		},
+		{
+			"CODIGO_UNI": "0011731703",
+			"CONTRATO": "8186997",
+			"FECHA": "43081",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "1625"
+		},
+		{
+			"CODIGO_UNI": "0011731703",
+			"CONTRATO": "8186997",
+			"FECHA": "43082",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "1500"
+		},
+		{
+			"CODIGO_UNI": "0011731703",
+			"CONTRATO": "8186997",
+			"FECHA": "43084",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "2200"
+		},
+		{
+			"CODIGO_UNI": "0011731703",
+			"CONTRATO": "8186997",
+			"FECHA": "43084",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "820"
+		},
+		{
+			"CODIGO_UNI": "0011731703",
+			"CONTRATO": "8186997",
+			"FECHA": "43087",
+			"TIPO_MOV": "Res",
+			"TIPO_TRANSF": "ABON",
+			"MONTO": "-25002.68"
+		},
+		{
+			"CODIGO_UNI": "0011731703",
+			"CONTRATO": "8186997",
+			"FECHA": "43096",
+			"TIPO_MOV": "Res",
+			"TIPO_TRANSF": "ABON",
+			"MONTO": "-3000.22"
+		},
+		{
+			"CODIGO_UNI": "0011731703",
+			"CONTRATO": "8186997",
+			"FECHA": "43112",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "2111"
+		},
+		{
+			"CODIGO_UNI": "0011731703",
+			"CONTRATO": "8186997",
+			"FECHA": "43131",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "2300"
+		},
+		{
+			"CODIGO_UNI": "0011731703",
+			"CONTRATO": "8186997",
+			"FECHA": "43132",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "1300"
+		},
+		{
+			"CODIGO_UNI": "0011731703",
+			"CONTRATO": "8186997",
+			"FECHA": "43156",
+			"TIPO_MOV": "Res",
+			"TIPO_TRANSF": "ABON",
+			"MONTO": "-3250.6"
+		},
+		{
+			"CODIGO_UNI": "0011731703",
+			"CONTRATO": "8186997",
+			"FECHA": "43159",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "3230"
+		},
+		{
+			"CODIGO_UNI": "0011731703",
+			"CONTRATO": "8186997",
+			"FECHA": "43160",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "1545.87"
+		},
+		{
+			"CODIGO_UNI": "0011731703",
+			"CONTRATO": "8186997",
+			"FECHA": "43173",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "2200"
+		},
+		{
+			"CODIGO_UNI": "0011731703",
+			"CONTRATO": "8186997",
+			"FECHA": "43185",
+			"TIPO_MOV": "Res",
+			"TIPO_TRANSF": "ABON",
+			"MONTO": "-2500.34"
+		},
+		{
+			"CODIGO_UNI": "0011731703",
+			"CONTRATO": "8186997",
+			"FECHA": "43191",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "1300"
+		},
+		{
+			"CODIGO_UNI": "0011731703",
+			"CONTRATO": "8186997",
+			"FECHA": "43192",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "3650"
+		},
+		{
+			"CODIGO_UNI": "0011731703",
+			"CONTRATO": "8186997",
+			"FECHA": "43195",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "1500"
+		},
+		{
+			"CODIGO_UNI": "0012136619",
+			"CONTRATO": "8460724",
+			"FECHA": "42724",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "1400"
+		},
+		{
+			"CODIGO_UNI": "0012136619",
+			"CONTRATO": "8460724",
+			"FECHA": "42738",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "1300"
+		},
+		{
+			"CODIGO_UNI": "0012136619",
+			"CONTRATO": "8460724",
+			"FECHA": "42809",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "500"
+		},
+		{
+			"CODIGO_UNI": "0012136619",
+			"CONTRATO": "8460724",
+			"FECHA": "42810",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "1613"
+		},
+		{
+			"CODIGO_UNI": "0012136619",
+			"CONTRATO": "8460724",
+			"FECHA": "42811",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "1100"
+		},
+		{
+			"CODIGO_UNI": "0012136619",
+			"CONTRATO": "8460724",
+			"FECHA": "42825",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "2400"
+		},
+		{
+			"CODIGO_UNI": "0012136619",
+			"CONTRATO": "8460724",
+			"FECHA": "42845",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "3000"
+		},
+		{
+			"CODIGO_UNI": "0012136619",
+			"CONTRATO": "8460724",
+			"FECHA": "42888",
+			"TIPO_MOV": "Res",
+			"TIPO_TRANSF": "ABON",
+			"MONTO": "-1501.61"
+		},
+		{
+			"CODIGO_UNI": "0012136619",
+			"CONTRATO": "8460724",
+			"FECHA": "42896",
+			"TIPO_MOV": "Res",
+			"TIPO_TRANSF": "ABON",
+			"MONTO": "-21347.32"
+		},
+		{
+			"CODIGO_UNI": "0009378421",
+			"CONTRATO": "5376701",
+			"FECHA": "43010",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "199"
+		},
+		{
+			"CODIGO_UNI": "0009378421",
+			"CONTRATO": "5376701",
+			"FECHA": "43013",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "458.72"
+		},
+		{
+			"CODIGO_UNI": "0009378421",
+			"CONTRATO": "5376701",
+			"FECHA": "43017",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "78"
+		},
+		{
+			"CODIGO_UNI": "0009378421",
+			"CONTRATO": "5376701",
+			"FECHA": "43024",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "142.21"
+		},
+		{
+			"CODIGO_UNI": "0009378421",
+			"CONTRATO": "5376701",
+			"FECHA": "43038",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "200"
+		},
+		{
+			"CODIGO_UNI": "0009378421",
+			"CONTRATO": "5376701",
+			"FECHA": "43047",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "460.83"
+		},
+		{
+			"CODIGO_UNI": "0009378421",
+			"CONTRATO": "5376701",
+			"FECHA": "43055",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "88.3"
+		},
+		{
+			"CODIGO_UNI": "0009378421",
+			"CONTRATO": "5376701",
+			"FECHA": "43070",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "198.3"
+		},
+		{
+			"CODIGO_UNI": "0009378421",
+			"CONTRATO": "5376701",
+			"FECHA": "43080",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "155"
+		},
+		{
+			"CODIGO_UNI": "0009378421",
+			"CONTRATO": "5376701",
+			"FECHA": "43087",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "221.22"
+		},
+		{
+			"CODIGO_UNI": "0009378421",
+			"CONTRATO": "5376701",
+			"FECHA": "43103",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "191"
+		},
+		{
+			"CODIGO_UNI": "0009378421",
+			"CONTRATO": "5376701",
+			"FECHA": "43112",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "463.68"
+		},
+		{
+			"CODIGO_UNI": "0009378421",
+			"CONTRATO": "5376701",
+			"FECHA": "43115",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "222.93"
+		},
+		{
+			"CODIGO_UNI": "0009378421",
+			"CONTRATO": "5376701",
+			"FECHA": "43147",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "219.54"
+		},
+		{
+			"CODIGO_UNI": "0009378421",
+			"CONTRATO": "5376701",
+			"FECHA": "43150",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "166.83"
+		},
+		{
+			"CODIGO_UNI": "0009378421",
+			"CONTRATO": "5376701",
+			"FECHA": "43175",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "220.54"
+		},
+		{
+			"CODIGO_UNI": "0009378421",
+			"CONTRATO": "7420540",
+			"FECHA": "42893",
+			"TIPO_MOV": "Res",
+			"TIPO_TRANSF": "ABON",
+			"MONTO": "-1001.39"
+		},
+		{
+			"CODIGO_UNI": "0009378421",
+			"CONTRATO": "7420540",
+			"FECHA": "42938",
+			"TIPO_MOV": "Res",
+			"TIPO_TRANSF": "ABON",
+			"MONTO": "-4006.69"
+		},
+		{
+			"CODIGO_UNI": "0009378421",
+			"CONTRATO": "7420540",
+			"FECHA": "43076",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "1000"
+		},
+		{
+			"CODIGO_UNI": "0009378421",
+			"CONTRATO": "7420540",
+			"FECHA": "43104",
+			"TIPO_MOV": "Res",
+			"TIPO_TRANSF": "ABON",
+			"MONTO": "-1501.77"
+		},
+		{
+			"CODIGO_UNI": "0009378421",
+			"CONTRATO": "7420540",
+			"FECHA": "43130",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "658"
+		},
+		{
+			"CODIGO_UNI": "0009378421",
+			"CONTRATO": "7420540",
+			"FECHA": "43147",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "956.13"
+		},
+		{
+			"CODIGO_UNI": "0009378421",
+			"CONTRATO": "7420540",
+			"FECHA": "43159",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "658"
+		},
+		{
+			"CODIGO_UNI": "0009378421",
+			"CONTRATO": "7420540",
+			"FECHA": "43183",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "1500"
+		},
+		{
+			"CODIGO_UNI": "0009378421",
+			"CONTRATO": "7420540",
+			"FECHA": "43187",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "657.28"
+		},
+		{
+			"CODIGO_UNI": "0010842305",
+			"CONTRATO": "8449620",
+			"FECHA": "43096",
+			"TIPO_MOV": "Res",
+			"TIPO_TRANSF": "ABON",
+			"MONTO": "-200"
+		},
+		{
+			"CODIGO_UNI": "0010842305",
+			"CONTRATO": "8449620",
+			"FECHA": "43103",
+			"TIPO_MOV": "Res",
+			"TIPO_TRANSF": "ABON",
+			"MONTO": "-150"
+		},
+		{
+			"CODIGO_UNI": "0010842305",
+			"CONTRATO": "8449620",
+			"FECHA": "43106",
+			"TIPO_MOV": "Res",
+			"TIPO_TRANSF": "ABON",
+			"MONTO": "-300"
+		},
+		{
+			"CODIGO_UNI": "0010842305",
+			"CONTRATO": "8449620",
+			"FECHA": "43121",
+			"TIPO_MOV": "Res",
+			"TIPO_TRANSF": "ABON",
+			"MONTO": "-800"
+		},
+		{
+			"CODIGO_UNI": "0010842305",
+			"CONTRATO": "8449620",
+			"FECHA": "43123",
+			"TIPO_MOV": "Res",
+			"TIPO_TRANSF": "ABON",
+			"MONTO": "-150"
+		},
+		{
+			"CODIGO_UNI": "0010842305",
+			"CONTRATO": "8449620",
+			"FECHA": "43130",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "752"
+		},
+		{
+			"CODIGO_UNI": "0010842305",
+			"CONTRATO": "8449620",
+			"FECHA": "43152",
+			"TIPO_MOV": "Res",
+			"TIPO_TRANSF": "ABON",
+			"MONTO": "-300"
+		},
+		{
+			"CODIGO_UNI": "0010842305",
+			"CONTRATO": "8449620",
+			"FECHA": "43163",
+			"TIPO_MOV": "Res",
+			"TIPO_TRANSF": "ABON",
+			"MONTO": "-50"
+		},
+		{
+			"CODIGO_UNI": "0010842305",
+			"CONTRATO": "8449620",
+			"FECHA": "43163",
+			"TIPO_MOV": "Res",
+			"TIPO_TRANSF": "ABON",
+			"MONTO": "-900"
+		},
+		{
+			"CODIGO_UNI": "0010842305",
+			"CONTRATO": "8449620",
+			"FECHA": "43166",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "800"
+		},
+		{
+			"CODIGO_UNI": "0010842305",
+			"CONTRATO": "8449620",
+			"FECHA": "43171",
+			"TIPO_MOV": "Res",
+			"TIPO_TRANSF": "EFEC",
+			"MONTO": "-100"
+		},
+		{
+			"CODIGO_UNI": "0010842305",
+			"CONTRATO": "8449620",
+			"FECHA": "43172",
+			"TIPO_MOV": "Res",
+			"TIPO_TRANSF": "EFEC",
+			"MONTO": "-160"
+		},
+		{
+			"CODIGO_UNI": "0010842305",
+			"CONTRATO": "8449620",
+			"FECHA": "43177",
+			"TIPO_MOV": "Res",
+			"TIPO_TRANSF": "ABON",
+			"MONTO": "-50"
+		},
+		{
+			"CODIGO_UNI": "0010842305",
+			"CONTRATO": "8449620",
+			"FECHA": "43178",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "50"
+		},
+		{
+			"CODIGO_UNI": "0010842305",
+			"CONTRATO": "8449620",
+			"FECHA": "43179",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "612"
+		},
+		{
+			"CODIGO_UNI": "0010842305",
+			"CONTRATO": "8449620",
+			"FECHA": "43181",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "90"
+		},
+		{
+			"CODIGO_UNI": "0010842305",
+			"CONTRATO": "8449620",
+			"FECHA": "43181",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "EFEC",
+			"MONTO": "2066"
+		},
+		{
+			"CODIGO_UNI": "0010842305",
+			"CONTRATO": "8449620",
+			"FECHA": "43183",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "230"
+		},
+		{
+			"CODIGO_UNI": "0010842305",
+			"CONTRATO": "8449620",
+			"FECHA": "43192",
+			"TIPO_MOV": "Res",
+			"TIPO_TRANSF": "ABON",
+			"MONTO": "-282"
+		},
+		{
+			"CODIGO_UNI": "0010842305",
+			"CONTRATO": "7270680",
+			"FECHA": "43064",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "960"
+		},
+		{
+			"CODIGO_UNI": "0010842305",
+			"CONTRATO": "7270680",
+			"FECHA": "43064",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "500"
+		},
+		{
+			"CODIGO_UNI": "0010842305",
+			"CONTRATO": "7270680",
+			"FECHA": "43071",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "1500"
+		},
+		{
+			"CODIGO_UNI": "0010842305",
+			"CONTRATO": "7270680",
+			"FECHA": "43071",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "174"
+		},
+		{
+			"CODIGO_UNI": "0010842305",
+			"CONTRATO": "7270680",
+			"FECHA": "43074",
+			"TIPO_MOV": "Res",
+			"TIPO_TRANSF": "EFEC",
+			"MONTO": "-187.81"
+		},
+		{
+			"CODIGO_UNI": "0010842305",
+			"CONTRATO": "7270680",
+			"FECHA": "43075",
+			"TIPO_MOV": "Res",
+			"TIPO_TRANSF": "EFEC",
+			"MONTO": "-200.08"
+		},
+		{
+			"CODIGO_UNI": "0010842305",
+			"CONTRATO": "7270680",
+			"FECHA": "43077",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "336.6"
+		},
+		{
+			"CODIGO_UNI": "0010842305",
+			"CONTRATO": "7270680",
+			"FECHA": "43078",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "530"
+		},
+		{
+			"CODIGO_UNI": "0010842305",
+			"CONTRATO": "7270680",
+			"FECHA": "43083",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "3244"
+		},
+		{
+			"CODIGO_UNI": "0010842305",
+			"CONTRATO": "7270680",
+			"FECHA": "43086",
+			"TIPO_MOV": "Res",
+			"TIPO_TRANSF": "ABON",
+			"MONTO": "-100.02"
+		},
+		{
+			"CODIGO_UNI": "0010842305",
+			"CONTRATO": "7270680",
+			"FECHA": "43089",
+			"TIPO_MOV": "Res",
+			"TIPO_TRANSF": "ABON",
+			"MONTO": "-700.19"
+		},
+		{
+			"CODIGO_UNI": "0010842305",
+			"CONTRATO": "7270680",
+			"FECHA": "43106",
+			"TIPO_MOV": "Res",
+			"TIPO_TRANSF": "ABON",
+			"MONTO": "-500.15"
+		},
+		{
+			"CODIGO_UNI": "0010842305",
+			"CONTRATO": "7270680",
+			"FECHA": "43115",
+			"TIPO_MOV": "Res",
+			"TIPO_TRANSF": "ABON",
+			"MONTO": "-350.12"
+		},
+		{
+			"CODIGO_UNI": "0010842305",
+			"CONTRATO": "7270680",
+			"FECHA": "43123",
+			"TIPO_MOV": "Res",
+			"TIPO_TRANSF": "ABON",
+			"MONTO": "-5301.77"
+		},
+		{
+			"CODIGO_UNI": "0010842305",
+			"CONTRATO": "7270680",
+			"FECHA": "43124",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "598"
+		},
+		{
+			"CODIGO_UNI": "0010842305",
+			"CONTRATO": "7270680",
+			"FECHA": "43130",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "6450"
+		},
+		{
+			"CODIGO_UNI": "0010842305",
+			"CONTRATO": "7270680",
+			"FECHA": "43132",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "330"
+		},
+		{
+			"CODIGO_UNI": "0010842305",
+			"CONTRATO": "7270680",
+			"FECHA": "43134",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "208"
+		},
+		{
+			"CODIGO_UNI": "0010842305",
+			"CONTRATO": "7270680",
+			"FECHA": "43138",
+			"TIPO_MOV": "Res",
+			"TIPO_TRANSF": "ABON",
+			"MONTO": "-250.03"
+		},
+		{
+			"CODIGO_UNI": "0010842305",
+			"CONTRATO": "7270680",
+			"FECHA": "43142",
+			"TIPO_MOV": "Res",
+			"TIPO_TRANSF": "ABON",
+			"MONTO": "-100.01"
+		},
+		{
+			"CODIGO_UNI": "0010842305",
+			"CONTRATO": "7270680",
+			"FECHA": "43144",
+			"TIPO_MOV": "Res",
+			"TIPO_TRANSF": "ABON",
+			"MONTO": "-600.05999999999995"
+		},
+		{
+			"CODIGO_UNI": "0010842305",
+			"CONTRATO": "7270680",
+			"FECHA": "43149",
+			"TIPO_MOV": "Res",
+			"TIPO_TRANSF": "ABON",
+			"MONTO": "-100.01"
+		},
+		{
+			"CODIGO_UNI": "0010842305",
+			"CONTRATO": "7270680",
+			"FECHA": "43151",
+			"TIPO_MOV": "Res",
+			"TIPO_TRANSF": "EFEC",
+			"MONTO": "-100.01"
+		},
+		{
+			"CODIGO_UNI": "0010842305",
+			"CONTRATO": "7270680",
+			"FECHA": "43152",
+			"TIPO_MOV": "Res",
+			"TIPO_TRANSF": "ABON",
+			"MONTO": "-6031.66"
+		},
+		{
+			"CODIGO_UNI": "0010842305",
+			"CONTRATO": "7270680",
+			"FECHA": "43156",
+			"TIPO_MOV": "Res",
+			"TIPO_TRANSF": "ABON",
+			"MONTO": "-100.01"
+		},
+		{
+			"CODIGO_UNI": "0010842305",
+			"CONTRATO": "7270680",
+			"FECHA": "43158",
+			"TIPO_MOV": "Res",
+			"TIPO_TRANSF": "ABON",
+			"MONTO": "-100.01"
+		},
+		{
+			"CODIGO_UNI": "0010842305",
+			"CONTRATO": "7270680",
+			"FECHA": "43159",
+			"TIPO_MOV": "Res",
+			"TIPO_TRANSF": "ABON",
+			"MONTO": "-120.01"
+		},
+		{
+			"CODIGO_UNI": "0010842305",
+			"CONTRATO": "7270680",
+			"FECHA": "43159",
+			"TIPO_MOV": "Res",
+			"TIPO_TRANSF": "ABON",
+			"MONTO": "-100.01"
+		},
+		{
+			"CODIGO_UNI": "0010842305",
+			"CONTRATO": "7270680",
+			"FECHA": "43175",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "2694"
+		},
+		{
+			"CODIGO_UNI": "0010842305",
+			"CONTRATO": "7270680",
+			"FECHA": "43178",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "1342"
+		},
+		{
+			"CODIGO_UNI": "0010842305",
+			"CONTRATO": "7270680",
+			"FECHA": "43178",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "2350"
+		},
+		{
+			"CODIGO_UNI": "0010842305",
+			"CONTRATO": "7270680",
+			"FECHA": "43179",
+			"TIPO_MOV": "Res",
+			"TIPO_TRANSF": "ABON",
+			"MONTO": "-4500.2700000000004"
+		},
+		{
+			"CODIGO_UNI": "0010842305",
+			"CONTRATO": "7270680",
+			"FECHA": "43180",
+			"TIPO_MOV": "Res",
+			"TIPO_TRANSF": "ABON",
+			"MONTO": "-100"
+		},
+		{
+			"CODIGO_UNI": "0010842305",
+			"CONTRATO": "7270680",
+			"FECHA": "43182",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "4500"
+		},
+		{
+			"CODIGO_UNI": "0010842305",
+			"CONTRATO": "7270680",
+			"FECHA": "43185",
+			"TIPO_MOV": "Res",
+			"TIPO_TRANSF": "ABON",
+			"MONTO": "-1600.06"
+		},
+		{
+			"CODIGO_UNI": "0010842305",
+			"CONTRATO": "7270680",
+			"FECHA": "43192",
+			"TIPO_MOV": "Res",
+			"TIPO_TRANSF": "ABON",
+			"MONTO": "-250.01"
+		},
+		{
+			"CODIGO_UNI": "0010842305",
+			"CONTRATO": "7270680",
+			"FECHA": "43193",
+			"TIPO_MOV": "Res",
+			"TIPO_TRANSF": "EFEC",
+			"MONTO": "-480.03"
+		},
+		{
+			"CODIGO_UNI": "0010842305",
+			"CONTRATO": "7270680",
+			"FECHA": "43198",
+			"TIPO_MOV": "Res",
+			"TIPO_TRANSF": "ABON",
+			"MONTO": "-200.01"
+		},
+		{
+			"CODIGO_UNI": "0007795933",
+			"CONTRATO": "5438648",
+			"FECHA": "42901",
+			"TIPO_MOV": "Res",
+			"TIPO_TRANSF": "EFEC",
+			"MONTO": "-35194.79"
+		},
+		{
+			"CODIGO_UNI": "0007795933",
+			"CONTRATO": "5438648",
+			"FECHA": "42907",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "EFEC",
+			"MONTO": "750"
+		},
+		{
+			"CODIGO_UNI": "0007795933",
+			"CONTRATO": "5438648",
+			"FECHA": "42908",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "EFEC",
+			"MONTO": "5235.47"
+		},
+		{
+			"CODIGO_UNI": "0007795933",
+			"CONTRATO": "5438648",
+			"FECHA": "42936",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "EFEC",
+			"MONTO": "750"
+		},
+		{
+			"CODIGO_UNI": "0007795933",
+			"CONTRATO": "5438648",
+			"FECHA": "42964",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "35496.04"
+		},
+		{
+			"CODIGO_UNI": "0007795933",
+			"CONTRATO": "5438648",
+			"FECHA": "42970",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "EFEC",
+			"MONTO": "750"
+		},
+		{
+			"CODIGO_UNI": "0007795933",
+			"CONTRATO": "5438648",
+			"FECHA": "43000",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "EFEC",
+			"MONTO": "750"
+		},
+		{
+			"CODIGO_UNI": "0007795933",
+			"CONTRATO": "5438648",
+			"FECHA": "43026",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "EFEC",
+			"MONTO": "750"
+		},
+		{
+			"CODIGO_UNI": "0007795933",
+			"CONTRATO": "5438648",
+			"FECHA": "43028",
+			"TIPO_MOV": "Res",
+			"TIPO_TRANSF": "EFEC",
+			"MONTO": "-9114.84"
+		},
+		{
+			"CODIGO_UNI": "0007795933",
+			"CONTRATO": "5438648",
+			"FECHA": "43074",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "EFEC",
+			"MONTO": "750"
+		},
+		{
+			"CODIGO_UNI": "0007795933",
+			"CONTRATO": "5438648",
+			"FECHA": "43098",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "EFEC",
+			"MONTO": "750"
+		},
+		{
+			"CODIGO_UNI": "0007795933",
+			"CONTRATO": "5438648",
+			"FECHA": "43130",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "EFEC",
+			"MONTO": "750"
+		},
+		{
+			"CODIGO_UNI": "0007795933",
+			"CONTRATO": "5438648",
+			"FECHA": "43152",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "EFEC",
+			"MONTO": "750"
+		},
+		{
+			"CODIGO_UNI": "0007795933",
+			"CONTRATO": "5438648",
+			"FECHA": "43159",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "31000"
+		},
+		{
+			"CODIGO_UNI": "0007795933",
+			"CONTRATO": "5438648",
+			"FECHA": "43178",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "EFEC",
+			"MONTO": "750"
+		},
+		{
+			"CODIGO_UNI": "0007795933",
+			"CONTRATO": "6176453",
+			"FECHA": "43082",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "2000"
+		},
+		{
+			"CODIGO_UNI": "0007795933",
+			"CONTRATO": "6176453",
+			"FECHA": "43087",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "218.22"
+		},
+		{
+			"CODIGO_UNI": "0007795933",
+			"CONTRATO": "6176453",
+			"FECHA": "43090",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "1500"
+		},
+		{
+			"CODIGO_UNI": "0007795933",
+			"CONTRATO": "6176453",
+			"FECHA": "43096",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "1630.3"
+		},
+		{
+			"CODIGO_UNI": "0007795933",
+			"CONTRATO": "6176453",
+			"FECHA": "43102",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "325.89999999999998"
+		},
+		{
+			"CODIGO_UNI": "0007795933",
+			"CONTRATO": "6176453",
+			"FECHA": "43115",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "1948.63"
+		},
+		{
+			"CODIGO_UNI": "0007795933",
+			"CONTRATO": "6176453",
+			"FECHA": "43119",
+			"TIPO_MOV": "Res",
+			"TIPO_TRANSF": "EFEC",
+			"MONTO": "-40356.54"
+		},
+		{
+			"CODIGO_UNI": "0007795933",
+			"CONTRATO": "6176453",
+			"FECHA": "43130",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "10100.5"
+		},
+		{
+			"CODIGO_UNI": "0007795933",
+			"CONTRATO": "6176453",
+			"FECHA": "43132",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "453.76"
+		},
+		{
+			"CODIGO_UNI": "0007795933",
+			"CONTRATO": "6176453",
+			"FECHA": "43146",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "1068.18"
+		},
+		{
+			"CODIGO_UNI": "0007795933",
+			"CONTRATO": "6176453",
+			"FECHA": "43174",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "500"
+		},
+		{
+			"CODIGO_UNI": "0007795933",
+			"CONTRATO": "6176453",
+			"FECHA": "43180",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "1130"
+		},
+		{
+			"CODIGO_UNI": "0007795933",
+			"CONTRATO": "6176453",
+			"FECHA": "43186",
+			"TIPO_MOV": "Res",
+			"TIPO_TRANSF": "EFEC",
+			"MONTO": "-41631.81"
+		},
+		{
+			"CODIGO_UNI": "0007795933",
+			"CONTRATO": "6176453",
+			"FECHA": "43194",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "400"
+		},
+		{
+			"CODIGO_UNI": "0007795933",
+			"CONTRATO": "8424675",
+			"FECHA": "42282",
+			"TIPO_MOV": "SUS",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "1000"
+		},
+		{
+			"CODIGO_UNI": "0007795933",
+			"CONTRATO": "8424675",
+			"FECHA": "42283",
+			"TIPO_MOV": "SUS",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "4000"
+		},
+		{
+			"CODIGO_UNI": "0007795933",
+			"CONTRATO": "8424675",
+			"FECHA": "42299",
+			"TIPO_MOV": "SUS",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "1283.6600000000001"
+		},
+		{
+			"CODIGO_UNI": "0007795933",
+			"CONTRATO": "8424675",
+			"FECHA": "42304",
+			"TIPO_MOV": "SUS",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "11206.88"
+		},
+		{
+			"CODIGO_UNI": "0007795933",
+			"CONTRATO": "8424675",
+			"FECHA": "42347",
+			"TIPO_MOV": "SUS",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "1505.47"
+		},
+		{
+			"CODIGO_UNI": "0007795933",
+			"CONTRATO": "8424675",
+			"FECHA": "42353",
+			"TIPO_MOV": "SUS",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "3000"
+		},
+		{
+			"CODIGO_UNI": "0007795933",
+			"CONTRATO": "8424675",
+			"FECHA": "42353",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "3000"
+		},
+		{
+			"CODIGO_UNI": "0007795933",
+			"CONTRATO": "8424675",
+			"FECHA": "42479",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "3500"
+		},
+		{
+			"CODIGO_UNI": "0007795933",
+			"CONTRATO": "8424675",
+			"FECHA": "42506",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "450.31"
+		},
+		{
+			"CODIGO_UNI": "0007795933",
+			"CONTRATO": "8424675",
+			"FECHA": "42831",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "1500"
+		},
+		{
+			"CODIGO_UNI": "0007795933",
+			"CONTRATO": "8424675",
+			"FECHA": "42859",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "349.8"
+		},
+		{
+			"CODIGO_UNI": "0007795933",
+			"CONTRATO": "8424675",
+			"FECHA": "42908",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "EFEC",
+			"MONTO": "5000"
+		},
+		{
+			"CODIGO_UNI": "0007795933",
+			"CONTRATO": "8424675",
+			"FECHA": "42964",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "761.59"
+		},
+		{
+			"CODIGO_UNI": "0007795933",
+			"CONTRATO": "8424675",
+			"FECHA": "43068",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "EFEC",
+			"MONTO": "996.76"
+		},
+		{
+			"CODIGO_UNI": "0007795933",
+			"CONTRATO": "8424675",
+			"FECHA": "43130",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "1465.98"
+		},
+		{
+			"CODIGO_UNI": "0007795933",
+			"CONTRATO": "8424675",
+			"FECHA": "43159",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "30704.97"
+		},
+		{
+			"CODIGO_UNI": "0010016214",
+			"CONTRATO": "8456429",
+			"FECHA": "42573",
+			"TIPO_MOV": "SUS",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "2000"
+		},
+		{
+			"CODIGO_UNI": "0010016214",
+			"CONTRATO": "8456429",
+			"FECHA": "42774",
+			"TIPO_MOV": "SUS",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "50"
+		},
+		{
+			"CODIGO_UNI": "0010016214",
+			"CONTRATO": "8389721",
+			"FECHA": "43088",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "EFEC",
+			"MONTO": "500"
+		},
+		{
+			"CODIGO_UNI": "0010016214",
+			"CONTRATO": "8389721",
+			"FECHA": "43100",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "450"
+		},
+		{
+			"CODIGO_UNI": "0010016214",
+			"CONTRATO": "8389721",
+			"FECHA": "43109",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "1019"
+		},
+		{
+			"CODIGO_UNI": "0010016214",
+			"CONTRATO": "8389721",
+			"FECHA": "43115",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "100"
+		},
+		{
+			"CODIGO_UNI": "0010016214",
+			"CONTRATO": "8389721",
+			"FECHA": "43130",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "600"
+		},
+		{
+			"CODIGO_UNI": "0010016214",
+			"CONTRATO": "8389721",
+			"FECHA": "43138",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "5000"
+		},
+		{
+			"CODIGO_UNI": "0010016214",
+			"CONTRATO": "8389721",
+			"FECHA": "43146",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "1500"
+		},
+		{
+			"CODIGO_UNI": "0010016214",
+			"CONTRATO": "8389721",
+			"FECHA": "43146",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "100"
+		},
+		{
+			"CODIGO_UNI": "0010016214",
+			"CONTRATO": "8389721",
+			"FECHA": "43147",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "300"
+		},
+		{
+			"CODIGO_UNI": "0010016214",
+			"CONTRATO": "8389721",
+			"FECHA": "43160",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "500"
+		},
+		{
+			"CODIGO_UNI": "0010016214",
+			"CONTRATO": "8389721",
+			"FECHA": "43174",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "200"
+		},
+		{
+			"CODIGO_UNI": "0010016214",
+			"CONTRATO": "8389721",
+			"FECHA": "43174",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "100"
+		},
+		{
+			"CODIGO_UNI": "0010016214",
+			"CONTRATO": "8389721",
+			"FECHA": "43174",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "100"
+		},
+		{
+			"CODIGO_UNI": "0010016214",
+			"CONTRATO": "8389721",
+			"FECHA": "43178",
+			"TIPO_MOV": "Res",
+			"TIPO_TRANSF": "ABON",
+			"MONTO": "-2004.21"
+		},
+		{
+			"CODIGO_UNI": "0010016214",
+			"CONTRATO": "8389721",
+			"FECHA": "43188",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "3000"
+		},
+		{
+			"CODIGO_UNI": "0010016214",
+			"CONTRATO": "8389721",
+			"FECHA": "43195",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "1500"
+		},
+		{
+			"CODIGO_UNI": "0013093171",
+			"CONTRATO": "8403566",
+			"FECHA": "43026",
+			"TIPO_MOV": "Res",
+			"TIPO_TRANSF": "ABON",
+			"MONTO": "-1050.51"
+		},
+		{
+			"CODIGO_UNI": "0013093171",
+			"CONTRATO": "8403566",
+			"FECHA": "43028",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "725"
+		},
+		{
+			"CODIGO_UNI": "0013093171",
+			"CONTRATO": "8403566",
+			"FECHA": "43035",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "EFEC",
+			"MONTO": "1570"
+		},
+		{
+			"CODIGO_UNI": "0013093171",
+			"CONTRATO": "8403566",
+			"FECHA": "43047",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "462.3"
+		},
+		{
+			"CODIGO_UNI": "0013093171",
+			"CONTRATO": "8403566",
+			"FECHA": "43048",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "789"
+		},
+		{
+			"CODIGO_UNI": "0013093171",
+			"CONTRATO": "8403566",
+			"FECHA": "43056",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "1350"
+		},
+		{
+			"CODIGO_UNI": "0013093171",
+			"CONTRATO": "8403566",
+			"FECHA": "43061",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "750"
+		},
+		{
+			"CODIGO_UNI": "0013093171",
+			"CONTRATO": "8403566",
+			"FECHA": "43066",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "EFEC",
+			"MONTO": "1000"
+		},
+		{
+			"CODIGO_UNI": "0013093171",
+			"CONTRATO": "8403566",
+			"FECHA": "43069",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "1000"
+		},
+		{
+			"CODIGO_UNI": "0013093171",
+			"CONTRATO": "8403566",
+			"FECHA": "43073",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "1000"
+		},
+		{
+			"CODIGO_UNI": "0013093171",
+			"CONTRATO": "8403566",
+			"FECHA": "43074",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "1100"
+		},
+		{
+			"CODIGO_UNI": "0013093171",
+			"CONTRATO": "8403566",
+			"FECHA": "43086",
+			"TIPO_MOV": "Res",
+			"TIPO_TRANSF": "ABON",
+			"MONTO": "-4002.22"
+		},
+		{
+			"CODIGO_UNI": "0013093171",
+			"CONTRATO": "8403566",
+			"FECHA": "43090",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "725"
+		},
+		{
+			"CODIGO_UNI": "0013093171",
+			"CONTRATO": "8403566",
+			"FECHA": "43090",
+			"TIPO_MOV": "Res",
+			"TIPO_TRANSF": "ABON",
+			"MONTO": "-1000.48"
+		},
+		{
+			"CODIGO_UNI": "0013093171",
+			"CONTRATO": "8403566",
+			"FECHA": "43104",
+			"TIPO_MOV": "Res",
+			"TIPO_TRANSF": "ABON",
+			"MONTO": "-2001.03"
+		},
+		{
+			"CODIGO_UNI": "0013093171",
+			"CONTRATO": "8403566",
+			"FECHA": "43112",
+			"TIPO_MOV": "Res",
+			"TIPO_TRANSF": "ABON",
+			"MONTO": "-4202.17"
+		},
+		{
+			"CODIGO_UNI": "0013093171",
+			"CONTRATO": "8403566",
+			"FECHA": "43122",
+			"TIPO_MOV": "Res",
+			"TIPO_TRANSF": "ABON",
+			"MONTO": "-1000.49"
+		},
+		{
+			"CODIGO_UNI": "0013093171",
+			"CONTRATO": "8403566",
+			"FECHA": "43124",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "100"
+		},
+		{
+			"CODIGO_UNI": "0013093171",
+			"CONTRATO": "8403566",
+			"FECHA": "43134",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "240"
+		},
+		{
+			"CODIGO_UNI": "0013093171",
+			"CONTRATO": "8403566",
+			"FECHA": "43144",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "1000"
+		},
+		{
+			"CODIGO_UNI": "0013093171",
+			"CONTRATO": "8403566",
+			"FECHA": "43153",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "363"
+		},
+		{
+			"CODIGO_UNI": "0013093171",
+			"CONTRATO": "8403566",
+			"FECHA": "43158",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "300"
+		},
+		{
+			"CODIGO_UNI": "0013093171",
+			"CONTRATO": "8403566",
+			"FECHA": "43160",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "200"
+		},
+		{
+			"CODIGO_UNI": "0013093171",
+			"CONTRATO": "8403566",
+			"FECHA": "43163",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "500"
+		},
+		{
+			"CODIGO_UNI": "0013093171",
+			"CONTRATO": "8403566",
+			"FECHA": "43166",
+			"TIPO_MOV": "Res",
+			"TIPO_TRANSF": "ABON",
+			"MONTO": "-1150.6500000000001"
+		},
+		{
+			"CODIGO_UNI": "0013093171",
+			"CONTRATO": "8403566",
+			"FECHA": "43181",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "500"
+		},
+		{
+			"CODIGO_UNI": "0013093171",
+			"CONTRATO": "A026421",
+			"FECHA": "42874",
+			"TIPO_MOV": "SUS",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "4000"
+		},
+		{
+			"CODIGO_UNI": "0013093171",
+			"CONTRATO": "A026421",
+			"FECHA": "42900",
+			"TIPO_MOV": "RES",
+			"TIPO_TRANSF": "ABON",
+			"MONTO": "-1000.17"
+		},
+		{
+			"CODIGO_UNI": "0011057237",
+			"CONTRATO": "6902979",
+			"FECHA": "40457",
+			"TIPO_MOV": "SUS",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "3000"
+		},
+		{
+			"CODIGO_UNI": "0011057237",
+			"CONTRATO": "6902979",
+			"FECHA": "40651",
+			"TIPO_MOV": "SUS",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "4000"
+		},
+		{
+			"CODIGO_UNI": "0011057237",
+			"CONTRATO": "6902979",
+			"FECHA": "40694",
+			"TIPO_MOV": "SUS",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "1000"
+		},
+		{
+			"CODIGO_UNI": "0011057237",
+			"CONTRATO": "6902979",
+			"FECHA": "40843",
+			"TIPO_MOV": "SUS",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "1500"
+		},
+		{
+			"CODIGO_UNI": "0011057237",
+			"CONTRATO": "6902979",
+			"FECHA": "40945",
+			"TIPO_MOV": "SUS",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "500"
+		},
+		{
+			"CODIGO_UNI": "0011057237",
+			"CONTRATO": "6902979",
+			"FECHA": "41001",
+			"TIPO_MOV": "SUS",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "1000"
+		},
+		{
+			"CODIGO_UNI": "0011057237",
+			"CONTRATO": "6902979",
+			"FECHA": "41032",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "500"
+		},
+		{
+			"CODIGO_UNI": "0011057237",
+			"CONTRATO": "6902979",
+			"FECHA": "41061",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "500"
+		},
+		{
+			"CODIGO_UNI": "0011057237",
+			"CONTRATO": "6902979",
+			"FECHA": "41100",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "5000"
+		},
+		{
+			"CODIGO_UNI": "0011057237",
+			"CONTRATO": "6902979",
+			"FECHA": "41115",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "500"
+		},
+		{
+			"CODIGO_UNI": "0011057237",
+			"CONTRATO": "6902979",
+			"FECHA": "41124",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "500"
+		},
+		{
+			"CODIGO_UNI": "0011057237",
+			"CONTRATO": "6902979",
+			"FECHA": "41254",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "4000"
+		},
+		{
+			"CODIGO_UNI": "0011057237",
+			"CONTRATO": "6902979",
+			"FECHA": "41290",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "500"
+		},
+		{
+			"CODIGO_UNI": "0011057237",
+			"CONTRATO": "6902979",
+			"FECHA": "41351",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "500"
+		},
+		{
+			"CODIGO_UNI": "0011057237",
+			"CONTRATO": "6902979",
+			"FECHA": "41381",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "602.15"
+		},
+		{
+			"CODIGO_UNI": "0011057237",
+			"CONTRATO": "6902979",
+			"FECHA": "41835",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "800"
+		},
+		{
+			"CODIGO_UNI": "0011057237",
+			"CONTRATO": "6902979",
+			"FECHA": "42123",
+			"TIPO_MOV": "Res",
+			"TIPO_TRANSF": "ABON",
+			"MONTO": "-3000"
+		},
+		{
+			"CODIGO_UNI": "0011057237",
+			"CONTRATO": "6902979",
+			"FECHA": "42416",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "500"
+		},
+		{
+			"CODIGO_UNI": "0011057237",
+			"CONTRATO": "6902979",
+			"FECHA": "42445",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "500"
+		},
+		{
+			"CODIGO_UNI": "0011057237",
+			"CONTRATO": "6902979",
+			"FECHA": "42478",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "135.22999999999999"
+		},
+		{
+			"CODIGO_UNI": "0011057237",
+			"CONTRATO": "8465719",
+			"FECHA": "42643",
+			"TIPO_MOV": "SUS",
+			"TIPO_TRANSF": "EFEC",
+			"MONTO": "2000"
+		},
+		{
+			"CODIGO_UNI": "0011057237",
+			"CONTRATO": "8465719",
+			"FECHA": "42733",
+			"TIPO_MOV": "SUS",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "500"
+		},
+		{
+			"CODIGO_UNI": "0011057237",
+			"CONTRATO": "8465719",
+			"FECHA": "42733",
+			"TIPO_MOV": "SUS",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "500"
+		},
+		{
+			"CODIGO_UNI": "0011057237",
+			"CONTRATO": "8459688",
+			"FECHA": "42738",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "999"
+		},
+		{
+			"CODIGO_UNI": "0011057237",
+			"CONTRATO": "8459688",
+			"FECHA": "42738",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "974"
+		},
+		{
+			"CODIGO_UNI": "0011057237",
+			"CONTRATO": "8459688",
+			"FECHA": "42738",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "600"
+		},
+		{
+			"CODIGO_UNI": "0011057237",
+			"CONTRATO": "8459688",
+			"FECHA": "42738",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "976"
+		},
+		{
+			"CODIGO_UNI": "0011057237",
+			"CONTRATO": "8459688",
+			"FECHA": "42738",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "980"
+		},
+		{
+			"CODIGO_UNI": "0011057237",
+			"CONTRATO": "8459688",
+			"FECHA": "42979",
+			"TIPO_MOV": "Res",
+			"TIPO_TRANSF": "ABON",
+			"MONTO": "-605.75"
+		},
+		{
+			"CODIGO_UNI": "0011057237",
+			"CONTRATO": "8459688",
+			"FECHA": "42979",
+			"TIPO_MOV": "Res",
+			"TIPO_TRANSF": "ABON",
+			"MONTO": "-600.75"
+		},
+		{
+			"CODIGO_UNI": "0011057237",
+			"CONTRATO": "8459688",
+			"FECHA": "43009",
+			"TIPO_MOV": "Res",
+			"TIPO_TRANSF": "ABON",
+			"MONTO": "-600.80999999999995"
+		},
+		{
+			"CODIGO_UNI": "0011057237",
+			"CONTRATO": "8459688",
+			"FECHA": "43009",
+			"TIPO_MOV": "Res",
+			"TIPO_TRANSF": "ABON",
+			"MONTO": "-605.80999999999995"
+		},
+		{
+			"CODIGO_UNI": "0011057237",
+			"CONTRATO": "8459688",
+			"FECHA": "43040",
+			"TIPO_MOV": "Res",
+			"TIPO_TRANSF": "ABON",
+			"MONTO": "-605.87"
+		},
+		{
+			"CODIGO_UNI": "0011057237",
+			"CONTRATO": "8459688",
+			"FECHA": "43040",
+			"TIPO_MOV": "Res",
+			"TIPO_TRANSF": "ABON",
+			"MONTO": "-600.87"
+		},
+		{
+			"CODIGO_UNI": "0011057237",
+			"CONTRATO": "8459688",
+			"FECHA": "43074",
+			"TIPO_MOV": "Res",
+			"TIPO_TRANSF": "ABON",
+			"MONTO": "-901.4"
+		},
+		{
+			"CODIGO_UNI": "0011057237",
+			"CONTRATO": "8459688",
+			"FECHA": "43074",
+			"TIPO_MOV": "Res",
+			"TIPO_TRANSF": "ABON",
+			"MONTO": "-610.95000000000005"
+		},
+		{
+			"CODIGO_UNI": "0011057237",
+			"CONTRATO": "8459688",
+			"FECHA": "43074",
+			"TIPO_MOV": "Res",
+			"TIPO_TRANSF": "ABON",
+			"MONTO": "-901.4"
+		},
+		{
+			"CODIGO_UNI": "0011057237",
+			"CONTRATO": "8459688",
+			"FECHA": "43110",
+			"TIPO_MOV": "Res",
+			"TIPO_TRANSF": "ABON",
+			"MONTO": "-701.18"
+		},
+		{
+			"CODIGO_UNI": "0011057237",
+			"CONTRATO": "8459688",
+			"FECHA": "43110",
+			"TIPO_MOV": "RES",
+			"TIPO_TRANSF": "ABON",
+			"MONTO": "-701.18"
+		},
+		{
+			"CODIGO_UNI": "0011057237",
+			"CONTRATO": "8459688",
+			"FECHA": "43110",
+			"TIPO_MOV": "RES",
+			"TIPO_TRANSF": "ABON",
+			"MONTO": "-701.18"
+		},
+		{
+			"CODIGO_UNI": "0010599651",
+			"CONTRATO": "8047381",
+			"FECHA": "42619",
+			"TIPO_MOV": "Res",
+			"TIPO_TRANSF": "ABON",
+			"MONTO": "-250.47"
+		},
+		{
+			"CODIGO_UNI": "0010599651",
+			"CONTRATO": "8047381",
+			"FECHA": "42689",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "300"
+		},
+		{
+			"CODIGO_UNI": "0010599651",
+			"CONTRATO": "8047381",
+			"FECHA": "42713",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "2000"
+		},
+		{
+			"CODIGO_UNI": "0010599651",
+			"CONTRATO": "8047381",
+			"FECHA": "42774",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "5000"
+		},
+		{
+			"CODIGO_UNI": "0010599651",
+			"CONTRATO": "8047381",
+			"FECHA": "42774",
+			"TIPO_MOV": "Res",
+			"TIPO_TRANSF": "EFEC",
+			"MONTO": "-35081.19"
+		},
+		{
+			"CODIGO_UNI": "0010599651",
+			"CONTRATO": "8047381",
+			"FECHA": "42775",
+			"TIPO_MOV": "Res",
+			"TIPO_TRANSF": "EFEC",
+			"MONTO": "-35047.339999999997"
+		},
+		{
+			"CODIGO_UNI": "0010599651",
+			"CONTRATO": "8047381",
+			"FECHA": "42794",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "EFEC",
+			"MONTO": "2700"
+		},
+		{
+			"CODIGO_UNI": "0010599651",
+			"CONTRATO": "8047381",
+			"FECHA": "42801",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "1000"
+		},
+		{
+			"CODIGO_UNI": "0010599651",
+			"CONTRATO": "8047381",
+			"FECHA": "42881",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "800"
+		},
+		{
+			"CODIGO_UNI": "0010599651",
+			"CONTRATO": "8047381",
+			"FECHA": "42910",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "960"
+		},
+		{
+			"CODIGO_UNI": "0010599651",
+			"CONTRATO": "8047381",
+			"FECHA": "42941",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "1000"
+		},
+		{
+			"CODIGO_UNI": "0010599651",
+			"CONTRATO": "8047381",
+			"FECHA": "43157",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "120"
+		},
+		{
+			"CODIGO_UNI": "0010599651",
+			"CONTRATO": "8047381",
+			"FECHA": "43185",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "130"
+		},
+		{
+			"CODIGO_UNI": "0010599651",
+			"CONTRATO": "7410808",
+			"FECHA": "42697",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "250"
+		},
+		{
+			"CODIGO_UNI": "0010599651",
+			"CONTRATO": "7410808",
+			"FECHA": "42713",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "500"
+		},
+		{
+			"CODIGO_UNI": "0010599651",
+			"CONTRATO": "7410808",
+			"FECHA": "42748",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "EFEC",
+			"MONTO": "800"
+		},
+		{
+			"CODIGO_UNI": "0010599651",
+			"CONTRATO": "7410808",
+			"FECHA": "42751",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "200"
+		},
+		{
+			"CODIGO_UNI": "0010599651",
+			"CONTRATO": "7410808",
+			"FECHA": "42774",
+			"TIPO_MOV": "Res",
+			"TIPO_TRANSF": "EFEC",
+			"MONTO": "-10015.57"
+		},
+		{
+			"CODIGO_UNI": "0010599651",
+			"CONTRATO": "7410808",
+			"FECHA": "42794",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "EFEC",
+			"MONTO": "950"
+		},
+		{
+			"CODIGO_UNI": "0010599651",
+			"CONTRATO": "7410808",
+			"FECHA": "42881",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "800"
+		},
+		{
+			"CODIGO_UNI": "0010599651",
+			"CONTRATO": "7410808",
+			"FECHA": "42910",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "560"
+		},
+		{
+			"CODIGO_UNI": "0010599651",
+			"CONTRATO": "7410808",
+			"FECHA": "42941",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "300"
+		},
+		{
+			"CODIGO_UNI": "0010599651",
+			"CONTRATO": "7410808",
+			"FECHA": "43019",
+			"TIPO_MOV": "Res",
+			"TIPO_TRANSF": "ABON",
+			"MONTO": "-1000.99"
+		},
+		{
+			"CODIGO_UNI": "0010599651",
+			"CONTRATO": "7410808",
+			"FECHA": "43032",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "100"
+		},
+		{
+			"CODIGO_UNI": "0010599651",
+			"CONTRATO": "7410808",
+			"FECHA": "43038",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "150"
+		},
+		{
+			"CODIGO_UNI": "0010599651",
+			"CONTRATO": "7410808",
+			"FECHA": "43080",
+			"TIPO_MOV": "Res",
+			"TIPO_TRANSF": "ABON",
+			"MONTO": "-1001.16"
+		},
+		{
+			"CODIGO_UNI": "0010599651",
+			"CONTRATO": "7410808",
+			"FECHA": "43090",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "1000"
+		},
+		{
+			"CODIGO_UNI": "0010599651",
+			"CONTRATO": "7410808",
+			"FECHA": "43125",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "300"
+		},
+		{
+			"CODIGO_UNI": "0010599651",
+			"CONTRATO": "7410808",
+			"FECHA": "43185",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "160"
+		},
+		{
+			"CODIGO_UNI": "0009313008",
+			"CONTRATO": "B018991",
+			"FECHA": "43063",
+			"TIPO_MOV": "SUS",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "16000"
+		},
+		{
+			"CODIGO_UNI": "0009313008",
+			"CONTRATO": "B018991",
+			"FECHA": "43084",
+			"TIPO_MOV": "SUS",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "2000"
+		},
+		{
+			"CODIGO_UNI": "0009313008",
+			"CONTRATO": "B018991",
+			"FECHA": "43087",
+			"TIPO_MOV": "SUS",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "2000"
+		},
+		{
+			"CODIGO_UNI": "0009313008",
+			"CONTRATO": "B018991",
+			"FECHA": "43140",
+			"TIPO_MOV": "SUS",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "2000"
+		},
+		{
+			"CODIGO_UNI": "0009313008",
+			"CONTRATO": "8399675",
+			"FECHA": "42503",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "1862"
+		},
+		{
+			"CODIGO_UNI": "0009313008",
+			"CONTRATO": "8399675",
+			"FECHA": "42541",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "2362"
+		},
+		{
+			"CODIGO_UNI": "0009313008",
+			"CONTRATO": "8399675",
+			"FECHA": "42657",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "1404.6"
+		},
+		{
+			"CODIGO_UNI": "0009313008",
+			"CONTRATO": "8399675",
+			"FECHA": "42716",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "3862"
+		},
+		{
+			"CODIGO_UNI": "0009313008",
+			"CONTRATO": "8399675",
+			"FECHA": "42748",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "1000"
+		},
+		{
+			"CODIGO_UNI": "0009313008",
+			"CONTRATO": "8399675",
+			"FECHA": "42781",
+			"TIPO_MOV": "Res",
+			"TIPO_TRANSF": "ABON",
+			"MONTO": "-14504.68"
+		},
+		{
+			"CODIGO_UNI": "0009313008",
+			"CONTRATO": "8399675",
+			"FECHA": "42809",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "5000"
+		},
+		{
+			"CODIGO_UNI": "0009313008",
+			"CONTRATO": "8399675",
+			"FECHA": "42814",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "11623.87"
+		},
+		{
+			"CODIGO_UNI": "0009313008",
+			"CONTRATO": "8399675",
+			"FECHA": "42927",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "5000"
+		},
+		{
+			"CODIGO_UNI": "0009313008",
+			"CONTRATO": "8399675",
+			"FECHA": "43055",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "1000"
+		},
+		{
+			"CODIGO_UNI": "0009313008",
+			"CONTRATO": "8399675",
+			"FECHA": "43097",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "9000"
+		},
+		{
+			"CODIGO_UNI": "0009313008",
+			"CONTRATO": "8399675",
+			"FECHA": "43139",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "3000"
+		},
+		{
+			"CODIGO_UNI": "0009313008",
+			"CONTRATO": "8399675",
+			"FECHA": "43147",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "18302"
+		},
+		{
+			"CODIGO_UNI": "0009313008",
+			"CONTRATO": "8387270",
+			"FECHA": "43024",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "1500"
+		},
+		{
+			"CODIGO_UNI": "0009313008",
+			"CONTRATO": "8387270",
+			"FECHA": "43055",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "3000"
+		},
+		{
+			"CODIGO_UNI": "0009313008",
+			"CONTRATO": "8387270",
+			"FECHA": "43055",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "800"
+		},
+		{
+			"CODIGO_UNI": "0009313008",
+			"CONTRATO": "8387270",
+			"FECHA": "43097",
+			"TIPO_MOV": "Res",
+			"TIPO_TRANSF": "ABON",
+			"MONTO": "-1118.96"
+		},
+		{
+			"CODIGO_UNI": "0009313008",
+			"CONTRATO": "8387270",
+			"FECHA": "43097",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "8000"
+		},
+		{
+			"CODIGO_UNI": "0009313008",
+			"CONTRATO": "8387270",
+			"FECHA": "43098",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "4700"
+		},
+		{
+			"CODIGO_UNI": "0009313008",
+			"CONTRATO": "8387270",
+			"FECHA": "43104",
+			"TIPO_MOV": "Res",
+			"TIPO_TRANSF": "ABON",
+			"MONTO": "-4255.43"
+		},
+		{
+			"CODIGO_UNI": "0009313008",
+			"CONTRATO": "8387270",
+			"FECHA": "43115",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "1600"
+		},
+		{
+			"CODIGO_UNI": "0009313008",
+			"CONTRATO": "8387270",
+			"FECHA": "43124",
+			"TIPO_MOV": "Res",
+			"TIPO_TRANSF": "ABON",
+			"MONTO": "-300.39999999999998"
+		},
+		{
+			"CODIGO_UNI": "0009313008",
+			"CONTRATO": "8387270",
+			"FECHA": "43132",
+			"TIPO_MOV": "Res",
+			"TIPO_TRANSF": "ABON",
+			"MONTO": "-901.24"
+		},
+		{
+			"CODIGO_UNI": "0009313008",
+			"CONTRATO": "8387270",
+			"FECHA": "43137",
+			"TIPO_MOV": "Res",
+			"TIPO_TRANSF": "ABON",
+			"MONTO": "-2002.77"
+		},
+		{
+			"CODIGO_UNI": "0009313008",
+			"CONTRATO": "8387270",
+			"FECHA": "43139",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "7300"
+		},
+		{
+			"CODIGO_UNI": "0009313008",
+			"CONTRATO": "8387270",
+			"FECHA": "43146",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "2700"
+		},
+		{
+			"CODIGO_UNI": "0009313008",
+			"CONTRATO": "8387270",
+			"FECHA": "43147",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "70000"
+		},
+		{
+			"CODIGO_UNI": "0009313008",
+			"CONTRATO": "D018991",
+			"FECHA": "43147",
+			"TIPO_MOV": "SUS",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "85790"
+		},
+		{
+			"CODIGO_UNI": "0009313008",
+			"CONTRATO": "D018991",
+			"FECHA": "43147",
+			"TIPO_MOV": "SUS",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "4620"
+		},
+		{
+			"CODIGO_UNI": "0009313008",
+			"CONTRATO": "D018991",
+			"FECHA": "43192",
+			"TIPO_MOV": "RES",
+			"TIPO_TRANSF": "ABON",
+			"MONTO": "-500.31"
+		},
+		{
+			"CODIGO_UNI": "0009313008",
+			"CONTRATO": "D018991",
+			"FECHA": "43195",
+			"TIPO_MOV": "RES",
+			"TIPO_TRANSF": "ABON",
+			"MONTO": "-1000.64"
+		},
+		{
+			"CODIGO_UNI": "0009313008",
+			"CONTRATO": "C018991",
+			"FECHA": "43091",
+			"TIPO_MOV": "SUS",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "1000"
+		},
+		{
+			"CODIGO_UNI": "0009408372",
+			"CONTRATO": "7278121",
+			"FECHA": "42906",
+			"TIPO_MOV": "Res",
+			"TIPO_TRANSF": "ABON",
+			"MONTO": "-150.12"
+		},
+		{
+			"CODIGO_UNI": "0009408372",
+			"CONTRATO": "7278121",
+			"FECHA": "42907",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "150"
+		},
+		{
+			"CODIGO_UNI": "0009408372",
+			"CONTRATO": "7278121",
+			"FECHA": "42950",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "655.6"
+		},
+		{
+			"CODIGO_UNI": "0009408372",
+			"CONTRATO": "7278121",
+			"FECHA": "42961",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "313"
+		},
+		{
+			"CODIGO_UNI": "0009408372",
+			"CONTRATO": "7278121",
+			"FECHA": "42987",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "116.37"
+		},
+		{
+			"CODIGO_UNI": "0009408372",
+			"CONTRATO": "7278121",
+			"FECHA": "42992",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "237.7"
+		},
+		{
+			"CODIGO_UNI": "0009408372",
+			"CONTRATO": "7278121",
+			"FECHA": "42998",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "189.2"
+		},
+		{
+			"CODIGO_UNI": "0009408372",
+			"CONTRATO": "7278121",
+			"FECHA": "43013",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "179.8"
+		},
+		{
+			"CODIGO_UNI": "0009408372",
+			"CONTRATO": "7278121",
+			"FECHA": "43015",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "188.77"
+		},
+		{
+			"CODIGO_UNI": "0009408372",
+			"CONTRATO": "7278121",
+			"FECHA": "43023",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "400"
+		},
+		{
+			"CODIGO_UNI": "0009408372",
+			"CONTRATO": "7278121",
+			"FECHA": "43044",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "295"
+		},
+		{
+			"CODIGO_UNI": "0009408372",
+			"CONTRATO": "7278121",
+			"FECHA": "43068",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "375.23"
+		},
+		{
+			"CODIGO_UNI": "0009408372",
+			"CONTRATO": "7278121",
+			"FECHA": "43137",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "154"
+		},
+		{
+			"CODIGO_UNI": "0009408372",
+			"CONTRATO": "6701359",
+			"FECHA": "42668",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "1000"
+		},
+		{
+			"CODIGO_UNI": "0009408372",
+			"CONTRATO": "6701359",
+			"FECHA": "42689",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "1000"
+		},
+		{
+			"CODIGO_UNI": "0009408372",
+			"CONTRATO": "6701359",
+			"FECHA": "42711",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "1000"
+		},
+		{
+			"CODIGO_UNI": "0009408372",
+			"CONTRATO": "6701359",
+			"FECHA": "42724",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "1000"
+		},
+		{
+			"CODIGO_UNI": "0009408372",
+			"CONTRATO": "6701359",
+			"FECHA": "42730",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "1000"
+		},
+		{
+			"CODIGO_UNI": "0009408372",
+			"CONTRATO": "6701359",
+			"FECHA": "42765",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "1000"
+		},
+		{
+			"CODIGO_UNI": "0009408372",
+			"CONTRATO": "6701359",
+			"FECHA": "42793",
+			"TIPO_MOV": "Res",
+			"TIPO_TRANSF": "ABON",
+			"MONTO": "-150.30000000000001"
+		},
+		{
+			"CODIGO_UNI": "0009408372",
+			"CONTRATO": "6701359",
+			"FECHA": "42796",
+			"TIPO_MOV": "Res",
+			"TIPO_TRANSF": "ABON",
+			"MONTO": "-147.72"
+		},
+		{
+			"CODIGO_UNI": "0009408372",
+			"CONTRATO": "6701359",
+			"FECHA": "42803",
+			"TIPO_MOV": "Res",
+			"TIPO_TRANSF": "ABON",
+			"MONTO": "-400.83"
+		},
+		{
+			"CODIGO_UNI": "0009408372",
+			"CONTRATO": "6701359",
+			"FECHA": "42829",
+			"TIPO_MOV": "Res",
+			"TIPO_TRANSF": "ABON",
+			"MONTO": "-106.31"
+		},
+		{
+			"CODIGO_UNI": "0009408372",
+			"CONTRATO": "6701359",
+			"FECHA": "42836",
+			"TIPO_MOV": "Res",
+			"TIPO_TRANSF": "EFEC",
+			"MONTO": "-2205.5700000000002"
+		},
+		{
+			"CODIGO_UNI": "0009408372",
+			"CONTRATO": "6701359",
+			"FECHA": "42847",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "1000"
+		},
+		{
+			"CODIGO_UNI": "0009408372",
+			"CONTRATO": "6701359",
+			"FECHA": "42858",
+			"TIPO_MOV": "Res",
+			"TIPO_TRANSF": "ABON",
+			"MONTO": "-1002.59"
+		},
+		{
+			"CODIGO_UNI": "0009408372",
+			"CONTRATO": "6701359",
+			"FECHA": "42890",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "1000"
+		},
+		{
+			"CODIGO_UNI": "0009408372",
+			"CONTRATO": "6701359",
+			"FECHA": "42936",
+			"TIPO_MOV": "Res",
+			"TIPO_TRANSF": "ABON",
+			"MONTO": "-501.56"
+		},
+		{
+			"CODIGO_UNI": "0009408372",
+			"CONTRATO": "6701359",
+			"FECHA": "42955",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "300"
+		},
+		{
+			"CODIGO_UNI": "0009408372",
+			"CONTRATO": "6701359",
+			"FECHA": "43039",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "1000"
+		},
+		{
+			"CODIGO_UNI": "0009408372",
+			"CONTRATO": "6701359",
+			"FECHA": "43074",
+			"TIPO_MOV": "Res",
+			"TIPO_TRANSF": "ABON",
+			"MONTO": "-351.32"
+		},
+		{
+			"CODIGO_UNI": "0009408372",
+			"CONTRATO": "6701359",
+			"FECHA": "43080",
+			"TIPO_MOV": "Res",
+			"TIPO_TRANSF": "ABON",
+			"MONTO": "-501.91"
+		},
+		{
+			"CODIGO_UNI": "0009408372",
+			"CONTRATO": "6701359",
+			"FECHA": "43117",
+			"TIPO_MOV": "Res",
+			"TIPO_TRANSF": "ABON",
+			"MONTO": "-502.09"
+		},
+		{
+			"CODIGO_UNI": "0009408372",
+			"CONTRATO": "6701359",
+			"FECHA": "43127",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "1000"
+		},
+		{
+			"CODIGO_UNI": "0009408372",
+			"CONTRATO": "6701359",
+			"FECHA": "43136",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "500"
+		},
+		{
+			"CODIGO_UNI": "0009408372",
+			"CONTRATO": "6701359",
+			"FECHA": "43177",
+			"TIPO_MOV": "Res",
+			"TIPO_TRANSF": "ABON",
+			"MONTO": "-502"
+		},
+		{
+			"CODIGO_UNI": "0009408372",
+			"CONTRATO": "6701359",
+			"FECHA": "43199",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "500"
+		},
+		{
+			"CODIGO_UNI": "0010819043",
+			"CONTRATO": "7963750",
+			"FECHA": "43035",
+			"TIPO_MOV": "Res",
+			"TIPO_TRANSF": "ABON",
+			"MONTO": "-150.1"
+		},
+		{
+			"CODIGO_UNI": "0010819043",
+			"CONTRATO": "7963750",
+			"FECHA": "43037",
+			"TIPO_MOV": "Res",
+			"TIPO_TRANSF": "ABON",
+			"MONTO": "-900.63"
+		},
+		{
+			"CODIGO_UNI": "0010819043",
+			"CONTRATO": "7963750",
+			"FECHA": "43076",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "1000"
+		},
+		{
+			"CODIGO_UNI": "0010819043",
+			"CONTRATO": "7963750",
+			"FECHA": "43082",
+			"TIPO_MOV": "Res",
+			"TIPO_TRANSF": "ABON",
+			"MONTO": "-260.10000000000002"
+		},
+		{
+			"CODIGO_UNI": "0010819043",
+			"CONTRATO": "7963750",
+			"FECHA": "43084",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "260"
+		},
+		{
+			"CODIGO_UNI": "0010819043",
+			"CONTRATO": "7963750",
+			"FECHA": "43088",
+			"TIPO_MOV": "Res",
+			"TIPO_TRANSF": "ABON",
+			"MONTO": "-100.04"
+		},
+		{
+			"CODIGO_UNI": "0010819043",
+			"CONTRATO": "7963750",
+			"FECHA": "43138",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "400"
+		},
+		{
+			"CODIGO_UNI": "0010819043",
+			"CONTRATO": "7963750",
+			"FECHA": "43138",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "1600"
+		},
+		{
+			"CODIGO_UNI": "0010819043",
+			"CONTRATO": "7963750",
+			"FECHA": "43138",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "400"
+		},
+		{
+			"CODIGO_UNI": "0010819043",
+			"CONTRATO": "7963750",
+			"FECHA": "43157",
+			"TIPO_MOV": "Res",
+			"TIPO_TRANSF": "ABON",
+			"MONTO": "-200.09"
+		},
+		{
+			"CODIGO_UNI": "0010819043",
+			"CONTRATO": "7963750",
+			"FECHA": "43168",
+			"TIPO_MOV": "Res",
+			"TIPO_TRANSF": "ABON",
+			"MONTO": "-400.19"
+		},
+		{
+			"CODIGO_UNI": "0010819043",
+			"CONTRATO": "7963750",
+			"FECHA": "43181",
+			"TIPO_MOV": "Res",
+			"TIPO_TRANSF": "ABON",
+			"MONTO": "-550.27"
+		},
+		{
+			"CODIGO_UNI": "0010819043",
+			"CONTRATO": "7963750",
+			"FECHA": "43182",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "500"
+		},
+		{
+			"CODIGO_UNI": "0010819043",
+			"CONTRATO": "7963750",
+			"FECHA": "43185",
+			"TIPO_MOV": "Res",
+			"TIPO_TRANSF": "ABON",
+			"MONTO": "-100.04"
+		},
+		{
+			"CODIGO_UNI": "0010819043",
+			"CONTRATO": "7963750",
+			"FECHA": "43194",
+			"TIPO_MOV": "Res",
+			"TIPO_TRANSF": "ABON",
+			"MONTO": "-150.07"
+		},
+		{
+			"CODIGO_UNI": "0009346280",
+			"CONTRATO": "7346576",
+			"FECHA": "40877",
+			"TIPO_MOV": "SUS",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "5000"
+		},
+		{
+			"CODIGO_UNI": "0009346280",
+			"CONTRATO": "7346576",
+			"FECHA": "40897",
+			"TIPO_MOV": "SUS",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "150"
+		},
+		{
+			"CODIGO_UNI": "0009346280",
+			"CONTRATO": "7346576",
+			"FECHA": "40908",
+			"TIPO_MOV": "SUS",
+			"TIPO_TRANSF": "EFEC",
+			"MONTO": "1400"
+		},
+		{
+			"CODIGO_UNI": "0009346280",
+			"CONTRATO": "7346576",
+			"FECHA": "41005",
+			"TIPO_MOV": "SUS",
+			"TIPO_TRANSF": "EFEC",
+			"MONTO": "500"
+		},
+		{
+			"CODIGO_UNI": "0009346280",
+			"CONTRATO": "7346576",
+			"FECHA": "41040",
+			"TIPO_MOV": "SUS",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "1000"
+		},
+		{
+			"CODIGO_UNI": "0009346280",
+			"CONTRATO": "7346576",
+			"FECHA": "41089",
+			"TIPO_MOV": "SUS",
+			"TIPO_TRANSF": "EFEC",
+			"MONTO": "600"
+		},
+		{
+			"CODIGO_UNI": "0009346280",
+			"CONTRATO": "7346576",
+			"FECHA": "41178",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "400"
+		},
+		{
+			"CODIGO_UNI": "0009346280",
+			"CONTRATO": "7346576",
+			"FECHA": "41191",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "EFEC",
+			"MONTO": "700"
+		},
+		{
+			"CODIGO_UNI": "0009346280",
+			"CONTRATO": "7346576",
+			"FECHA": "41461",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "EFEC",
+			"MONTO": "400"
+		},
+		{
+			"CODIGO_UNI": "0009346280",
+			"CONTRATO": "7346576",
+			"FECHA": "41493",
+			"TIPO_MOV": "Res",
+			"TIPO_TRANSF": "ABON",
+			"MONTO": "-944.68"
+		},
+		{
+			"CODIGO_UNI": "0009346280",
+			"CONTRATO": "7346576",
+			"FECHA": "41500",
+			"TIPO_MOV": "Res",
+			"TIPO_TRANSF": "ABON",
+			"MONTO": "-1000.74"
+		},
+		{
+			"CODIGO_UNI": "0009346280",
+			"CONTRATO": "7346576",
+			"FECHA": "41528",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "2979.94"
+		},
+		{
+			"CODIGO_UNI": "0009346280",
+			"CONTRATO": "7346576",
+			"FECHA": "41558",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "427"
+		},
+		{
+			"CODIGO_UNI": "0009346280",
+			"CONTRATO": "7346576",
+			"FECHA": "41586",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "EFEC",
+			"MONTO": "500"
+		},
+		{
+			"CODIGO_UNI": "0009346280",
+			"CONTRATO": "7346576",
+			"FECHA": "41591",
+			"TIPO_MOV": "Res",
+			"TIPO_TRANSF": "ABON",
+			"MONTO": "-330.19"
+		},
+		{
+			"CODIGO_UNI": "0009346280",
+			"CONTRATO": "7346576",
+			"FECHA": "41645",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "EFEC",
+			"MONTO": "300"
+		},
+		{
+			"CODIGO_UNI": "0009346280",
+			"CONTRATO": "7346576",
+			"FECHA": "41688",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "EFEC",
+			"MONTO": "400"
+		},
+		{
+			"CODIGO_UNI": "0009346280",
+			"CONTRATO": "7346576",
+			"FECHA": "41711",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "500"
+		},
+		{
+			"CODIGO_UNI": "0009346280",
+			"CONTRATO": "7346576",
+			"FECHA": "41739",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "560"
+		},
+		{
+			"CODIGO_UNI": "0009346280",
+			"CONTRATO": "7346576",
+			"FECHA": "41887",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "EFEC",
+			"MONTO": "400"
+		},
+		{
+			"CODIGO_UNI": "0009346280",
+			"CONTRATO": "7346576",
+			"FECHA": "41915",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "EFEC",
+			"MONTO": "400"
+		},
+		{
+			"CODIGO_UNI": "0009346280",
+			"CONTRATO": "7346576",
+			"FECHA": "42026",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "290"
+		},
+		{
+			"CODIGO_UNI": "0009346280",
+			"CONTRATO": "7346576",
+			"FECHA": "42041",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "307"
+		},
+		{
+			"CODIGO_UNI": "0009346280",
+			"CONTRATO": "7346576",
+			"FECHA": "42235",
+			"TIPO_MOV": "Res",
+			"TIPO_TRANSF": "CHGE",
+			"MONTO": "-15038.77"
+		},
+		{
+			"CODIGO_UNI": "0009346280",
+			"CONTRATO": "7346576",
+			"FECHA": "42401",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "1646"
+		},
+		{
+			"CODIGO_UNI": "0009346280",
+			"CONTRATO": "7346576",
+			"FECHA": "42488",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "1141.21"
+		},
+		{
+			"CODIGO_UNI": "0009346280",
+			"CONTRATO": "7346576",
+			"FECHA": "42578",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "560"
+		},
+		{
+			"CODIGO_UNI": "0009346280",
+			"CONTRATO": "7346576",
+			"FECHA": "42635",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "340"
+		},
+		{
+			"CODIGO_UNI": "0009346280",
+			"CONTRATO": "7346576",
+			"FECHA": "42640",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "400"
+		},
+		{
+			"CODIGO_UNI": "0009346280",
+			"CONTRATO": "7346576",
+			"FECHA": "42734",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "952"
+		},
+		{
+			"CODIGO_UNI": "0009346280",
+			"CONTRATO": "7346576",
+			"FECHA": "42884",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "1000"
+		},
+		{
+			"CODIGO_UNI": "0009346280",
+			"CONTRATO": "7346576",
+			"FECHA": "43098",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "1685"
+		},
+		{
+			"CODIGO_UNI": "0009346280",
+			"CONTRATO": "7346576",
+			"FECHA": "43130",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "200"
+		},
+		{
+			"CODIGO_UNI": "0009346280",
+			"CONTRATO": "A007131",
+			"FECHA": "42733",
+			"TIPO_MOV": "SUS",
+			"TIPO_TRANSF": "EFEC",
+			"MONTO": "5000"
+		},
+		{
+			"CODIGO_UNI": "0009346280",
+			"CONTRATO": "A007131",
+			"FECHA": "42734",
+			"TIPO_MOV": "SUS",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "400"
+		},
+		{
+			"CODIGO_UNI": "0009346280",
+			"CONTRATO": "A007131",
+			"FECHA": "42752",
+			"TIPO_MOV": "SUS",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "400"
+		},
+		{
+			"CODIGO_UNI": "0009346280",
+			"CONTRATO": "A007131",
+			"FECHA": "42766",
+			"TIPO_MOV": "SUS",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "403"
+		},
+		{
+			"CODIGO_UNI": "0009346280",
+			"CONTRATO": "A007131",
+			"FECHA": "42774",
+			"TIPO_MOV": "SUS",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "5500"
+		},
+		{
+			"CODIGO_UNI": "0009346280",
+			"CONTRATO": "A007131",
+			"FECHA": "42781",
+			"TIPO_MOV": "SUS",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "400"
+		},
+		{
+			"CODIGO_UNI": "0009346280",
+			"CONTRATO": "A007131",
+			"FECHA": "42794",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "400"
+		},
+		{
+			"CODIGO_UNI": "0009346280",
+			"CONTRATO": "A007131",
+			"FECHA": "42809",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "400"
+		},
+		{
+			"CODIGO_UNI": "0009346280",
+			"CONTRATO": "A007131",
+			"FECHA": "42824",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "400"
+		},
+		{
+			"CODIGO_UNI": "0009346280",
+			"CONTRATO": "A007131",
+			"FECHA": "42831",
+			"TIPO_MOV": "Res",
+			"TIPO_TRANSF": "CHGE",
+			"MONTO": "-10407.19"
+		},
+		{
+			"CODIGO_UNI": "0009346280",
+			"CONTRATO": "A007131",
+			"FECHA": "42842",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "2800"
+		},
+		{
+			"CODIGO_UNI": "0009346280",
+			"CONTRATO": "A007131",
+			"FECHA": "42863",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "800"
+		},
+		{
+			"CODIGO_UNI": "0009346280",
+			"CONTRATO": "A007131",
+			"FECHA": "42884",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "800"
+		},
+		{
+			"CODIGO_UNI": "0009346280",
+			"CONTRATO": "A007131",
+			"FECHA": "42915",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "800"
+		},
+		{
+			"CODIGO_UNI": "0009346280",
+			"CONTRATO": "A007131",
+			"FECHA": "42927",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "800"
+		},
+		{
+			"CODIGO_UNI": "0009346280",
+			"CONTRATO": "A007131",
+			"FECHA": "42944",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "800"
+		},
+		{
+			"CODIGO_UNI": "0009346280",
+			"CONTRATO": "A007131",
+			"FECHA": "42976",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "800"
+		},
+		{
+			"CODIGO_UNI": "0009346280",
+			"CONTRATO": "A007131",
+			"FECHA": "43007",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "800"
+		},
+		{
+			"CODIGO_UNI": "0009346280",
+			"CONTRATO": "A007131",
+			"FECHA": "43035",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "800"
+		},
+		{
+			"CODIGO_UNI": "0009346280",
+			"CONTRATO": "A007131",
+			"FECHA": "43041",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "800"
+		},
+		{
+			"CODIGO_UNI": "0009346280",
+			"CONTRATO": "A007131",
+			"FECHA": "43067",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "800"
+		},
+		{
+			"CODIGO_UNI": "0009346280",
+			"CONTRATO": "A007131",
+			"FECHA": "43078",
+			"TIPO_MOV": "Res",
+			"TIPO_TRANSF": "ABON",
+			"MONTO": "-3003.65"
+		},
+		{
+			"CODIGO_UNI": "0009346280",
+			"CONTRATO": "A007131",
+			"FECHA": "43080",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "4500"
+		},
+		{
+			"CODIGO_UNI": "0009346280",
+			"CONTRATO": "A007131",
+			"FECHA": "43098",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "800"
+		},
+		{
+			"CODIGO_UNI": "0009346280",
+			"CONTRATO": "A007131",
+			"FECHA": "43113",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "1000"
+		},
+		{
+			"CODIGO_UNI": "0009346280",
+			"CONTRATO": "A007131",
+			"FECHA": "43130",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "100"
+		},
+		{
+			"CODIGO_UNI": "0009346280",
+			"CONTRATO": "A007131",
+			"FECHA": "43130",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "1000"
+		},
+		{
+			"CODIGO_UNI": "0009346280",
+			"CONTRATO": "A007131",
+			"FECHA": "43160",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "1000"
+		},
+		{
+			"CODIGO_UNI": "0009346280",
+			"CONTRATO": "A007131",
+			"FECHA": "43161",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "EFEC",
+			"MONTO": "1939.55"
+		},
+		{
+			"CODIGO_UNI": "0009346280",
+			"CONTRATO": "A007131",
+			"FECHA": "43173",
+			"TIPO_MOV": "Res",
+			"TIPO_TRANSF": "ABON",
+			"MONTO": "-2702.6"
+		},
+		{
+			"CODIGO_UNI": "0009346280",
+			"CONTRATO": "A007131",
+			"FECHA": "43177",
+			"TIPO_MOV": "Res",
+			"TIPO_TRANSF": "ABON",
+			"MONTO": "-2001.86"
+		},
+		{
+			"CODIGO_UNI": "0009346280",
+			"CONTRATO": "A007131",
+			"FECHA": "43187",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "1000"
+		},
+		{
+			"CODIGO_UNI": "0011496103",
+			"CONTRATO": "6965357",
+			"FECHA": "40518",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "EFEC",
+			"MONTO": "2345"
+		},
+		{
+			"CODIGO_UNI": "0011496103",
+			"CONTRATO": "6577316",
+			"FECHA": "40171",
+			"TIPO_MOV": "SUS",
+			"TIPO_TRANSF": "EFEC",
+			"MONTO": "1500"
+		},
+		{
+			"CODIGO_UNI": "0011496103",
+			"CONTRATO": "6577316",
+			"FECHA": "40327",
+			"TIPO_MOV": "SUS",
+			"TIPO_TRANSF": "EFEC",
+			"MONTO": "6000"
+		},
+		{
+			"CODIGO_UNI": "0011496103",
+			"CONTRATO": "6577316",
+			"FECHA": "42417",
+			"TIPO_MOV": "SUS",
+			"TIPO_TRANSF": "EFEC",
+			"MONTO": "1500"
+		},
+		{
+			"CODIGO_UNI": "0011496103",
+			"CONTRATO": "6577316",
+			"FECHA": "42475",
+			"TIPO_MOV": "SUS",
+			"TIPO_TRANSF": "EFEC",
+			"MONTO": "400"
+		},
+		{
+			"CODIGO_UNI": "0011496103",
+			"CONTRATO": "6577316",
+			"FECHA": "42587",
+			"TIPO_MOV": "RES",
+			"TIPO_TRANSF": "EFEC",
+			"MONTO": "-1015.18"
+		},
+		{
+			"CODIGO_UNI": "0011496103",
+			"CONTRATO": "6577316",
+			"FECHA": "42648",
+			"TIPO_MOV": "RES",
+			"TIPO_TRANSF": "ABON",
+			"MONTO": "-5006.63"
+		},
+		{
+			"CODIGO_UNI": "0011496103",
+			"CONTRATO": "7522512",
+			"FECHA": "41067",
+			"TIPO_MOV": "SUS",
+			"TIPO_TRANSF": "EFEC",
+			"MONTO": "5300"
+		},
+		{
+			"CODIGO_UNI": "0011496103",
+			"CONTRATO": "7522512",
+			"FECHA": "42258",
+			"TIPO_MOV": "SUS",
+			"TIPO_TRANSF": "EFEC",
+			"MONTO": "400"
+		},
+		{
+			"CODIGO_UNI": "0011496103",
+			"CONTRATO": "6973063",
+			"FECHA": "40525",
+			"TIPO_MOV": "SUS",
+			"TIPO_TRANSF": "EFEC",
+			"MONTO": "6000"
+		},
+		{
+			"CODIGO_UNI": "0011496103",
+			"CONTRATO": "6973063",
+			"FECHA": "40532",
+			"TIPO_MOV": "SUS",
+			"TIPO_TRANSF": "EFEC",
+			"MONTO": "10000"
+		},
+		{
+			"CODIGO_UNI": "0011496103",
+			"CONTRATO": "6973063",
+			"FECHA": "40553",
+			"TIPO_MOV": "SUS",
+			"TIPO_TRANSF": "EFEC",
+			"MONTO": "4000"
+		},
+		{
+			"CODIGO_UNI": "0011496103",
+			"CONTRATO": "6973063",
+			"FECHA": "42487",
+			"TIPO_MOV": "SUS",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "10000"
+		},
+		{
+			"CODIGO_UNI": "0011496103",
+			"CONTRATO": "6973063",
+			"FECHA": "42536",
+			"TIPO_MOV": "SUS",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "10000"
+		},
+		{
+			"CODIGO_UNI": "0011496103",
+			"CONTRATO": "6973063",
+			"FECHA": "42564",
+			"TIPO_MOV": "RES",
+			"TIPO_TRANSF": "ABON",
+			"MONTO": "-10707.88"
+		},
+		{
+			"CODIGO_UNI": "0011496103",
+			"CONTRATO": "6973063",
+			"FECHA": "42571",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "5000"
+		},
+		{
+			"CODIGO_UNI": "0011496103",
+			"CONTRATO": "6973063",
+			"FECHA": "42572",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "5000"
+		},
+		{
+			"CODIGO_UNI": "0011496103",
+			"CONTRATO": "6973063",
+			"FECHA": "42576",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "5000"
+		},
+		{
+			"CODIGO_UNI": "0011496103",
+			"CONTRATO": "6973063",
+			"FECHA": "42600",
+			"TIPO_MOV": "Res",
+			"TIPO_TRANSF": "ABON",
+			"MONTO": "-11457.42"
+		},
+		{
+			"CODIGO_UNI": "0011496103",
+			"CONTRATO": "6973063",
+			"FECHA": "42605",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "15000"
+		},
+		{
+			"CODIGO_UNI": "0011496103",
+			"CONTRATO": "6973063",
+			"FECHA": "42621",
+			"TIPO_MOV": "Res",
+			"TIPO_TRANSF": "ABON",
+			"MONTO": "-16442.689999999999"
+		},
+		{
+			"CODIGO_UNI": "0011496103",
+			"CONTRATO": "6973063",
+			"FECHA": "42625",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "10000"
+		},
+		{
+			"CODIGO_UNI": "0011496103",
+			"CONTRATO": "6973063",
+			"FECHA": "42626",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "15000"
+		},
+		{
+			"CODIGO_UNI": "0011496103",
+			"CONTRATO": "6973063",
+			"FECHA": "42691",
+			"TIPO_MOV": "Res",
+			"TIPO_TRANSF": "ABON",
+			"MONTO": "-34661.360000000001"
+		},
+		{
+			"CODIGO_UNI": "0011496103",
+			"CONTRATO": "6973063",
+			"FECHA": "42711",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "35000"
+		},
+		{
+			"CODIGO_UNI": "0011496103",
+			"CONTRATO": "6973063",
+			"FECHA": "42965",
+			"TIPO_MOV": "Res",
+			"TIPO_TRANSF": "ABON",
+			"MONTO": "-35129.14"
+		},
+		{
+			"CODIGO_UNI": "0011496103",
+			"CONTRATO": "6973063",
+			"FECHA": "42975",
+			"TIPO_MOV": "Res",
+			"TIPO_TRANSF": "ABON",
+			"MONTO": "-4972.28"
+		},
+		{
+			"CODIGO_UNI": "0011496103",
+			"CONTRATO": "6973063",
+			"FECHA": "43020",
+			"TIPO_MOV": "Res",
+			"TIPO_TRANSF": "ABON",
+			"MONTO": "-13981.29"
+		},
+		{
+			"CODIGO_UNI": "0011496103",
+			"CONTRATO": "6973063",
+			"FECHA": "43076",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "15000"
+		},
+		{
+			"CODIGO_UNI": "0011496103",
+			"CONTRATO": "6973063",
+			"FECHA": "43132",
+			"TIPO_MOV": "Res",
+			"TIPO_TRANSF": "ABON",
+			"MONTO": "-16249.99"
+		},
+		{
+			"CODIGO_UNI": "0011496103",
+			"CONTRATO": "6973063",
+			"FECHA": "43147",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "15000"
+		},
+		{
+			"CODIGO_UNI": "0011496103",
+			"CONTRATO": "6973063",
+			"FECHA": "43161",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "15000"
+		},
+		{
+			"CODIGO_UNI": "0011496103",
+			"CONTRATO": "A030321",
+			"FECHA": "42906",
+			"TIPO_MOV": "SUS",
+			"TIPO_TRANSF": "EFEC",
+			"MONTO": "3000"
+		},
+		{
+			"CODIGO_UNI": "0011496103",
+			"CONTRATO": "A030321",
+			"FECHA": "42912",
+			"TIPO_MOV": "SUS",
+			"TIPO_TRANSF": "EFEC",
+			"MONTO": "5000"
+		},
+		{
+			"CODIGO_UNI": "0011496103",
+			"CONTRATO": "A030321",
+			"FECHA": "42940",
+			"TIPO_MOV": "RES",
+			"TIPO_TRANSF": "ABON",
+			"MONTO": "-3194.04"
+		},
+		{
+			"CODIGO_UNI": "0011496103",
+			"CONTRATO": "A030321",
+			"FECHA": "42947",
+			"TIPO_MOV": "RES",
+			"TIPO_TRANSF": "ABON",
+			"MONTO": "-5229.63"
+		},
+		{
+			"CODIGO_UNI": "0011496103",
+			"CONTRATO": "A030321",
+			"FECHA": "43059",
+			"TIPO_MOV": "SUS",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "30000"
+		},
+		{
+			"CODIGO_UNI": "0011496103",
+			"CONTRATO": "A030321",
+			"FECHA": "43087",
+			"TIPO_MOV": "SUS",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "13000"
+		},
+		{
+			"CODIGO_UNI": "0011496103",
+			"CONTRATO": "A030321",
+			"FECHA": "43122",
+			"TIPO_MOV": "Res",
+			"TIPO_TRANSF": "ABON",
+			"MONTO": "-31743"
+		},
+		{
+			"CODIGO_UNI": "0011496103",
+			"CONTRATO": "A030321",
+			"FECHA": "43132",
+			"TIPO_MOV": "Res",
+			"TIPO_TRANSF": "ABON",
+			"MONTO": "-14243.17"
+		},
+		{
+			"CODIGO_UNI": "0011496103",
+			"CONTRATO": "A030321",
+			"FECHA": "43147",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "15000"
+		},
+		{
+			"CODIGO_UNI": "0011496103",
+			"CONTRATO": "A030321",
+			"FECHA": "43161",
+			"TIPO_MOV": "Sus",
+			"TIPO_TRANSF": "CARG",
+			"MONTO": "15000"
+		},
+		{
+			"CODIGO_UNI": ""
+		}
+	]
+}	

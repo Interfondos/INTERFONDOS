@@ -1,0 +1,2779 @@
+{
+  "valores_cuota" : [
+    {
+      "Nombre Fondo": "IF Cash Soles FMIV",
+      "Fecha": "43160",
+      "Valor": "138.89109999999977",
+      "Calculado": "138.89109999999977"
+    },
+    {
+      "Nombre Fondo": "IF Cash Soles FMIV",
+      "Fecha": "43161",
+      "Valor": "139.04109999999977",
+      "Calculado": "139.04109999999977"
+    },
+    {
+      "Nombre Fondo": "IF Cash Soles FMIV",
+      "Fecha": "43162",
+      "Valor": "139.19109999999978",
+      "Calculado": "139.19109999999978"
+    },
+    {
+      "Nombre Fondo": "IF Cash Soles FMIV",
+      "Fecha": "43163",
+      "Valor": "139.34109999999978",
+      "Calculado": "139.34109999999978"
+    },
+    {
+      "Nombre Fondo": "IF Cash Soles FMIV",
+      "Fecha": "43164",
+      "Valor": "139.49109999999979",
+      "Calculado": "139.49109999999979"
+    },
+    {
+      "Nombre Fondo": "IF Cash Soles FMIV",
+      "Fecha": "43165",
+      "Valor": "139.6410999999998",
+      "Calculado": "139.6410999999998"
+    },
+    {
+      "Nombre Fondo": "IF Cash Soles FMIV",
+      "Fecha": "43166",
+      "Valor": "139.7910999999998",
+      "Calculado": "139.7910999999998"
+    },
+    {
+      "Nombre Fondo": "IF Cash Soles FMIV",
+      "Fecha": "43167",
+      "Valor": "139.94109999999981",
+      "Calculado": "139.94109999999981"
+    },
+    {
+      "Nombre Fondo": "IF Cash Soles FMIV",
+      "Fecha": "43168",
+      "Valor": "140.09109999999981",
+      "Calculado": "140.09109999999981"
+    },
+    {
+      "Nombre Fondo": "IF Cash Soles FMIV",
+      "Fecha": "43169",
+      "Valor": "140.24109999999982",
+      "Calculado": "140.24109999999982"
+    },
+    {
+      "Nombre Fondo": "IF Cash Soles FMIV",
+      "Fecha": "43170",
+      "Valor": "140.39109999999982",
+      "Calculado": "140.39109999999982"
+    },
+    {
+      "Nombre Fondo": "IF Cash Soles FMIV",
+      "Fecha": "43171",
+      "Valor": "140.54109999999983",
+      "Calculado": "140.54109999999983"
+    },
+    {
+      "Nombre Fondo": "IF Cash Soles FMIV",
+      "Fecha": "43172",
+      "Valor": "140.69109999999984",
+      "Calculado": "140.69109999999984"
+    },
+    {
+      "Nombre Fondo": "IF Cash Soles FMIV",
+      "Fecha": "43173",
+      "Valor": "140.84109999999984",
+      "Calculado": "140.84109999999984"
+    },
+    {
+      "Nombre Fondo": "IF Cash Soles FMIV",
+      "Fecha": "43174",
+      "Valor": "140.99109999999985",
+      "Calculado": "140.99109999999985"
+    },
+    {
+      "Nombre Fondo": "IF Cash Soles FMIV",
+      "Fecha": "43175",
+      "Valor": "141.14109999999985",
+      "Calculado": "141.14109999999985"
+    },
+    {
+      "Nombre Fondo": "IF Cash Soles FMIV",
+      "Fecha": "43176",
+      "Valor": "141.29109999999986",
+      "Calculado": "141.29109999999986"
+    },
+    {
+      "Nombre Fondo": "IF Cash Soles FMIV",
+      "Fecha": "43177",
+      "Valor": "141.44109999999986",
+      "Calculado": "141.44109999999986"
+    },
+    {
+      "Nombre Fondo": "IF Cash Soles FMIV",
+      "Fecha": "43178",
+      "Valor": "141.59109999999987",
+      "Calculado": "141.59109999999987"
+    },
+    {
+      "Nombre Fondo": "IF Cash Soles FMIV",
+      "Fecha": "43179",
+      "Valor": "141.74109999999988",
+      "Calculado": "141.74109999999988"
+    },
+    {
+      "Nombre Fondo": "IF Cash Soles FMIV",
+      "Fecha": "43180",
+      "Valor": "141.89109999999988",
+      "Calculado": "141.89109999999988"
+    },
+    {
+      "Nombre Fondo": "IF Cash Soles FMIV",
+      "Fecha": "43181",
+      "Valor": "142.04109999999989",
+      "Calculado": "142.04109999999989"
+    },
+    {
+      "Nombre Fondo": "IF Cash Soles FMIV",
+      "Fecha": "43182",
+      "Valor": "142.19109999999989",
+      "Calculado": "142.19109999999989"
+    },
+    {
+      "Nombre Fondo": "IF Cash Soles FMIV",
+      "Fecha": "43183",
+      "Valor": "142.3410999999999",
+      "Calculado": "142.3410999999999"
+    },
+    {
+      "Nombre Fondo": "IF Cash Soles FMIV",
+      "Fecha": "43184",
+      "Valor": "142.4910999999999",
+      "Calculado": "142.4910999999999"
+    },
+    {
+      "Nombre Fondo": "IF Cash Soles FMIV",
+      "Fecha": "43185",
+      "Valor": "142.64109999999991",
+      "Calculado": "142.64109999999991"
+    },
+    {
+      "Nombre Fondo": "IF Cash Soles FMIV",
+      "Fecha": "43186",
+      "Valor": "142.79109999999991",
+      "Calculado": "142.79109999999991"
+    },
+    {
+      "Nombre Fondo": "IF Cash Soles FMIV",
+      "Fecha": "43187",
+      "Valor": "142.94109999999992",
+      "Calculado": "142.94109999999992"
+    },
+    {
+      "Nombre Fondo": "IF Cash Soles FMIV",
+      "Fecha": "43188",
+      "Valor": "143.09109999999993",
+      "Calculado": "143.09109999999993"
+    },
+    {
+      "Nombre Fondo": "IF Cash Soles FMIV",
+      "Fecha": "43189",
+      "Valor": "143.24109999999993",
+      "Calculado": "143.24109999999993"
+    },
+    {
+      "Nombre Fondo": "IF Cash Soles FMIV",
+      "Fecha": "43190",
+      "Valor": "143.39109999999994",
+      "Calculado": "143.39109999999994"
+    },
+    {
+      "Nombre Fondo": "IF Cash Soles FMIV",
+      "Fecha": "43191",
+      "Valor": "143.54109999999994",
+      "Calculado": "143.54109999999994"
+    },
+    {
+      "Nombre Fondo": "IF Cash Soles FMIV",
+      "Fecha": "43192",
+      "Valor": "143.69109999999995",
+      "Calculado": "143.69109999999995"
+    },
+    {
+      "Nombre Fondo": "IF Cash Soles FMIV",
+      "Fecha": "43193",
+      "Valor": "143.84109999999995",
+      "Calculado": "143.84109999999995"
+    },
+    {
+      "Nombre Fondo": "IF Cash Soles FMIV",
+      "Fecha": "43194",
+      "Valor": "143.99109999999996",
+      "Calculado": "143.99109999999996"
+    },
+    {
+      "Nombre Fondo": "IF Cash Soles FMIV",
+      "Fecha": "43195",
+      "Valor": "144.14109999999997",
+      "Calculado": "144.14109999999997"
+    },
+    {
+      "Nombre Fondo": "IF Cash Soles FMIV",
+      "Fecha": "43196",
+      "Valor": "144.29109999999997",
+      "Calculado": "144.29109999999997"
+    },
+    {
+      "Nombre Fondo": "IF Cash Soles FMIV",
+      "Fecha": "43197",
+      "Valor": "144.44109999999998",
+      "Calculado": "144.44109999999998"
+    },
+    {
+      "Nombre Fondo": "IF Cash Soles FMIV",
+      "Fecha": "43198",
+      "Valor": "144.59109999999998",
+      "Calculado": "144.59109999999998"
+    },
+    {
+      "Nombre Fondo": "IF Cash Soles FMIV",
+      "Fecha": "43199",
+      "Valor": "144.74109999999999",
+      "Calculado": "144.74109999999999"
+    },
+    {
+      "Nombre Fondo": "IF Cash Soles FMIV",
+      "Fecha": "43200",
+      "Valor": "144.89109999999999",
+      "Calculado": "144.89109999999999"
+    },
+    {
+      "Nombre Fondo": "IF Cash Soles FMIV",
+      "Fecha": "43201",
+      "Valor": "145.0411",
+      "Calculado": "145.0411"
+    },
+    {
+      "Nombre Fondo": "IF Oportunidad Soles FMIV",
+      "Fecha": "43160",
+      "Valor": "116.07959999999977",
+      "Calculado": "116.07959999999977"
+    },
+    {
+      "Nombre Fondo": "IF Oportunidad Soles FMIV",
+      "Fecha": "43161",
+      "Valor": "116.22959999999978",
+      "Calculado": "116.22959999999978"
+    },
+    {
+      "Nombre Fondo": "IF Oportunidad Soles FMIV",
+      "Fecha": "43162",
+      "Valor": "116.37959999999978",
+      "Calculado": "116.37959999999978"
+    },
+    {
+      "Nombre Fondo": "IF Oportunidad Soles FMIV",
+      "Fecha": "43163",
+      "Valor": "116.52959999999979",
+      "Calculado": "116.52959999999979"
+    },
+    {
+      "Nombre Fondo": "IF Oportunidad Soles FMIV",
+      "Fecha": "43164",
+      "Valor": "116.67959999999979",
+      "Calculado": "116.67959999999979"
+    },
+    {
+      "Nombre Fondo": "IF Oportunidad Soles FMIV",
+      "Fecha": "43165",
+      "Valor": "116.8295999999998",
+      "Calculado": "116.8295999999998"
+    },
+    {
+      "Nombre Fondo": "IF Oportunidad Soles FMIV",
+      "Fecha": "43166",
+      "Valor": "116.97959999999981",
+      "Calculado": "116.97959999999981"
+    },
+    {
+      "Nombre Fondo": "IF Oportunidad Soles FMIV",
+      "Fecha": "43167",
+      "Valor": "117.12959999999981",
+      "Calculado": "117.12959999999981"
+    },
+    {
+      "Nombre Fondo": "IF Oportunidad Soles FMIV",
+      "Fecha": "43168",
+      "Valor": "117.27959999999982",
+      "Calculado": "117.27959999999982"
+    },
+    {
+      "Nombre Fondo": "IF Oportunidad Soles FMIV",
+      "Fecha": "43169",
+      "Valor": "117.42959999999982",
+      "Calculado": "117.42959999999982"
+    },
+    {
+      "Nombre Fondo": "IF Oportunidad Soles FMIV",
+      "Fecha": "43170",
+      "Valor": "117.57959999999983",
+      "Calculado": "117.57959999999983"
+    },
+    {
+      "Nombre Fondo": "IF Oportunidad Soles FMIV",
+      "Fecha": "43171",
+      "Valor": "117.72959999999983",
+      "Calculado": "117.72959999999983"
+    },
+    {
+      "Nombre Fondo": "IF Oportunidad Soles FMIV",
+      "Fecha": "43172",
+      "Valor": "117.87959999999984",
+      "Calculado": "117.87959999999984"
+    },
+    {
+      "Nombre Fondo": "IF Oportunidad Soles FMIV",
+      "Fecha": "43173",
+      "Valor": "118.02959999999985",
+      "Calculado": "118.02959999999985"
+    },
+    {
+      "Nombre Fondo": "IF Oportunidad Soles FMIV",
+      "Fecha": "43174",
+      "Valor": "118.17959999999985",
+      "Calculado": "118.17959999999985"
+    },
+    {
+      "Nombre Fondo": "IF Oportunidad Soles FMIV",
+      "Fecha": "43175",
+      "Valor": "118.32959999999986",
+      "Calculado": "118.32959999999986"
+    },
+    {
+      "Nombre Fondo": "IF Oportunidad Soles FMIV",
+      "Fecha": "43176",
+      "Valor": "118.47959999999986",
+      "Calculado": "118.47959999999986"
+    },
+    {
+      "Nombre Fondo": "IF Oportunidad Soles FMIV",
+      "Fecha": "43177",
+      "Valor": "118.62959999999987",
+      "Calculado": "118.62959999999987"
+    },
+    {
+      "Nombre Fondo": "IF Oportunidad Soles FMIV",
+      "Fecha": "43178",
+      "Valor": "118.77959999999987",
+      "Calculado": "118.77959999999987"
+    },
+    {
+      "Nombre Fondo": "IF Oportunidad Soles FMIV",
+      "Fecha": "43179",
+      "Valor": "118.92959999999988",
+      "Calculado": "118.92959999999988"
+    },
+    {
+      "Nombre Fondo": "IF Oportunidad Soles FMIV",
+      "Fecha": "43180",
+      "Valor": "119.07959999999989",
+      "Calculado": "119.07959999999989"
+    },
+    {
+      "Nombre Fondo": "IF Oportunidad Soles FMIV",
+      "Fecha": "43181",
+      "Valor": "119.22959999999989",
+      "Calculado": "119.22959999999989"
+    },
+    {
+      "Nombre Fondo": "IF Oportunidad Soles FMIV",
+      "Fecha": "43182",
+      "Valor": "119.3795999999999",
+      "Calculado": "119.3795999999999"
+    },
+    {
+      "Nombre Fondo": "IF Oportunidad Soles FMIV",
+      "Fecha": "43183",
+      "Valor": "119.5295999999999",
+      "Calculado": "119.5295999999999"
+    },
+    {
+      "Nombre Fondo": "IF Oportunidad Soles FMIV",
+      "Fecha": "43184",
+      "Valor": "119.67959999999991",
+      "Calculado": "119.67959999999991"
+    },
+    {
+      "Nombre Fondo": "IF Oportunidad Soles FMIV",
+      "Fecha": "43185",
+      "Valor": "119.82959999999991",
+      "Calculado": "119.82959999999991"
+    },
+    {
+      "Nombre Fondo": "IF Oportunidad Soles FMIV",
+      "Fecha": "43186",
+      "Valor": "119.97959999999992",
+      "Calculado": "119.97959999999992"
+    },
+    {
+      "Nombre Fondo": "IF Oportunidad Soles FMIV",
+      "Fecha": "43187",
+      "Valor": "120.12959999999993",
+      "Calculado": "120.12959999999993"
+    },
+    {
+      "Nombre Fondo": "IF Oportunidad Soles FMIV",
+      "Fecha": "43188",
+      "Valor": "120.27959999999993",
+      "Calculado": "120.27959999999993"
+    },
+    {
+      "Nombre Fondo": "IF Oportunidad Soles FMIV",
+      "Fecha": "43189",
+      "Valor": "120.42959999999994",
+      "Calculado": "120.42959999999994"
+    },
+    {
+      "Nombre Fondo": "IF Oportunidad Soles FMIV",
+      "Fecha": "43190",
+      "Valor": "120.57959999999994",
+      "Calculado": "120.57959999999994"
+    },
+    {
+      "Nombre Fondo": "IF Oportunidad Soles FMIV",
+      "Fecha": "43191",
+      "Valor": "120.72959999999995",
+      "Calculado": "120.72959999999995"
+    },
+    {
+      "Nombre Fondo": "IF Oportunidad Soles FMIV",
+      "Fecha": "43192",
+      "Valor": "120.87959999999995",
+      "Calculado": "120.87959999999995"
+    },
+    {
+      "Nombre Fondo": "IF Oportunidad Soles FMIV",
+      "Fecha": "43193",
+      "Valor": "121.02959999999996",
+      "Calculado": "121.02959999999996"
+    },
+    {
+      "Nombre Fondo": "IF Oportunidad Soles FMIV",
+      "Fecha": "43194",
+      "Valor": "121.17959999999997",
+      "Calculado": "121.17959999999997"
+    },
+    {
+      "Nombre Fondo": "IF Oportunidad Soles FMIV",
+      "Fecha": "43195",
+      "Valor": "121.32959999999997",
+      "Calculado": "121.32959999999997"
+    },
+    {
+      "Nombre Fondo": "IF Oportunidad Soles FMIV",
+      "Fecha": "43196",
+      "Valor": "121.47959999999998",
+      "Calculado": "121.47959999999998"
+    },
+    {
+      "Nombre Fondo": "IF Oportunidad Soles FMIV",
+      "Fecha": "43197",
+      "Valor": "121.62959999999998",
+      "Calculado": "121.62959999999998"
+    },
+    {
+      "Nombre Fondo": "IF Oportunidad Soles FMIV",
+      "Fecha": "43198",
+      "Valor": "121.77959999999999",
+      "Calculado": "121.77959999999999"
+    },
+    {
+      "Nombre Fondo": "IF Oportunidad Soles FMIV",
+      "Fecha": "43199",
+      "Valor": "121.92959999999999",
+      "Calculado": "121.92959999999999"
+    },
+    {
+      "Nombre Fondo": "IF Oportunidad Soles FMIV",
+      "Fecha": "43200",
+      "Valor": "122.0796",
+      "Calculado": "122.0796"
+    },
+    {
+      "Nombre Fondo": "IF Oportunidad Soles FMIV",
+      "Fecha": "43201",
+      "Valor": "122.2296",
+      "Calculado": "122.2296"
+    },
+    {
+      "Nombre Fondo": "IF Extra Conservador FMIV",
+      "Fecha": "43160",
+      "Valor": "101.45979999999977",
+      "Calculado": "101.45979999999977"
+    },
+    {
+      "Nombre Fondo": "IF Extra Conservador FMIV",
+      "Fecha": "43161",
+      "Valor": "101.60979999999978",
+      "Calculado": "101.60979999999978"
+    },
+    {
+      "Nombre Fondo": "IF Extra Conservador FMIV",
+      "Fecha": "43162",
+      "Valor": "101.75979999999979",
+      "Calculado": "101.75979999999979"
+    },
+    {
+      "Nombre Fondo": "IF Extra Conservador FMIV",
+      "Fecha": "43163",
+      "Valor": "101.90979999999979",
+      "Calculado": "101.90979999999979"
+    },
+    {
+      "Nombre Fondo": "IF Extra Conservador FMIV",
+      "Fecha": "43164",
+      "Valor": "102.0597999999998",
+      "Calculado": "102.0597999999998"
+    },
+    {
+      "Nombre Fondo": "IF Extra Conservador FMIV",
+      "Fecha": "43165",
+      "Valor": "102.2097999999998",
+      "Calculado": "102.2097999999998"
+    },
+    {
+      "Nombre Fondo": "IF Extra Conservador FMIV",
+      "Fecha": "43166",
+      "Valor": "102.35979999999981",
+      "Calculado": "102.35979999999981"
+    },
+    {
+      "Nombre Fondo": "IF Extra Conservador FMIV",
+      "Fecha": "43167",
+      "Valor": "102.50979999999981",
+      "Calculado": "102.50979999999981"
+    },
+    {
+      "Nombre Fondo": "IF Extra Conservador FMIV",
+      "Fecha": "43168",
+      "Valor": "102.65979999999982",
+      "Calculado": "102.65979999999982"
+    },
+    {
+      "Nombre Fondo": "IF Extra Conservador FMIV",
+      "Fecha": "43169",
+      "Valor": "102.80979999999983",
+      "Calculado": "102.80979999999983"
+    },
+    {
+      "Nombre Fondo": "IF Extra Conservador FMIV",
+      "Fecha": "43170",
+      "Valor": "102.95979999999983",
+      "Calculado": "102.95979999999983"
+    },
+    {
+      "Nombre Fondo": "IF Extra Conservador FMIV",
+      "Fecha": "43171",
+      "Valor": "103.10979999999984",
+      "Calculado": "103.10979999999984"
+    },
+    {
+      "Nombre Fondo": "IF Extra Conservador FMIV",
+      "Fecha": "43172",
+      "Valor": "103.25979999999984",
+      "Calculado": "103.25979999999984"
+    },
+    {
+      "Nombre Fondo": "IF Extra Conservador FMIV",
+      "Fecha": "43173",
+      "Valor": "103.40979999999985",
+      "Calculado": "103.40979999999985"
+    },
+    {
+      "Nombre Fondo": "IF Extra Conservador FMIV",
+      "Fecha": "43174",
+      "Valor": "103.55979999999985",
+      "Calculado": "103.55979999999985"
+    },
+    {
+      "Nombre Fondo": "IF Extra Conservador FMIV",
+      "Fecha": "43175",
+      "Valor": "103.70979999999986",
+      "Calculado": "103.70979999999986"
+    },
+    {
+      "Nombre Fondo": "IF Extra Conservador FMIV",
+      "Fecha": "43176",
+      "Valor": "103.85979999999986",
+      "Calculado": "103.85979999999986"
+    },
+    {
+      "Nombre Fondo": "IF Extra Conservador FMIV",
+      "Fecha": "43177",
+      "Valor": "104.00979999999987",
+      "Calculado": "104.00979999999987"
+    },
+    {
+      "Nombre Fondo": "IF Extra Conservador FMIV",
+      "Fecha": "43178",
+      "Valor": "104.15979999999988",
+      "Calculado": "104.15979999999988"
+    },
+    {
+      "Nombre Fondo": "IF Extra Conservador FMIV",
+      "Fecha": "43179",
+      "Valor": "104.30979999999988",
+      "Calculado": "104.30979999999988"
+    },
+    {
+      "Nombre Fondo": "IF Extra Conservador FMIV",
+      "Fecha": "43180",
+      "Valor": "104.45979999999989",
+      "Calculado": "104.45979999999989"
+    },
+    {
+      "Nombre Fondo": "IF Extra Conservador FMIV",
+      "Fecha": "43181",
+      "Valor": "104.60979999999989",
+      "Calculado": "104.60979999999989"
+    },
+    {
+      "Nombre Fondo": "IF Extra Conservador FMIV",
+      "Fecha": "43182",
+      "Valor": "104.7597999999999",
+      "Calculado": "104.7597999999999"
+    },
+    {
+      "Nombre Fondo": "IF Extra Conservador FMIV",
+      "Fecha": "43183",
+      "Valor": "104.9097999999999",
+      "Calculado": "104.9097999999999"
+    },
+    {
+      "Nombre Fondo": "IF Extra Conservador FMIV",
+      "Fecha": "43184",
+      "Valor": "105.05979999999991",
+      "Calculado": "105.05979999999991"
+    },
+    {
+      "Nombre Fondo": "IF Extra Conservador FMIV",
+      "Fecha": "43185",
+      "Valor": "105.20979999999992",
+      "Calculado": "105.20979999999992"
+    },
+    {
+      "Nombre Fondo": "IF Extra Conservador FMIV",
+      "Fecha": "43186",
+      "Valor": "105.35979999999992",
+      "Calculado": "105.35979999999992"
+    },
+    {
+      "Nombre Fondo": "IF Extra Conservador FMIV",
+      "Fecha": "43187",
+      "Valor": "105.50979999999993",
+      "Calculado": "105.50979999999993"
+    },
+    {
+      "Nombre Fondo": "IF Extra Conservador FMIV",
+      "Fecha": "43188",
+      "Valor": "105.65979999999993",
+      "Calculado": "105.65979999999993"
+    },
+    {
+      "Nombre Fondo": "IF Extra Conservador FMIV",
+      "Fecha": "43189",
+      "Valor": "105.80979999999994",
+      "Calculado": "105.80979999999994"
+    },
+    {
+      "Nombre Fondo": "IF Extra Conservador FMIV",
+      "Fecha": "43190",
+      "Valor": "105.95979999999994",
+      "Calculado": "105.95979999999994"
+    },
+    {
+      "Nombre Fondo": "IF Extra Conservador FMIV",
+      "Fecha": "43191",
+      "Valor": "106.10979999999995",
+      "Calculado": "106.10979999999995"
+    },
+    {
+      "Nombre Fondo": "IF Extra Conservador FMIV",
+      "Fecha": "43192",
+      "Valor": "106.25979999999996",
+      "Calculado": "106.25979999999996"
+    },
+    {
+      "Nombre Fondo": "IF Extra Conservador FMIV",
+      "Fecha": "43193",
+      "Valor": "106.40979999999996",
+      "Calculado": "106.40979999999996"
+    },
+    {
+      "Nombre Fondo": "IF Extra Conservador FMIV",
+      "Fecha": "43194",
+      "Valor": "106.55979999999997",
+      "Calculado": "106.55979999999997"
+    },
+    {
+      "Nombre Fondo": "IF Extra Conservador FMIV",
+      "Fecha": "43195",
+      "Valor": "106.70979999999997",
+      "Calculado": "106.70979999999997"
+    },
+    {
+      "Nombre Fondo": "IF Extra Conservador FMIV",
+      "Fecha": "43196",
+      "Valor": "106.85979999999998",
+      "Calculado": "106.85979999999998"
+    },
+    {
+      "Nombre Fondo": "IF Extra Conservador FMIV",
+      "Fecha": "43197",
+      "Valor": "107.00979999999998",
+      "Calculado": "107.00979999999998"
+    },
+    {
+      "Nombre Fondo": "IF Extra Conservador FMIV",
+      "Fecha": "43198",
+      "Valor": "107.15979999999999",
+      "Calculado": "107.15979999999999"
+    },
+    {
+      "Nombre Fondo": "IF Extra Conservador FMIV",
+      "Fecha": "43199",
+      "Valor": "107.3098",
+      "Calculado": "107.3098"
+    },
+    {
+      "Nombre Fondo": "IF Extra Conservador FMIV",
+      "Fecha": "43200",
+      "Valor": "107.4598",
+      "Calculado": "107.4598"
+    },
+    {
+      "Nombre Fondo": "IF Extra Conservador FMIV",
+      "Fecha": "43201",
+      "Valor": "107.60980000000001",
+      "Calculado": "107.60980000000001"
+    },
+    {
+      "Nombre Fondo": "IF Mediano Plazo FMIV",
+      "Fecha": "43160",
+      "Valor": "97.706599999999767",
+      "Calculado": "97.706599999999767"
+    },
+    {
+      "Nombre Fondo": "IF Mediano Plazo FMIV",
+      "Fecha": "43161",
+      "Valor": "97.856599999999773",
+      "Calculado": "97.856599999999773"
+    },
+    {
+      "Nombre Fondo": "IF Mediano Plazo FMIV",
+      "Fecha": "43162",
+      "Valor": "98.006599999999779",
+      "Calculado": "98.006599999999779"
+    },
+    {
+      "Nombre Fondo": "IF Mediano Plazo FMIV",
+      "Fecha": "43163",
+      "Valor": "98.156599999999784",
+      "Calculado": "98.156599999999784"
+    },
+    {
+      "Nombre Fondo": "IF Mediano Plazo FMIV",
+      "Fecha": "43164",
+      "Valor": "98.30659999999979",
+      "Calculado": "98.30659999999979"
+    },
+    {
+      "Nombre Fondo": "IF Mediano Plazo FMIV",
+      "Fecha": "43165",
+      "Valor": "98.456599999999796",
+      "Calculado": "98.456599999999796"
+    },
+    {
+      "Nombre Fondo": "IF Mediano Plazo FMIV",
+      "Fecha": "43166",
+      "Valor": "98.606599999999801",
+      "Calculado": "98.606599999999801"
+    },
+    {
+      "Nombre Fondo": "IF Mediano Plazo FMIV",
+      "Fecha": "43167",
+      "Valor": "98.756599999999807",
+      "Calculado": "98.756599999999807"
+    },
+    {
+      "Nombre Fondo": "IF Mediano Plazo FMIV",
+      "Fecha": "43168",
+      "Valor": "98.906599999999813",
+      "Calculado": "98.906599999999813"
+    },
+    {
+      "Nombre Fondo": "IF Mediano Plazo FMIV",
+      "Fecha": "43169",
+      "Valor": "99.056599999999818",
+      "Calculado": "99.056599999999818"
+    },
+    {
+      "Nombre Fondo": "IF Mediano Plazo FMIV",
+      "Fecha": "43170",
+      "Valor": "99.206599999999824",
+      "Calculado": "99.206599999999824"
+    },
+    {
+      "Nombre Fondo": "IF Mediano Plazo FMIV",
+      "Fecha": "43171",
+      "Valor": "99.35659999999983",
+      "Calculado": "99.35659999999983"
+    },
+    {
+      "Nombre Fondo": "IF Mediano Plazo FMIV",
+      "Fecha": "43172",
+      "Valor": "99.506599999999835",
+      "Calculado": "99.506599999999835"
+    },
+    {
+      "Nombre Fondo": "IF Mediano Plazo FMIV",
+      "Fecha": "43173",
+      "Valor": "99.656599999999841",
+      "Calculado": "99.656599999999841"
+    },
+    {
+      "Nombre Fondo": "IF Mediano Plazo FMIV",
+      "Fecha": "43174",
+      "Valor": "99.806599999999847",
+      "Calculado": "99.806599999999847"
+    },
+    {
+      "Nombre Fondo": "IF Mediano Plazo FMIV",
+      "Fecha": "43175",
+      "Valor": "99.956599999999852",
+      "Calculado": "99.956599999999852"
+    },
+    {
+      "Nombre Fondo": "IF Mediano Plazo FMIV",
+      "Fecha": "43176",
+      "Valor": "100.10659999999986",
+      "Calculado": "100.10659999999986"
+    },
+    {
+      "Nombre Fondo": "IF Mediano Plazo FMIV",
+      "Fecha": "43177",
+      "Valor": "100.25659999999986",
+      "Calculado": "100.25659999999986"
+    },
+    {
+      "Nombre Fondo": "IF Mediano Plazo FMIV",
+      "Fecha": "43178",
+      "Valor": "100.40659999999987",
+      "Calculado": "100.40659999999987"
+    },
+    {
+      "Nombre Fondo": "IF Mediano Plazo FMIV",
+      "Fecha": "43179",
+      "Valor": "100.55659999999988",
+      "Calculado": "100.55659999999988"
+    },
+    {
+      "Nombre Fondo": "IF Mediano Plazo FMIV",
+      "Fecha": "43180",
+      "Valor": "100.70659999999988",
+      "Calculado": "100.70659999999988"
+    },
+    {
+      "Nombre Fondo": "IF Mediano Plazo FMIV",
+      "Fecha": "43181",
+      "Valor": "100.85659999999989",
+      "Calculado": "100.85659999999989"
+    },
+    {
+      "Nombre Fondo": "IF Mediano Plazo FMIV",
+      "Fecha": "43182",
+      "Valor": "101.00659999999989",
+      "Calculado": "101.00659999999989"
+    },
+    {
+      "Nombre Fondo": "IF Mediano Plazo FMIV",
+      "Fecha": "43183",
+      "Valor": "101.1565999999999",
+      "Calculado": "101.1565999999999"
+    },
+    {
+      "Nombre Fondo": "IF Mediano Plazo FMIV",
+      "Fecha": "43184",
+      "Valor": "101.3065999999999",
+      "Calculado": "101.3065999999999"
+    },
+    {
+      "Nombre Fondo": "IF Mediano Plazo FMIV",
+      "Fecha": "43185",
+      "Valor": "101.45659999999991",
+      "Calculado": "101.45659999999991"
+    },
+    {
+      "Nombre Fondo": "IF Mediano Plazo FMIV",
+      "Fecha": "43186",
+      "Valor": "101.60659999999991",
+      "Calculado": "101.60659999999991"
+    },
+    {
+      "Nombre Fondo": "IF Mediano Plazo FMIV",
+      "Fecha": "43187",
+      "Valor": "101.75659999999992",
+      "Calculado": "101.75659999999992"
+    },
+    {
+      "Nombre Fondo": "IF Mediano Plazo FMIV",
+      "Fecha": "43188",
+      "Valor": "101.90659999999993",
+      "Calculado": "101.90659999999993"
+    },
+    {
+      "Nombre Fondo": "IF Mediano Plazo FMIV",
+      "Fecha": "43189",
+      "Valor": "102.05659999999993",
+      "Calculado": "102.05659999999993"
+    },
+    {
+      "Nombre Fondo": "IF Mediano Plazo FMIV",
+      "Fecha": "43190",
+      "Valor": "102.20659999999994",
+      "Calculado": "102.20659999999994"
+    },
+    {
+      "Nombre Fondo": "IF Mediano Plazo FMIV",
+      "Fecha": "43191",
+      "Valor": "102.35659999999994",
+      "Calculado": "102.35659999999994"
+    },
+    {
+      "Nombre Fondo": "IF Mediano Plazo FMIV",
+      "Fecha": "43192",
+      "Valor": "102.50659999999995",
+      "Calculado": "102.50659999999995"
+    },
+    {
+      "Nombre Fondo": "IF Mediano Plazo FMIV",
+      "Fecha": "43193",
+      "Valor": "102.65659999999995",
+      "Calculado": "102.65659999999995"
+    },
+    {
+      "Nombre Fondo": "IF Mediano Plazo FMIV",
+      "Fecha": "43194",
+      "Valor": "102.80659999999996",
+      "Calculado": "102.80659999999996"
+    },
+    {
+      "Nombre Fondo": "IF Mediano Plazo FMIV",
+      "Fecha": "43195",
+      "Valor": "102.95659999999997",
+      "Calculado": "102.95659999999997"
+    },
+    {
+      "Nombre Fondo": "IF Mediano Plazo FMIV",
+      "Fecha": "43196",
+      "Valor": "103.10659999999997",
+      "Calculado": "103.10659999999997"
+    },
+    {
+      "Nombre Fondo": "IF Mediano Plazo FMIV",
+      "Fecha": "43197",
+      "Valor": "103.25659999999998",
+      "Calculado": "103.25659999999998"
+    },
+    {
+      "Nombre Fondo": "IF Mediano Plazo FMIV",
+      "Fecha": "43198",
+      "Valor": "103.40659999999998",
+      "Calculado": "103.40659999999998"
+    },
+    {
+      "Nombre Fondo": "IF Mediano Plazo FMIV",
+      "Fecha": "43199",
+      "Valor": "103.55659999999999",
+      "Calculado": "103.55659999999999"
+    },
+    {
+      "Nombre Fondo": "IF Mediano Plazo FMIV",
+      "Fecha": "43200",
+      "Valor": "103.70659999999999",
+      "Calculado": "103.70659999999999"
+    },
+    {
+      "Nombre Fondo": "IF Mediano Plazo FMIV",
+      "Fecha": "43201",
+      "Valor": "103.8566",
+      "Calculado": "103.8566"
+    },
+    {
+      "Nombre Fondo": "IF Mediano Plazo Soles FMIV",
+      "Fecha": "43160",
+      "Valor": "185.69469999999976",
+      "Calculado": "185.69469999999976"
+    },
+    {
+      "Nombre Fondo": "IF Mediano Plazo Soles FMIV",
+      "Fecha": "43161",
+      "Valor": "185.84469999999976",
+      "Calculado": "185.84469999999976"
+    },
+    {
+      "Nombre Fondo": "IF Mediano Plazo Soles FMIV",
+      "Fecha": "43162",
+      "Valor": "185.99469999999977",
+      "Calculado": "185.99469999999977"
+    },
+    {
+      "Nombre Fondo": "IF Mediano Plazo Soles FMIV",
+      "Fecha": "43163",
+      "Valor": "186.14469999999977",
+      "Calculado": "186.14469999999977"
+    },
+    {
+      "Nombre Fondo": "IF Mediano Plazo Soles FMIV",
+      "Fecha": "43164",
+      "Valor": "186.29469999999978",
+      "Calculado": "186.29469999999978"
+    },
+    {
+      "Nombre Fondo": "IF Mediano Plazo Soles FMIV",
+      "Fecha": "43165",
+      "Valor": "186.44469999999978",
+      "Calculado": "186.44469999999978"
+    },
+    {
+      "Nombre Fondo": "IF Mediano Plazo Soles FMIV",
+      "Fecha": "43166",
+      "Valor": "186.59469999999979",
+      "Calculado": "186.59469999999979"
+    },
+    {
+      "Nombre Fondo": "IF Mediano Plazo Soles FMIV",
+      "Fecha": "43167",
+      "Valor": "186.7446999999998",
+      "Calculado": "186.7446999999998"
+    },
+    {
+      "Nombre Fondo": "IF Mediano Plazo Soles FMIV",
+      "Fecha": "43168",
+      "Valor": "186.8946999999998",
+      "Calculado": "186.8946999999998"
+    },
+    {
+      "Nombre Fondo": "IF Mediano Plazo Soles FMIV",
+      "Fecha": "43169",
+      "Valor": "187.04469999999981",
+      "Calculado": "187.04469999999981"
+    },
+    {
+      "Nombre Fondo": "IF Mediano Plazo Soles FMIV",
+      "Fecha": "43170",
+      "Valor": "187.19469999999981",
+      "Calculado": "187.19469999999981"
+    },
+    {
+      "Nombre Fondo": "IF Mediano Plazo Soles FMIV",
+      "Fecha": "43171",
+      "Valor": "187.34469999999982",
+      "Calculado": "187.34469999999982"
+    },
+    {
+      "Nombre Fondo": "IF Mediano Plazo Soles FMIV",
+      "Fecha": "43172",
+      "Valor": "187.49469999999982",
+      "Calculado": "187.49469999999982"
+    },
+    {
+      "Nombre Fondo": "IF Mediano Plazo Soles FMIV",
+      "Fecha": "43173",
+      "Valor": "187.64469999999983",
+      "Calculado": "187.64469999999983"
+    },
+    {
+      "Nombre Fondo": "IF Mediano Plazo Soles FMIV",
+      "Fecha": "43174",
+      "Valor": "187.79469999999984",
+      "Calculado": "187.79469999999984"
+    },
+    {
+      "Nombre Fondo": "IF Mediano Plazo Soles FMIV",
+      "Fecha": "43175",
+      "Valor": "187.94469999999984",
+      "Calculado": "187.94469999999984"
+    },
+    {
+      "Nombre Fondo": "IF Mediano Plazo Soles FMIV",
+      "Fecha": "43176",
+      "Valor": "188.09469999999985",
+      "Calculado": "188.09469999999985"
+    },
+    {
+      "Nombre Fondo": "IF Mediano Plazo Soles FMIV",
+      "Fecha": "43177",
+      "Valor": "188.24469999999985",
+      "Calculado": "188.24469999999985"
+    },
+    {
+      "Nombre Fondo": "IF Mediano Plazo Soles FMIV",
+      "Fecha": "43178",
+      "Valor": "188.39469999999986",
+      "Calculado": "188.39469999999986"
+    },
+    {
+      "Nombre Fondo": "IF Mediano Plazo Soles FMIV",
+      "Fecha": "43179",
+      "Valor": "188.54469999999986",
+      "Calculado": "188.54469999999986"
+    },
+    {
+      "Nombre Fondo": "IF Mediano Plazo Soles FMIV",
+      "Fecha": "43180",
+      "Valor": "188.69469999999987",
+      "Calculado": "188.69469999999987"
+    },
+    {
+      "Nombre Fondo": "IF Mediano Plazo Soles FMIV",
+      "Fecha": "43181",
+      "Valor": "188.84469999999988",
+      "Calculado": "188.84469999999988"
+    },
+    {
+      "Nombre Fondo": "IF Mediano Plazo Soles FMIV",
+      "Fecha": "43182",
+      "Valor": "188.99469999999988",
+      "Calculado": "188.99469999999988"
+    },
+    {
+      "Nombre Fondo": "IF Mediano Plazo Soles FMIV",
+      "Fecha": "43183",
+      "Valor": "189.14469999999989",
+      "Calculado": "189.14469999999989"
+    },
+    {
+      "Nombre Fondo": "IF Mediano Plazo Soles FMIV",
+      "Fecha": "43184",
+      "Valor": "189.29469999999989",
+      "Calculado": "189.29469999999989"
+    },
+    {
+      "Nombre Fondo": "IF Mediano Plazo Soles FMIV",
+      "Fecha": "43185",
+      "Valor": "189.4446999999999",
+      "Calculado": "189.4446999999999"
+    },
+    {
+      "Nombre Fondo": "IF Mediano Plazo Soles FMIV",
+      "Fecha": "43186",
+      "Valor": "189.5946999999999",
+      "Calculado": "189.5946999999999"
+    },
+    {
+      "Nombre Fondo": "IF Mediano Plazo Soles FMIV",
+      "Fecha": "43187",
+      "Valor": "189.74469999999991",
+      "Calculado": "189.74469999999991"
+    },
+    {
+      "Nombre Fondo": "IF Mediano Plazo Soles FMIV",
+      "Fecha": "43188",
+      "Valor": "189.89469999999992",
+      "Calculado": "189.89469999999992"
+    },
+    {
+      "Nombre Fondo": "IF Mediano Plazo Soles FMIV",
+      "Fecha": "43189",
+      "Valor": "190.04469999999992",
+      "Calculado": "190.04469999999992"
+    },
+    {
+      "Nombre Fondo": "IF Mediano Plazo Soles FMIV",
+      "Fecha": "43190",
+      "Valor": "190.19469999999993",
+      "Calculado": "190.19469999999993"
+    },
+    {
+      "Nombre Fondo": "IF Mediano Plazo Soles FMIV",
+      "Fecha": "43191",
+      "Valor": "190.34469999999993",
+      "Calculado": "190.34469999999993"
+    },
+    {
+      "Nombre Fondo": "IF Mediano Plazo Soles FMIV",
+      "Fecha": "43192",
+      "Valor": "190.49469999999994",
+      "Calculado": "190.49469999999994"
+    },
+    {
+      "Nombre Fondo": "IF Mediano Plazo Soles FMIV",
+      "Fecha": "43193",
+      "Valor": "190.64469999999994",
+      "Calculado": "190.64469999999994"
+    },
+    {
+      "Nombre Fondo": "IF Mediano Plazo Soles FMIV",
+      "Fecha": "43194",
+      "Valor": "190.79469999999995",
+      "Calculado": "190.79469999999995"
+    },
+    {
+      "Nombre Fondo": "IF Mediano Plazo Soles FMIV",
+      "Fecha": "43195",
+      "Valor": "190.94469999999995",
+      "Calculado": "190.94469999999995"
+    },
+    {
+      "Nombre Fondo": "IF Mediano Plazo Soles FMIV",
+      "Fecha": "43196",
+      "Valor": "191.09469999999996",
+      "Calculado": "191.09469999999996"
+    },
+    {
+      "Nombre Fondo": "IF Mediano Plazo Soles FMIV",
+      "Fecha": "43197",
+      "Valor": "191.24469999999997",
+      "Calculado": "191.24469999999997"
+    },
+    {
+      "Nombre Fondo": "IF Mediano Plazo Soles FMIV",
+      "Fecha": "43198",
+      "Valor": "191.39469999999997",
+      "Calculado": "191.39469999999997"
+    },
+    {
+      "Nombre Fondo": "IF Mediano Plazo Soles FMIV",
+      "Fecha": "43199",
+      "Valor": "191.54469999999998",
+      "Calculado": "191.54469999999998"
+    },
+    {
+      "Nombre Fondo": "IF Mediano Plazo Soles FMIV",
+      "Fecha": "43200",
+      "Valor": "191.69469999999998",
+      "Calculado": "191.69469999999998"
+    },
+    {
+      "Nombre Fondo": "IF Mediano Plazo Soles FMIV",
+      "Fecha": "43201",
+      "Valor": "191.84469999999999",
+      "Calculado": "191.84469999999999"
+    },
+    {
+      "Nombre Fondo": "IF Extra Conservador Soles FMIV",
+      "Fecha": "43160",
+      "Valor": "129.39639999999977",
+      "Calculado": "129.39639999999977"
+    },
+    {
+      "Nombre Fondo": "IF Extra Conservador Soles FMIV",
+      "Fecha": "43161",
+      "Valor": "129.54639999999978",
+      "Calculado": "129.54639999999978"
+    },
+    {
+      "Nombre Fondo": "IF Extra Conservador Soles FMIV",
+      "Fecha": "43162",
+      "Valor": "129.69639999999978",
+      "Calculado": "129.69639999999978"
+    },
+    {
+      "Nombre Fondo": "IF Extra Conservador Soles FMIV",
+      "Fecha": "43163",
+      "Valor": "129.84639999999979",
+      "Calculado": "129.84639999999979"
+    },
+    {
+      "Nombre Fondo": "IF Extra Conservador Soles FMIV",
+      "Fecha": "43164",
+      "Valor": "129.9963999999998",
+      "Calculado": "129.9963999999998"
+    },
+    {
+      "Nombre Fondo": "IF Extra Conservador Soles FMIV",
+      "Fecha": "43165",
+      "Valor": "130.1463999999998",
+      "Calculado": "130.1463999999998"
+    },
+    {
+      "Nombre Fondo": "IF Extra Conservador Soles FMIV",
+      "Fecha": "43166",
+      "Valor": "130.29639999999981",
+      "Calculado": "130.29639999999981"
+    },
+    {
+      "Nombre Fondo": "IF Extra Conservador Soles FMIV",
+      "Fecha": "43167",
+      "Valor": "130.44639999999981",
+      "Calculado": "130.44639999999981"
+    },
+    {
+      "Nombre Fondo": "IF Extra Conservador Soles FMIV",
+      "Fecha": "43168",
+      "Valor": "130.59639999999982",
+      "Calculado": "130.59639999999982"
+    },
+    {
+      "Nombre Fondo": "IF Extra Conservador Soles FMIV",
+      "Fecha": "43169",
+      "Valor": "130.74639999999982",
+      "Calculado": "130.74639999999982"
+    },
+    {
+      "Nombre Fondo": "IF Extra Conservador Soles FMIV",
+      "Fecha": "43170",
+      "Valor": "130.89639999999983",
+      "Calculado": "130.89639999999983"
+    },
+    {
+      "Nombre Fondo": "IF Extra Conservador Soles FMIV",
+      "Fecha": "43171",
+      "Valor": "131.04639999999984",
+      "Calculado": "131.04639999999984"
+    },
+    {
+      "Nombre Fondo": "IF Extra Conservador Soles FMIV",
+      "Fecha": "43172",
+      "Valor": "131.19639999999984",
+      "Calculado": "131.19639999999984"
+    },
+    {
+      "Nombre Fondo": "IF Extra Conservador Soles FMIV",
+      "Fecha": "43173",
+      "Valor": "131.34639999999985",
+      "Calculado": "131.34639999999985"
+    },
+    {
+      "Nombre Fondo": "IF Extra Conservador Soles FMIV",
+      "Fecha": "43174",
+      "Valor": "131.49639999999985",
+      "Calculado": "131.49639999999985"
+    },
+    {
+      "Nombre Fondo": "IF Extra Conservador Soles FMIV",
+      "Fecha": "43175",
+      "Valor": "131.64639999999986",
+      "Calculado": "131.64639999999986"
+    },
+    {
+      "Nombre Fondo": "IF Extra Conservador Soles FMIV",
+      "Fecha": "43176",
+      "Valor": "131.79639999999986",
+      "Calculado": "131.79639999999986"
+    },
+    {
+      "Nombre Fondo": "IF Extra Conservador Soles FMIV",
+      "Fecha": "43177",
+      "Valor": "131.94639999999987",
+      "Calculado": "131.94639999999987"
+    },
+    {
+      "Nombre Fondo": "IF Extra Conservador Soles FMIV",
+      "Fecha": "43178",
+      "Valor": "132.09639999999987",
+      "Calculado": "132.09639999999987"
+    },
+    {
+      "Nombre Fondo": "IF Extra Conservador Soles FMIV",
+      "Fecha": "43179",
+      "Valor": "132.24639999999988",
+      "Calculado": "132.24639999999988"
+    },
+    {
+      "Nombre Fondo": "IF Extra Conservador Soles FMIV",
+      "Fecha": "43180",
+      "Valor": "132.39639999999989",
+      "Calculado": "132.39639999999989"
+    },
+    {
+      "Nombre Fondo": "IF Extra Conservador Soles FMIV",
+      "Fecha": "43181",
+      "Valor": "132.54639999999989",
+      "Calculado": "132.54639999999989"
+    },
+    {
+      "Nombre Fondo": "IF Extra Conservador Soles FMIV",
+      "Fecha": "43182",
+      "Valor": "132.6963999999999",
+      "Calculado": "132.6963999999999"
+    },
+    {
+      "Nombre Fondo": "IF Extra Conservador Soles FMIV",
+      "Fecha": "43183",
+      "Valor": "132.8463999999999",
+      "Calculado": "132.8463999999999"
+    },
+    {
+      "Nombre Fondo": "IF Extra Conservador Soles FMIV",
+      "Fecha": "43184",
+      "Valor": "132.99639999999991",
+      "Calculado": "132.99639999999991"
+    },
+    {
+      "Nombre Fondo": "IF Extra Conservador Soles FMIV",
+      "Fecha": "43185",
+      "Valor": "133.14639999999991",
+      "Calculado": "133.14639999999991"
+    },
+    {
+      "Nombre Fondo": "IF Extra Conservador Soles FMIV",
+      "Fecha": "43186",
+      "Valor": "133.29639999999992",
+      "Calculado": "133.29639999999992"
+    },
+    {
+      "Nombre Fondo": "IF Extra Conservador Soles FMIV",
+      "Fecha": "43187",
+      "Valor": "133.44639999999993",
+      "Calculado": "133.44639999999993"
+    },
+    {
+      "Nombre Fondo": "IF Extra Conservador Soles FMIV",
+      "Fecha": "43188",
+      "Valor": "133.59639999999993",
+      "Calculado": "133.59639999999993"
+    },
+    {
+      "Nombre Fondo": "IF Extra Conservador Soles FMIV",
+      "Fecha": "43189",
+      "Valor": "133.74639999999994",
+      "Calculado": "133.74639999999994"
+    },
+    {
+      "Nombre Fondo": "IF Extra Conservador Soles FMIV",
+      "Fecha": "43190",
+      "Valor": "133.89639999999994",
+      "Calculado": "133.89639999999994"
+    },
+    {
+      "Nombre Fondo": "IF Extra Conservador Soles FMIV",
+      "Fecha": "43191",
+      "Valor": "134.04639999999995",
+      "Calculado": "134.04639999999995"
+    },
+    {
+      "Nombre Fondo": "IF Extra Conservador Soles FMIV",
+      "Fecha": "43192",
+      "Valor": "134.19639999999995",
+      "Calculado": "134.19639999999995"
+    },
+    {
+      "Nombre Fondo": "IF Extra Conservador Soles FMIV",
+      "Fecha": "43193",
+      "Valor": "134.34639999999996",
+      "Calculado": "134.34639999999996"
+    },
+    {
+      "Nombre Fondo": "IF Extra Conservador Soles FMIV",
+      "Fecha": "43194",
+      "Valor": "134.49639999999997",
+      "Calculado": "134.49639999999997"
+    },
+    {
+      "Nombre Fondo": "IF Extra Conservador Soles FMIV",
+      "Fecha": "43195",
+      "Valor": "134.64639999999997",
+      "Calculado": "134.64639999999997"
+    },
+    {
+      "Nombre Fondo": "IF Extra Conservador Soles FMIV",
+      "Fecha": "43196",
+      "Valor": "134.79639999999998",
+      "Calculado": "134.79639999999998"
+    },
+    {
+      "Nombre Fondo": "IF Extra Conservador Soles FMIV",
+      "Fecha": "43197",
+      "Valor": "134.94639999999998",
+      "Calculado": "134.94639999999998"
+    },
+    {
+      "Nombre Fondo": "IF Extra Conservador Soles FMIV",
+      "Fecha": "43198",
+      "Valor": "135.09639999999999",
+      "Calculado": "135.09639999999999"
+    },
+    {
+      "Nombre Fondo": "IF Extra Conservador Soles FMIV",
+      "Fecha": "43199",
+      "Valor": "135.24639999999999",
+      "Calculado": "135.24639999999999"
+    },
+    {
+      "Nombre Fondo": "IF Extra Conservador Soles FMIV",
+      "Fecha": "43200",
+      "Valor": "135.3964",
+      "Calculado": "135.3964"
+    },
+    {
+      "Nombre Fondo": "IF Extra Conservador Soles FMIV",
+      "Fecha": "43201",
+      "Valor": "135.54640000000001",
+      "Calculado": "135.54640000000001"
+    },
+    {
+      "Nombre Fondo": "IF Mixto Balanceado FMIV",
+      "Fecha": "43160",
+      "Valor": "59.431699999999985",
+      "Calculado": "59.431699999999985"
+    },
+    {
+      "Nombre Fondo": "IF Mixto Balanceado FMIV",
+      "Fecha": "43161",
+      "Valor": "59.581699999999984",
+      "Calculado": "59.581699999999984"
+    },
+    {
+      "Nombre Fondo": "IF Mixto Balanceado FMIV",
+      "Fecha": "43162",
+      "Valor": "59.731699999999982",
+      "Calculado": "59.731699999999982"
+    },
+    {
+      "Nombre Fondo": "IF Mixto Balanceado FMIV",
+      "Fecha": "43163",
+      "Valor": "59.881699999999981",
+      "Calculado": "59.881699999999981"
+    },
+    {
+      "Nombre Fondo": "IF Mixto Balanceado FMIV",
+      "Fecha": "43164",
+      "Valor": "60.031699999999979",
+      "Calculado": "60.031699999999979"
+    },
+    {
+      "Nombre Fondo": "IF Mixto Balanceado FMIV",
+      "Fecha": "43165",
+      "Valor": "60.181699999999978",
+      "Calculado": "60.181699999999978"
+    },
+    {
+      "Nombre Fondo": "IF Mixto Balanceado FMIV",
+      "Fecha": "43166",
+      "Valor": "60.331699999999977",
+      "Calculado": "60.331699999999977"
+    },
+    {
+      "Nombre Fondo": "IF Mixto Balanceado FMIV",
+      "Fecha": "43167",
+      "Valor": "60.481699999999975",
+      "Calculado": "60.481699999999975"
+    },
+    {
+      "Nombre Fondo": "IF Mixto Balanceado FMIV",
+      "Fecha": "43168",
+      "Valor": "60.631699999999974",
+      "Calculado": "60.631699999999974"
+    },
+    {
+      "Nombre Fondo": "IF Mixto Balanceado FMIV",
+      "Fecha": "43169",
+      "Valor": "60.781699999999972",
+      "Calculado": "60.781699999999972"
+    },
+    {
+      "Nombre Fondo": "IF Mixto Balanceado FMIV",
+      "Fecha": "43170",
+      "Valor": "60.931699999999971",
+      "Calculado": "60.931699999999971"
+    },
+    {
+      "Nombre Fondo": "IF Mixto Balanceado FMIV",
+      "Fecha": "43171",
+      "Valor": "61.081699999999969",
+      "Calculado": "61.081699999999969"
+    },
+    {
+      "Nombre Fondo": "IF Mixto Balanceado FMIV",
+      "Fecha": "43172",
+      "Valor": "61.231699999999968",
+      "Calculado": "61.231699999999968"
+    },
+    {
+      "Nombre Fondo": "IF Mixto Balanceado FMIV",
+      "Fecha": "43173",
+      "Valor": "61.381699999999967",
+      "Calculado": "61.381699999999967"
+    },
+    {
+      "Nombre Fondo": "IF Mixto Balanceado FMIV",
+      "Fecha": "43174",
+      "Valor": "61.531699999999965",
+      "Calculado": "61.531699999999965"
+    },
+    {
+      "Nombre Fondo": "IF Mixto Balanceado FMIV",
+      "Fecha": "43175",
+      "Valor": "61.681699999999964",
+      "Calculado": "61.681699999999964"
+    },
+    {
+      "Nombre Fondo": "IF Mixto Balanceado FMIV",
+      "Fecha": "43176",
+      "Valor": "61.831699999999962",
+      "Calculado": "61.831699999999962"
+    },
+    {
+      "Nombre Fondo": "IF Mixto Balanceado FMIV",
+      "Fecha": "43177",
+      "Valor": "61.981699999999961",
+      "Calculado": "61.981699999999961"
+    },
+    {
+      "Nombre Fondo": "IF Mixto Balanceado FMIV",
+      "Fecha": "43178",
+      "Valor": "62.13169999999996",
+      "Calculado": "62.13169999999996"
+    },
+    {
+      "Nombre Fondo": "IF Mixto Balanceado FMIV",
+      "Fecha": "43179",
+      "Valor": "62.281699999999958",
+      "Calculado": "62.281699999999958"
+    },
+    {
+      "Nombre Fondo": "IF Mixto Balanceado FMIV",
+      "Fecha": "43180",
+      "Valor": "62.431699999999957",
+      "Calculado": "62.431699999999957"
+    },
+    {
+      "Nombre Fondo": "IF Mixto Balanceado FMIV",
+      "Fecha": "43181",
+      "Valor": "62.581699999999955",
+      "Calculado": "62.581699999999955"
+    },
+    {
+      "Nombre Fondo": "IF Mixto Balanceado FMIV",
+      "Fecha": "43182",
+      "Valor": "62.731699999999954",
+      "Calculado": "62.731699999999954"
+    },
+    {
+      "Nombre Fondo": "IF Mixto Balanceado FMIV",
+      "Fecha": "43183",
+      "Valor": "62.881699999999952",
+      "Calculado": "62.881699999999952"
+    },
+    {
+      "Nombre Fondo": "IF Mixto Balanceado FMIV",
+      "Fecha": "43184",
+      "Valor": "63.031699999999951",
+      "Calculado": "63.031699999999951"
+    },
+    {
+      "Nombre Fondo": "IF Mixto Balanceado FMIV",
+      "Fecha": "43185",
+      "Valor": "63.18169999999995",
+      "Calculado": "63.18169999999995"
+    },
+    {
+      "Nombre Fondo": "IF Mixto Balanceado FMIV",
+      "Fecha": "43186",
+      "Valor": "63.331699999999948",
+      "Calculado": "63.331699999999948"
+    },
+    {
+      "Nombre Fondo": "IF Mixto Balanceado FMIV",
+      "Fecha": "43187",
+      "Valor": "63.481699999999947",
+      "Calculado": "63.481699999999947"
+    },
+    {
+      "Nombre Fondo": "IF Mixto Balanceado FMIV",
+      "Fecha": "43188",
+      "Valor": "63.631699999999945",
+      "Calculado": "63.631699999999945"
+    },
+    {
+      "Nombre Fondo": "IF Mixto Balanceado FMIV",
+      "Fecha": "43189",
+      "Valor": "63.781699999999944",
+      "Calculado": "63.781699999999944"
+    },
+    {
+      "Nombre Fondo": "IF Mixto Balanceado FMIV",
+      "Fecha": "43190",
+      "Valor": "63.931699999999942",
+      "Calculado": "63.931699999999942"
+    },
+    {
+      "Nombre Fondo": "IF Mixto Balanceado FMIV",
+      "Fecha": "43191",
+      "Valor": "64.081699999999941",
+      "Calculado": "64.081699999999941"
+    },
+    {
+      "Nombre Fondo": "IF Mixto Balanceado FMIV",
+      "Fecha": "43192",
+      "Valor": "64.231699999999947",
+      "Calculado": "64.231699999999947"
+    },
+    {
+      "Nombre Fondo": "IF Mixto Balanceado FMIV",
+      "Fecha": "43193",
+      "Valor": "64.381699999999952",
+      "Calculado": "64.381699999999952"
+    },
+    {
+      "Nombre Fondo": "IF Mixto Balanceado FMIV",
+      "Fecha": "43194",
+      "Valor": "64.531699999999958",
+      "Calculado": "64.531699999999958"
+    },
+    {
+      "Nombre Fondo": "IF Mixto Balanceado FMIV",
+      "Fecha": "43195",
+      "Valor": "64.681699999999964",
+      "Calculado": "64.681699999999964"
+    },
+    {
+      "Nombre Fondo": "IF Mixto Balanceado FMIV",
+      "Fecha": "43196",
+      "Valor": "64.831699999999969",
+      "Calculado": "64.831699999999969"
+    },
+    {
+      "Nombre Fondo": "IF Mixto Balanceado FMIV",
+      "Fecha": "43197",
+      "Valor": "64.981699999999975",
+      "Calculado": "64.981699999999975"
+    },
+    {
+      "Nombre Fondo": "IF Mixto Balanceado FMIV",
+      "Fecha": "43198",
+      "Valor": "65.131699999999981",
+      "Calculado": "65.131699999999981"
+    },
+    {
+      "Nombre Fondo": "IF Mixto Balanceado FMIV",
+      "Fecha": "43199",
+      "Valor": "65.281699999999987",
+      "Calculado": "65.281699999999987"
+    },
+    {
+      "Nombre Fondo": "IF Mixto Balanceado FMIV",
+      "Fecha": "43200",
+      "Valor": "65.431699999999992",
+      "Calculado": "65.431699999999992"
+    },
+    {
+      "Nombre Fondo": "IF Mixto Balanceado FMIV",
+      "Fecha": "43201",
+      "Valor": "65.581699999999998",
+      "Calculado": "65.581699999999998"
+    },
+    {
+      "Nombre Fondo": "IF Cash FMIV",
+      "Fecha": "43160",
+      "Valor": "67.078499999999764",
+      "Calculado": "67.078499999999764"
+    },
+    {
+      "Nombre Fondo": "IF Cash FMIV",
+      "Fecha": "43161",
+      "Valor": "67.228499999999769",
+      "Calculado": "67.228499999999769"
+    },
+    {
+      "Nombre Fondo": "IF Cash FMIV",
+      "Fecha": "43162",
+      "Valor": "67.378499999999775",
+      "Calculado": "67.378499999999775"
+    },
+    {
+      "Nombre Fondo": "IF Cash FMIV",
+      "Fecha": "43163",
+      "Valor": "67.528499999999781",
+      "Calculado": "67.528499999999781"
+    },
+    {
+      "Nombre Fondo": "IF Cash FMIV",
+      "Fecha": "43164",
+      "Valor": "67.678499999999786",
+      "Calculado": "67.678499999999786"
+    },
+    {
+      "Nombre Fondo": "IF Cash FMIV",
+      "Fecha": "43165",
+      "Valor": "67.828499999999792",
+      "Calculado": "67.828499999999792"
+    },
+    {
+      "Nombre Fondo": "IF Cash FMIV",
+      "Fecha": "43166",
+      "Valor": "67.978499999999798",
+      "Calculado": "67.978499999999798"
+    },
+    {
+      "Nombre Fondo": "IF Cash FMIV",
+      "Fecha": "43167",
+      "Valor": "68.128499999999804",
+      "Calculado": "68.128499999999804"
+    },
+    {
+      "Nombre Fondo": "IF Cash FMIV",
+      "Fecha": "43168",
+      "Valor": "68.278499999999809",
+      "Calculado": "68.278499999999809"
+    },
+    {
+      "Nombre Fondo": "IF Cash FMIV",
+      "Fecha": "43169",
+      "Valor": "68.428499999999815",
+      "Calculado": "68.428499999999815"
+    },
+    {
+      "Nombre Fondo": "IF Cash FMIV",
+      "Fecha": "43170",
+      "Valor": "68.578499999999821",
+      "Calculado": "68.578499999999821"
+    },
+    {
+      "Nombre Fondo": "IF Cash FMIV",
+      "Fecha": "43171",
+      "Valor": "68.728499999999826",
+      "Calculado": "68.728499999999826"
+    },
+    {
+      "Nombre Fondo": "IF Cash FMIV",
+      "Fecha": "43172",
+      "Valor": "68.878499999999832",
+      "Calculado": "68.878499999999832"
+    },
+    {
+      "Nombre Fondo": "IF Cash FMIV",
+      "Fecha": "43173",
+      "Valor": "69.028499999999838",
+      "Calculado": "69.028499999999838"
+    },
+    {
+      "Nombre Fondo": "IF Cash FMIV",
+      "Fecha": "43174",
+      "Valor": "69.178499999999843",
+      "Calculado": "69.178499999999843"
+    },
+    {
+      "Nombre Fondo": "IF Cash FMIV",
+      "Fecha": "43175",
+      "Valor": "69.328499999999849",
+      "Calculado": "69.328499999999849"
+    },
+    {
+      "Nombre Fondo": "IF Cash FMIV",
+      "Fecha": "43176",
+      "Valor": "69.478499999999855",
+      "Calculado": "69.478499999999855"
+    },
+    {
+      "Nombre Fondo": "IF Cash FMIV",
+      "Fecha": "43177",
+      "Valor": "69.62849999999986",
+      "Calculado": "69.62849999999986"
+    },
+    {
+      "Nombre Fondo": "IF Cash FMIV",
+      "Fecha": "43178",
+      "Valor": "69.778499999999866",
+      "Calculado": "69.778499999999866"
+    },
+    {
+      "Nombre Fondo": "IF Cash FMIV",
+      "Fecha": "43179",
+      "Valor": "69.928499999999872",
+      "Calculado": "69.928499999999872"
+    },
+    {
+      "Nombre Fondo": "IF Cash FMIV",
+      "Fecha": "43180",
+      "Valor": "70.078499999999877",
+      "Calculado": "70.078499999999877"
+    },
+    {
+      "Nombre Fondo": "IF Cash FMIV",
+      "Fecha": "43181",
+      "Valor": "70.228499999999883",
+      "Calculado": "70.228499999999883"
+    },
+    {
+      "Nombre Fondo": "IF Cash FMIV",
+      "Fecha": "43182",
+      "Valor": "70.378499999999889",
+      "Calculado": "70.378499999999889"
+    },
+    {
+      "Nombre Fondo": "IF Cash FMIV",
+      "Fecha": "43183",
+      "Valor": "70.528499999999894",
+      "Calculado": "70.528499999999894"
+    },
+    {
+      "Nombre Fondo": "IF Cash FMIV",
+      "Fecha": "43184",
+      "Valor": "70.6784999999999",
+      "Calculado": "70.6784999999999"
+    },
+    {
+      "Nombre Fondo": "IF Cash FMIV",
+      "Fecha": "43185",
+      "Valor": "70.828499999999906",
+      "Calculado": "70.828499999999906"
+    },
+    {
+      "Nombre Fondo": "IF Cash FMIV",
+      "Fecha": "43186",
+      "Valor": "70.978499999999912",
+      "Calculado": "70.978499999999912"
+    },
+    {
+      "Nombre Fondo": "IF Cash FMIV",
+      "Fecha": "43187",
+      "Valor": "71.128499999999917",
+      "Calculado": "71.128499999999917"
+    },
+    {
+      "Nombre Fondo": "IF Cash FMIV",
+      "Fecha": "43188",
+      "Valor": "71.278499999999923",
+      "Calculado": "71.278499999999923"
+    },
+    {
+      "Nombre Fondo": "IF Cash FMIV",
+      "Fecha": "43189",
+      "Valor": "71.428499999999929",
+      "Calculado": "71.428499999999929"
+    },
+    {
+      "Nombre Fondo": "IF Cash FMIV",
+      "Fecha": "43190",
+      "Valor": "71.578499999999934",
+      "Calculado": "71.578499999999934"
+    },
+    {
+      "Nombre Fondo": "IF Cash FMIV",
+      "Fecha": "43191",
+      "Valor": "71.72849999999994",
+      "Calculado": "71.72849999999994"
+    },
+    {
+      "Nombre Fondo": "IF Cash FMIV",
+      "Fecha": "43192",
+      "Valor": "71.878499999999946",
+      "Calculado": "71.878499999999946"
+    },
+    {
+      "Nombre Fondo": "IF Cash FMIV",
+      "Fecha": "43193",
+      "Valor": "72.028499999999951",
+      "Calculado": "72.028499999999951"
+    },
+    {
+      "Nombre Fondo": "IF Cash FMIV",
+      "Fecha": "43194",
+      "Valor": "72.178499999999957",
+      "Calculado": "72.178499999999957"
+    },
+    {
+      "Nombre Fondo": "IF Cash FMIV",
+      "Fecha": "43195",
+      "Valor": "72.328499999999963",
+      "Calculado": "72.328499999999963"
+    },
+    {
+      "Nombre Fondo": "IF Cash FMIV",
+      "Fecha": "43196",
+      "Valor": "72.478499999999968",
+      "Calculado": "72.478499999999968"
+    },
+    {
+      "Nombre Fondo": "IF Cash FMIV",
+      "Fecha": "43197",
+      "Valor": "72.628499999999974",
+      "Calculado": "72.628499999999974"
+    },
+    {
+      "Nombre Fondo": "IF Cash FMIV",
+      "Fecha": "43198",
+      "Valor": "72.77849999999998",
+      "Calculado": "72.77849999999998"
+    },
+    {
+      "Nombre Fondo": "IF Cash FMIV",
+      "Fecha": "43199",
+      "Valor": "72.928499999999985",
+      "Calculado": "72.928499999999985"
+    },
+    {
+      "Nombre Fondo": "IF Cash FMIV",
+      "Fecha": "43200",
+      "Valor": "73.078499999999991",
+      "Calculado": "73.078499999999991"
+    },
+    {
+      "Nombre Fondo": "IF Cash FMIV",
+      "Fecha": "43201",
+      "Valor": "73.228499999999997",
+      "Calculado": "73.228499999999997"
+    },
+    {
+      "Nombre Fondo": "IF Acciones FMIV",
+      "Fecha": "43160",
+      "Valor": "93.161199999999766",
+      "Calculado": "93.161199999999766"
+    },
+    {
+      "Nombre Fondo": "IF Acciones FMIV",
+      "Fecha": "43161",
+      "Valor": "93.311199999999772",
+      "Calculado": "93.311199999999772"
+    },
+    {
+      "Nombre Fondo": "IF Acciones FMIV",
+      "Fecha": "43162",
+      "Valor": "93.461199999999778",
+      "Calculado": "93.461199999999778"
+    },
+    {
+      "Nombre Fondo": "IF Acciones FMIV",
+      "Fecha": "43163",
+      "Valor": "93.611199999999783",
+      "Calculado": "93.611199999999783"
+    },
+    {
+      "Nombre Fondo": "IF Acciones FMIV",
+      "Fecha": "43164",
+      "Valor": "93.761199999999789",
+      "Calculado": "93.761199999999789"
+    },
+    {
+      "Nombre Fondo": "IF Acciones FMIV",
+      "Fecha": "43165",
+      "Valor": "93.911199999999795",
+      "Calculado": "93.911199999999795"
+    },
+    {
+      "Nombre Fondo": "IF Acciones FMIV",
+      "Fecha": "43166",
+      "Valor": "94.061199999999801",
+      "Calculado": "94.061199999999801"
+    },
+    {
+      "Nombre Fondo": "IF Acciones FMIV",
+      "Fecha": "43167",
+      "Valor": "94.211199999999806",
+      "Calculado": "94.211199999999806"
+    },
+    {
+      "Nombre Fondo": "IF Acciones FMIV",
+      "Fecha": "43168",
+      "Valor": "94.361199999999812",
+      "Calculado": "94.361199999999812"
+    },
+    {
+      "Nombre Fondo": "IF Acciones FMIV",
+      "Fecha": "43169",
+      "Valor": "94.511199999999818",
+      "Calculado": "94.511199999999818"
+    },
+    {
+      "Nombre Fondo": "IF Acciones FMIV",
+      "Fecha": "43170",
+      "Valor": "94.661199999999823",
+      "Calculado": "94.661199999999823"
+    },
+    {
+      "Nombre Fondo": "IF Acciones FMIV",
+      "Fecha": "43171",
+      "Valor": "94.811199999999829",
+      "Calculado": "94.811199999999829"
+    },
+    {
+      "Nombre Fondo": "IF Acciones FMIV",
+      "Fecha": "43172",
+      "Valor": "94.961199999999835",
+      "Calculado": "94.961199999999835"
+    },
+    {
+      "Nombre Fondo": "IF Acciones FMIV",
+      "Fecha": "43173",
+      "Valor": "95.11119999999984",
+      "Calculado": "95.11119999999984"
+    },
+    {
+      "Nombre Fondo": "IF Acciones FMIV",
+      "Fecha": "43174",
+      "Valor": "95.261199999999846",
+      "Calculado": "95.261199999999846"
+    },
+    {
+      "Nombre Fondo": "IF Acciones FMIV",
+      "Fecha": "43175",
+      "Valor": "95.411199999999852",
+      "Calculado": "95.411199999999852"
+    },
+    {
+      "Nombre Fondo": "IF Acciones FMIV",
+      "Fecha": "43176",
+      "Valor": "95.561199999999857",
+      "Calculado": "95.561199999999857"
+    },
+    {
+      "Nombre Fondo": "IF Acciones FMIV",
+      "Fecha": "43177",
+      "Valor": "95.711199999999863",
+      "Calculado": "95.711199999999863"
+    },
+    {
+      "Nombre Fondo": "IF Acciones FMIV",
+      "Fecha": "43178",
+      "Valor": "95.861199999999869",
+      "Calculado": "95.861199999999869"
+    },
+    {
+      "Nombre Fondo": "IF Acciones FMIV",
+      "Fecha": "43179",
+      "Valor": "96.011199999999874",
+      "Calculado": "96.011199999999874"
+    },
+    {
+      "Nombre Fondo": "IF Acciones FMIV",
+      "Fecha": "43180",
+      "Valor": "96.16119999999988",
+      "Calculado": "96.16119999999988"
+    },
+    {
+      "Nombre Fondo": "IF Acciones FMIV",
+      "Fecha": "43181",
+      "Valor": "96.311199999999886",
+      "Calculado": "96.311199999999886"
+    },
+    {
+      "Nombre Fondo": "IF Acciones FMIV",
+      "Fecha": "43182",
+      "Valor": "96.461199999999891",
+      "Calculado": "96.461199999999891"
+    },
+    {
+      "Nombre Fondo": "IF Acciones FMIV",
+      "Fecha": "43183",
+      "Valor": "96.611199999999897",
+      "Calculado": "96.611199999999897"
+    },
+    {
+      "Nombre Fondo": "IF Acciones FMIV",
+      "Fecha": "43184",
+      "Valor": "96.761199999999903",
+      "Calculado": "96.761199999999903"
+    },
+    {
+      "Nombre Fondo": "IF Acciones FMIV",
+      "Fecha": "43185",
+      "Valor": "96.911199999999909",
+      "Calculado": "96.911199999999909"
+    },
+    {
+      "Nombre Fondo": "IF Acciones FMIV",
+      "Fecha": "43186",
+      "Valor": "97.061199999999914",
+      "Calculado": "97.061199999999914"
+    },
+    {
+      "Nombre Fondo": "IF Acciones FMIV",
+      "Fecha": "43187",
+      "Valor": "97.21119999999992",
+      "Calculado": "97.21119999999992"
+    },
+    {
+      "Nombre Fondo": "IF Acciones FMIV",
+      "Fecha": "43188",
+      "Valor": "97.361199999999926",
+      "Calculado": "97.361199999999926"
+    },
+    {
+      "Nombre Fondo": "IF Acciones FMIV",
+      "Fecha": "43189",
+      "Valor": "97.511199999999931",
+      "Calculado": "97.511199999999931"
+    },
+    {
+      "Nombre Fondo": "IF Acciones FMIV",
+      "Fecha": "43190",
+      "Valor": "97.661199999999937",
+      "Calculado": "97.661199999999937"
+    },
+    {
+      "Nombre Fondo": "IF Acciones FMIV",
+      "Fecha": "43191",
+      "Valor": "97.811199999999943",
+      "Calculado": "97.811199999999943"
+    },
+    {
+      "Nombre Fondo": "IF Acciones FMIV",
+      "Fecha": "43192",
+      "Valor": "97.961199999999948",
+      "Calculado": "97.961199999999948"
+    },
+    {
+      "Nombre Fondo": "IF Acciones FMIV",
+      "Fecha": "43193",
+      "Valor": "98.111199999999954",
+      "Calculado": "98.111199999999954"
+    },
+    {
+      "Nombre Fondo": "IF Acciones FMIV",
+      "Fecha": "43194",
+      "Valor": "98.26119999999996",
+      "Calculado": "98.26119999999996"
+    },
+    {
+      "Nombre Fondo": "IF Acciones FMIV",
+      "Fecha": "43195",
+      "Valor": "98.411199999999965",
+      "Calculado": "98.411199999999965"
+    },
+    {
+      "Nombre Fondo": "IF Acciones FMIV",
+      "Fecha": "43196",
+      "Valor": "98.561199999999971",
+      "Calculado": "98.561199999999971"
+    },
+    {
+      "Nombre Fondo": "IF Acciones FMIV",
+      "Fecha": "43197",
+      "Valor": "98.711199999999977",
+      "Calculado": "98.711199999999977"
+    },
+    {
+      "Nombre Fondo": "IF Acciones FMIV",
+      "Fecha": "43198",
+      "Valor": "98.861199999999982",
+      "Calculado": "98.861199999999982"
+    },
+    {
+      "Nombre Fondo": "IF Acciones FMIV",
+      "Fecha": "43199",
+      "Valor": "99.011199999999988",
+      "Calculado": "99.011199999999988"
+    },
+    {
+      "Nombre Fondo": "IF Acciones FMIV",
+      "Fecha": "43200",
+      "Valor": "99.161199999999994",
+      "Calculado": "99.161199999999994"
+    },
+    {
+      "Nombre Fondo": "IF Acciones FMIV",
+      "Fecha": "43201",
+      "Valor": "99.311199999999999",
+      "Calculado": "99.311199999999999"
+    },
+    {
+      "Nombre Fondo": "IF Mixto Moderado Soles FMIV",
+      "Fecha": "43160",
+      "Valor": "128.84879999999976",
+      "Calculado": "128.84879999999976"
+    },
+    {
+      "Nombre Fondo": "IF Mixto Moderado Soles FMIV",
+      "Fecha": "43161",
+      "Valor": "128.99879999999976",
+      "Calculado": "128.99879999999976"
+    },
+    {
+      "Nombre Fondo": "IF Mixto Moderado Soles FMIV",
+      "Fecha": "43162",
+      "Valor": "129.14879999999977",
+      "Calculado": "129.14879999999977"
+    },
+    {
+      "Nombre Fondo": "IF Mixto Moderado Soles FMIV",
+      "Fecha": "43163",
+      "Valor": "129.29879999999977",
+      "Calculado": "129.29879999999977"
+    },
+    {
+      "Nombre Fondo": "IF Mixto Moderado Soles FMIV",
+      "Fecha": "43164",
+      "Valor": "129.44879999999978",
+      "Calculado": "129.44879999999978"
+    },
+    {
+      "Nombre Fondo": "IF Mixto Moderado Soles FMIV",
+      "Fecha": "43165",
+      "Valor": "129.59879999999978",
+      "Calculado": "129.59879999999978"
+    },
+    {
+      "Nombre Fondo": "IF Mixto Moderado Soles FMIV",
+      "Fecha": "43166",
+      "Valor": "129.74879999999979",
+      "Calculado": "129.74879999999979"
+    },
+    {
+      "Nombre Fondo": "IF Mixto Moderado Soles FMIV",
+      "Fecha": "43167",
+      "Valor": "129.8987999999998",
+      "Calculado": "129.8987999999998"
+    },
+    {
+      "Nombre Fondo": "IF Mixto Moderado Soles FMIV",
+      "Fecha": "43168",
+      "Valor": "130.0487999999998",
+      "Calculado": "130.0487999999998"
+    },
+    {
+      "Nombre Fondo": "IF Mixto Moderado Soles FMIV",
+      "Fecha": "43169",
+      "Valor": "130.19879999999981",
+      "Calculado": "130.19879999999981"
+    },
+    {
+      "Nombre Fondo": "IF Mixto Moderado Soles FMIV",
+      "Fecha": "43170",
+      "Valor": "130.34879999999981",
+      "Calculado": "130.34879999999981"
+    },
+    {
+      "Nombre Fondo": "IF Mixto Moderado Soles FMIV",
+      "Fecha": "43171",
+      "Valor": "130.49879999999982",
+      "Calculado": "130.49879999999982"
+    },
+    {
+      "Nombre Fondo": "IF Mixto Moderado Soles FMIV",
+      "Fecha": "43172",
+      "Valor": "130.64879999999982",
+      "Calculado": "130.64879999999982"
+    },
+    {
+      "Nombre Fondo": "IF Mixto Moderado Soles FMIV",
+      "Fecha": "43173",
+      "Valor": "130.79879999999983",
+      "Calculado": "130.79879999999983"
+    },
+    {
+      "Nombre Fondo": "IF Mixto Moderado Soles FMIV",
+      "Fecha": "43174",
+      "Valor": "130.94879999999984",
+      "Calculado": "130.94879999999984"
+    },
+    {
+      "Nombre Fondo": "IF Mixto Moderado Soles FMIV",
+      "Fecha": "43175",
+      "Valor": "131.09879999999984",
+      "Calculado": "131.09879999999984"
+    },
+    {
+      "Nombre Fondo": "IF Mixto Moderado Soles FMIV",
+      "Fecha": "43176",
+      "Valor": "131.24879999999985",
+      "Calculado": "131.24879999999985"
+    },
+    {
+      "Nombre Fondo": "IF Mixto Moderado Soles FMIV",
+      "Fecha": "43177",
+      "Valor": "131.39879999999985",
+      "Calculado": "131.39879999999985"
+    },
+    {
+      "Nombre Fondo": "IF Mixto Moderado Soles FMIV",
+      "Fecha": "43178",
+      "Valor": "131.54879999999986",
+      "Calculado": "131.54879999999986"
+    },
+    {
+      "Nombre Fondo": "IF Mixto Moderado Soles FMIV",
+      "Fecha": "43179",
+      "Valor": "131.69879999999986",
+      "Calculado": "131.69879999999986"
+    },
+    {
+      "Nombre Fondo": "IF Mixto Moderado Soles FMIV",
+      "Fecha": "43180",
+      "Valor": "131.84879999999987",
+      "Calculado": "131.84879999999987"
+    },
+    {
+      "Nombre Fondo": "IF Mixto Moderado Soles FMIV",
+      "Fecha": "43181",
+      "Valor": "131.99879999999987",
+      "Calculado": "131.99879999999987"
+    },
+    {
+      "Nombre Fondo": "IF Mixto Moderado Soles FMIV",
+      "Fecha": "43182",
+      "Valor": "132.14879999999988",
+      "Calculado": "132.14879999999988"
+    },
+    {
+      "Nombre Fondo": "IF Mixto Moderado Soles FMIV",
+      "Fecha": "43183",
+      "Valor": "132.29879999999989",
+      "Calculado": "132.29879999999989"
+    },
+    {
+      "Nombre Fondo": "IF Mixto Moderado Soles FMIV",
+      "Fecha": "43184",
+      "Valor": "132.44879999999989",
+      "Calculado": "132.44879999999989"
+    },
+    {
+      "Nombre Fondo": "IF Mixto Moderado Soles FMIV",
+      "Fecha": "43185",
+      "Valor": "132.5987999999999",
+      "Calculado": "132.5987999999999"
+    },
+    {
+      "Nombre Fondo": "IF Mixto Moderado Soles FMIV",
+      "Fecha": "43186",
+      "Valor": "132.7487999999999",
+      "Calculado": "132.7487999999999"
+    },
+    {
+      "Nombre Fondo": "IF Mixto Moderado Soles FMIV",
+      "Fecha": "43187",
+      "Valor": "132.89879999999991",
+      "Calculado": "132.89879999999991"
+    },
+    {
+      "Nombre Fondo": "IF Mixto Moderado Soles FMIV",
+      "Fecha": "43188",
+      "Valor": "133.04879999999991",
+      "Calculado": "133.04879999999991"
+    },
+    {
+      "Nombre Fondo": "IF Mixto Moderado Soles FMIV",
+      "Fecha": "43189",
+      "Valor": "133.19879999999992",
+      "Calculado": "133.19879999999992"
+    },
+    {
+      "Nombre Fondo": "IF Mixto Moderado Soles FMIV",
+      "Fecha": "43190",
+      "Valor": "133.34879999999993",
+      "Calculado": "133.34879999999993"
+    },
+    {
+      "Nombre Fondo": "IF Mixto Moderado Soles FMIV",
+      "Fecha": "43191",
+      "Valor": "133.49879999999993",
+      "Calculado": "133.49879999999993"
+    },
+    {
+      "Nombre Fondo": "IF Mixto Moderado Soles FMIV",
+      "Fecha": "43192",
+      "Valor": "133.64879999999994",
+      "Calculado": "133.64879999999994"
+    },
+    {
+      "Nombre Fondo": "IF Mixto Moderado Soles FMIV",
+      "Fecha": "43193",
+      "Valor": "133.79879999999994",
+      "Calculado": "133.79879999999994"
+    },
+    {
+      "Nombre Fondo": "IF Mixto Moderado Soles FMIV",
+      "Fecha": "43194",
+      "Valor": "133.94879999999995",
+      "Calculado": "133.94879999999995"
+    },
+    {
+      "Nombre Fondo": "IF Mixto Moderado Soles FMIV",
+      "Fecha": "43195",
+      "Valor": "134.09879999999995",
+      "Calculado": "134.09879999999995"
+    },
+    {
+      "Nombre Fondo": "IF Mixto Moderado Soles FMIV",
+      "Fecha": "43196",
+      "Valor": "134.24879999999996",
+      "Calculado": "134.24879999999996"
+    },
+    {
+      "Nombre Fondo": "IF Mixto Moderado Soles FMIV",
+      "Fecha": "43197",
+      "Valor": "134.39879999999997",
+      "Calculado": "134.39879999999997"
+    },
+    {
+      "Nombre Fondo": "IF Mixto Moderado Soles FMIV",
+      "Fecha": "43198",
+      "Valor": "134.54879999999997",
+      "Calculado": "134.54879999999997"
+    },
+    {
+      "Nombre Fondo": "IF Mixto Moderado Soles FMIV",
+      "Fecha": "43199",
+      "Valor": "134.69879999999998",
+      "Calculado": "134.69879999999998"
+    },
+    {
+      "Nombre Fondo": "IF Mixto Moderado Soles FMIV",
+      "Fecha": "43200",
+      "Valor": "134.84879999999998",
+      "Calculado": "134.84879999999998"
+    },
+    {
+      "Nombre Fondo": "IF Mixto Moderado Soles FMIV",
+      "Fecha": "43201",
+      "Valor": "134.99879999999999",
+      "Calculado": "134.99879999999999"
+    },
+    {
+      "Nombre Fondo": "IF Portafolio Dinamico",
+      "Fecha": "43160",
+      "Valor": "46.875900000000058",
+      "Calculado": "46.875900000000058"
+    },
+    {
+      "Nombre Fondo": "IF Portafolio Dinamico",
+      "Fecha": "43161",
+      "Valor": "47.025900000000057",
+      "Calculado": "47.025900000000057"
+    },
+    {
+      "Nombre Fondo": "IF Portafolio Dinamico",
+      "Fecha": "43162",
+      "Valor": "47.175900000000055",
+      "Calculado": "47.175900000000055"
+    },
+    {
+      "Nombre Fondo": "IF Portafolio Dinamico",
+      "Fecha": "43163",
+      "Valor": "47.325900000000054",
+      "Calculado": "47.325900000000054"
+    },
+    {
+      "Nombre Fondo": "IF Portafolio Dinamico",
+      "Fecha": "43164",
+      "Valor": "47.475900000000053",
+      "Calculado": "47.475900000000053"
+    },
+    {
+      "Nombre Fondo": "IF Portafolio Dinamico",
+      "Fecha": "43165",
+      "Valor": "47.625900000000051",
+      "Calculado": "47.625900000000051"
+    },
+    {
+      "Nombre Fondo": "IF Portafolio Dinamico",
+      "Fecha": "43166",
+      "Valor": "47.77590000000005",
+      "Calculado": "47.77590000000005"
+    },
+    {
+      "Nombre Fondo": "IF Portafolio Dinamico",
+      "Fecha": "43167",
+      "Valor": "47.925900000000048",
+      "Calculado": "47.925900000000048"
+    },
+    {
+      "Nombre Fondo": "IF Portafolio Dinamico",
+      "Fecha": "43168",
+      "Valor": "48.075900000000047",
+      "Calculado": "48.075900000000047"
+    },
+    {
+      "Nombre Fondo": "IF Portafolio Dinamico",
+      "Fecha": "43169",
+      "Valor": "48.225900000000046",
+      "Calculado": "48.225900000000046"
+    },
+    {
+      "Nombre Fondo": "IF Portafolio Dinamico",
+      "Fecha": "43170",
+      "Valor": "48.375900000000044",
+      "Calculado": "48.375900000000044"
+    },
+    {
+      "Nombre Fondo": "IF Portafolio Dinamico",
+      "Fecha": "43171",
+      "Valor": "48.525900000000043",
+      "Calculado": "48.525900000000043"
+    },
+    {
+      "Nombre Fondo": "IF Portafolio Dinamico",
+      "Fecha": "43172",
+      "Valor": "48.675900000000041",
+      "Calculado": "48.675900000000041"
+    },
+    {
+      "Nombre Fondo": "IF Portafolio Dinamico",
+      "Fecha": "43173",
+      "Valor": "48.82590000000004",
+      "Calculado": "48.82590000000004"
+    },
+    {
+      "Nombre Fondo": "IF Portafolio Dinamico",
+      "Fecha": "43174",
+      "Valor": "48.975900000000038",
+      "Calculado": "48.975900000000038"
+    },
+    {
+      "Nombre Fondo": "IF Portafolio Dinamico",
+      "Fecha": "43175",
+      "Valor": "49.125900000000037",
+      "Calculado": "49.125900000000037"
+    },
+    {
+      "Nombre Fondo": "IF Portafolio Dinamico",
+      "Fecha": "43176",
+      "Valor": "49.275900000000036",
+      "Calculado": "49.275900000000036"
+    },
+    {
+      "Nombre Fondo": "IF Portafolio Dinamico",
+      "Fecha": "43177",
+      "Valor": "49.425900000000034",
+      "Calculado": "49.425900000000034"
+    },
+    {
+      "Nombre Fondo": "IF Portafolio Dinamico",
+      "Fecha": "43178",
+      "Valor": "49.575900000000033",
+      "Calculado": "49.575900000000033"
+    },
+    {
+      "Nombre Fondo": "IF Portafolio Dinamico",
+      "Fecha": "43179",
+      "Valor": "49.725900000000031",
+      "Calculado": "49.725900000000031"
+    },
+    {
+      "Nombre Fondo": "IF Portafolio Dinamico",
+      "Fecha": "43180",
+      "Valor": "49.87590000000003",
+      "Calculado": "49.87590000000003"
+    },
+    {
+      "Nombre Fondo": "IF Portafolio Dinamico",
+      "Fecha": "43181",
+      "Valor": "50.025900000000028",
+      "Calculado": "50.025900000000028"
+    },
+    {
+      "Nombre Fondo": "IF Portafolio Dinamico",
+      "Fecha": "43182",
+      "Valor": "50.175900000000027",
+      "Calculado": "50.175900000000027"
+    },
+    {
+      "Nombre Fondo": "IF Portafolio Dinamico",
+      "Fecha": "43183",
+      "Valor": "50.325900000000026",
+      "Calculado": "50.325900000000026"
+    },
+    {
+      "Nombre Fondo": "IF Portafolio Dinamico",
+      "Fecha": "43184",
+      "Valor": "50.475900000000024",
+      "Calculado": "50.475900000000024"
+    },
+    {
+      "Nombre Fondo": "IF Portafolio Dinamico",
+      "Fecha": "43185",
+      "Valor": "50.625900000000023",
+      "Calculado": "50.625900000000023"
+    },
+    {
+      "Nombre Fondo": "IF Portafolio Dinamico",
+      "Fecha": "43186",
+      "Valor": "50.775900000000021",
+      "Calculado": "50.775900000000021"
+    },
+    {
+      "Nombre Fondo": "IF Portafolio Dinamico",
+      "Fecha": "43187",
+      "Valor": "50.92590000000002",
+      "Calculado": "50.92590000000002"
+    },
+    {
+      "Nombre Fondo": "IF Portafolio Dinamico",
+      "Fecha": "43188",
+      "Valor": "51.075900000000019",
+      "Calculado": "51.075900000000019"
+    },
+    {
+      "Nombre Fondo": "IF Portafolio Dinamico",
+      "Fecha": "43189",
+      "Valor": "51.225900000000017",
+      "Calculado": "51.225900000000017"
+    },
+    {
+      "Nombre Fondo": "IF Portafolio Dinamico",
+      "Fecha": "43190",
+      "Valor": "51.375900000000016",
+      "Calculado": "51.375900000000016"
+    },
+    {
+      "Nombre Fondo": "IF Portafolio Dinamico",
+      "Fecha": "43191",
+      "Valor": "51.525900000000014",
+      "Calculado": "51.525900000000014"
+    },
+    {
+      "Nombre Fondo": "IF Portafolio Dinamico",
+      "Fecha": "43192",
+      "Valor": "51.675900000000013",
+      "Calculado": "51.675900000000013"
+    },
+    {
+      "Nombre Fondo": "IF Portafolio Dinamico",
+      "Fecha": "43193",
+      "Valor": "51.825900000000011",
+      "Calculado": "51.825900000000011"
+    },
+    {
+      "Nombre Fondo": "IF Portafolio Dinamico",
+      "Fecha": "43194",
+      "Valor": "51.97590000000001",
+      "Calculado": "51.97590000000001"
+    },
+    {
+      "Nombre Fondo": "IF Portafolio Dinamico",
+      "Fecha": "43195",
+      "Valor": "52.125900000000009",
+      "Calculado": "52.125900000000009"
+    },
+    {
+      "Nombre Fondo": "IF Portafolio Dinamico",
+      "Fecha": "43196",
+      "Valor": "52.275900000000007",
+      "Calculado": "52.275900000000007"
+    },
+    {
+      "Nombre Fondo": "IF Portafolio Dinamico",
+      "Fecha": "43197",
+      "Valor": "52.425900000000006",
+      "Calculado": "52.425900000000006"
+    },
+    {
+      "Nombre Fondo": "IF Portafolio Dinamico",
+      "Fecha": "43198",
+      "Valor": "52.575900000000004",
+      "Calculado": "52.575900000000004"
+    },
+    {
+      "Nombre Fondo": "IF Portafolio Dinamico",
+      "Fecha": "43199",
+      "Valor": "52.725900000000003",
+      "Calculado": "52.725900000000003"
+    },
+    {
+      "Nombre Fondo": "IF Portafolio Dinamico",
+      "Fecha": "43200",
+      "Valor": "52.875900000000001",
+      "Calculado": "52.875900000000001"
+    },
+    {
+      "Nombre Fondo": "IF Portafolio Dinamico",
+      "Fecha": "43201",
+      "Valor": "53.0259",
+      "Calculado": "53.0259"
+    },
+    {
+      "Nombre Fondo": ""
+    }
+  ]
+}
