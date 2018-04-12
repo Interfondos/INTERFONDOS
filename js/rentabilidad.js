@@ -13,15 +13,13 @@ $(document).ready(function() {
         }
       }
       $rentabilidad.text('s/. ' + total);
-      $porcentajeRentabilidad.text(total * 0.01 + '%');
-      
+      $porcentajeRentabilidad.text(total * 0.01 + '%');      
     }); 
   firebase.database().ref('fondos')
     .on('child_added', function(s) {
       var users = s.val();
       for (var i=0; i<users.length;i++) {
-        if (users[i].CODIGO_UNI === dni) {
-          
+        if (users[i].CODIGO_UNI === dni) {          
         }
       }
       
