@@ -1,0 +1,62 @@
+.logo {
+  width: 100px;
+  height: 50px;
+}
+.green1 {
+  background-color: #00a542;
+}
+nav{
+  background-color: #00a542;
+}
+.home .padding {
+  padding: 1rem;
+}
+.home .margin{
+  margin: 0.5rem;
+}
+.btn{
+  padding:0 1rem;
+}
+.lavander{
+  background-color:#e2f1ff;
+}
+.border-item{
+  border-radius: 5px;
+  border: solid 2px #2ec8ff;
+  padding: 0.5rem;
+  line-height: 1;
+  margin:2px 0;
+}
+.home h6{
+  font-weight: 700;
+}
+.home .cost{
+  font-weight: 700;
+}
+.tabs .tab a:hover, .tabs .tab a.active {
+  color: #00a542;
+}
+.tabs .tab a{
+  color:#00a542;
+}
+.tabs .indicator{
+  background-color:#00a542;
+}
+.box {
+  padding: 0.4rem;
+  margin: 0.4rem 0.1rem;
+}
+#donutchart {
+  width: 200px;
+}
+
+@media only screen and (min-width: 992px) {
+  
+  .home {
+      width:80%;
+      margin:auto;
+  }
+  #donutchart {
+    width: 80%;
+  }
+}
