@@ -1,3 +1,9 @@
+.home .nav-wrapper {
+  background-color: #00a542;
+}
+.home .brand-logo {
+  font-size: 1.5rem;
+}
 .logo {
   width: 100px;
   height: 50px;
