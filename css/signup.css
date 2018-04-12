@@ -3,7 +3,9 @@
 .primaryBackground {
     background-color: rgb(0,165,66);
 }
-
+.primaryBackground:hover, .primaryBackground:active {
+    background-color: rgb(0,165,66);
+}
 .primaryColor {
     color: rgb(0,165,66);
 }
