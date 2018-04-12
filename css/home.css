@@ -1,17 +1,71 @@
 .home .nav-wrapper {
   background-color: #00a542;
 }
-.home .brand-logo {
-  font-size: 1.5rem;
+.nav-wrapper img {
+  width: 15%;
+    position: relative;
+    top: 0.20rem;
+    left: 0.3rem;
 }
-.logo {
-  width: 100px;
-  height: 50px;
+.nav-wrapper a {
+  font-size: 1.3125rem;
+}
+.tusFondos {
+    height: 21px;
+    font-size: 18px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #4a4a4a;
+}
+.tienes-6-fondos-dist {
+  width: 280px;
+  /* height: 14px; */
+  font-size: 12px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #4a4a4a;
+}
+.tabs {
+  border-radius: 10px;
+  background-color: #00a542; 
+  padding: 3px !important;
+  box-sizing: border-box;
+  height: 100%;
+  overflow-x: hidden; 
+  overflow-y: auto;
+}
+
+.tabs .tab a{
+  border-radius: 6px;
+  background-color: #00a542;
+  z-index: 10000;
+  color: white !important;
+}
+
+.tabs .tab .active {
+  background-color: white !important;
+  color: #00a542 !important;
+}
+
+.tabs .indicator {
+  position: absolute;
+  bottom: 0;
+  height: 2px;
+  background-color: transparent;
+  will-change: left, right;
 }
 .green1 {
   background-color: #00a542;
 }
-nav{
+nav {
   background-color: #00a542;
 }
 .home .padding {
@@ -20,7 +74,7 @@ nav{
 .home .margin{
   margin: 0.5rem;
 }
-.btn{
+.btn { 
   padding:0 1rem;
 }
 .lavander{
