@@ -14,6 +14,9 @@
 .btn{
   padding:0 1rem;
 }
+.lavander{
+  background-color:#e2f1ff;
+}
 .border-item{
   border-radius: 5px;
   border: solid 2px #2ec8ff;
@@ -36,10 +39,14 @@
 .tabs .indicator{
   background-color:#00a542;
 }
+.box {
+  padding: 0.4rem;
+  margin: 0.4rem 0.1rem;
+}
 @media only screen and (min-width: 992px) {
   
   .home {
-      width:90%;
+      width:80%;
       margin:auto;
   }
 }
