@@ -14,12 +14,12 @@
 
 <body class="container-fluid">
     <!--================HEADER===================-->
-    <header class="primaryBackground center">
-        <img src="../assets/images/icon-interbank.png" alt="Icon Interbank" class="icon-interbank  d-inline-block mr-1">
-        <p class="white-text d-inline-block header-style">Interfondos</p>
+    <header class="signup primaryBackground center">
+        <img src="../assets/images/icon-interbank.png" alt="Icon Interbank" class="d-inline-block mr-1">
+        <p class="white-text d-inline-block m-0">Interfondos</p>
     </header>
     <!--==============MAIN======================-->
-    <main class="mt-1-5">
+    <main class="main-style">
         <!--======main header====-->
         <div class="color-text">
             <a href="#" class="color-text">
@@ -32,16 +32,16 @@
         <h4 class="letter-singup">registro</h4>
         <span>Completa la información solicitada</span>
         <div class="row">
-            <div class="col s9 offset-s2">
-                <div class="col s8">
-                    <input placeholder="Número de DNI" id="first_name" type="text">
-                </div>
-                <select class="col s4 browser-default col">
-                    <option value="1" selected>DNI</option>
-                    <option value="2">Option 2</option>
-                    <option value="3">Option 3</option>
-                </select>
-            </div>
+          <div class="col s9 offset-s2">
+              <div class="col s8">
+                  <input placeholder="Número de DNI" id="id-number" type="number">
+              </div>
+              <select class="col s4 browser-default col">
+                  <option value="1" selected>DNI</option>
+                  <option value="2">Option 2</option>
+                  <option value="3">Option 3</option>
+              </select>
+          </div>
             <p>Desea recibir mi código verificación por:</p>
             <form action="#" class="col s6 offset-s4">
                 <p>
@@ -49,12 +49,12 @@
                     <label for="test3">Correo</label>
                 </p>
                 <p>
-                    <input name="group1" type="radio" id="test4" />
+                    <input class="with-gap" name="group1" type="radio" id="test4" />
                     <label for="test4">SMS</label>
                 </p>
             </form>
         </div>
-            <a class="waves-effect waves-light btn primaryBackground">siguiente</a>
+            <a id="btn-next" class="waves-effect waves-light btn primaryBackground disabled">siguiente</a>
     </main>
     <!--=====================FOOTER====================-->
     <footer class="page-footer N/A transparent">
@@ -76,7 +76,7 @@
     <script src="http://code.jquery.com/jquery-3.3.1.min.js"></script>
     <!-- Compiled and minified JavaScript -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/js/materialize.min.js"></script>
-    <script src="../js/singup.js"></script>
+    <script src="../js/signup.js"></script>
 </body>
 
 </html>
